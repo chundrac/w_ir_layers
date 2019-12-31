@@ -1,0 +1,1228 @@
+aCwa	horse	Gurani	asp	
+arSa	bear	Gurani	haS	
+arSa	bear	Gurani	xirs	
+barzAd	height	Gurani	bAlA	
+bRzant	high	Gurani	barz	
+caTwRCat	forty	Gurani	cil	
+CyAwa	black	Gurani	siyA(u)	
+daCa	ten	Gurani	dah	
+g(a)rna-ka	flock	Gurani	gallA	
+hiJwAna	tongue	Gurani	zUAn	
+muSti	fist	Gurani	miSt	
+parna	feather	Gurani	pal	
+pRna	full	Gurani	par	
+pRtu	bridge	Gurani	pirdi	
+wahAra	spring	Gurani	vahAr	
+w(a)rda	flower	Gurani	wilI	
+wafra	snow	Gurani	varwa	
+wahuni	blood	Gurani	winI	
+wahya	good	Gurani	waS	
+waicIna?	sieve	Gurani	vicina	
+wAr	rain (n.)	Gurani	vArAn	
+warna-ka	lamb/wool	Gurani	valala	
+warna-ka	lamb/wool	Gurani	varAla	
+wAta	wind	Gurani	vA	
+wRka	wolf	Gurani	warya	
+wyAka	place	Gurani	jA	
+wyAna	life/soul	Gurani	gyAn	
+JRd	heart	Gurani	zil	
+aCwa	horse	Khunsari	asm	
+barda	spade	Khunsari	bar	
+caTwRCat	forty	Khunsari	cil	
+Cwaita	white	Khunsari	espid	
+Cwaka	dog	Khunsari	isba	
+hiJwAna	tongue	Khunsari	zebUn	
+hiJwAna	tongue	Khunsari	zevUn	
+parna	feather	Khunsari	par	‘Blatt, Blattchen’
+puTra	son	Khunsari	pIr	
+wafra	snow	Khunsari	varf	
+wahuni	blood	Khunsari	xIn	
+wAr	rain (n.)	Khunsari	vArUn	
+wara	breast	Khunsari	var	‘Seite’
+warka	leaf	Khunsari	valg	
+warna-ka	lamb/wool	Khunsari	berra	(guS)-berra ‘Lämmer-Ohr’ (plant name)
+wart-	turn	Khunsari	vardana	‘Nudelholz’
+wasI	many	Khunsari	vas	genug, sehr’
+wat-caka	child	Khunsari	vec(c)a	
+wata	bad	Khunsari	vad	
+wRka	wolf	Khunsari	gurg	
+wRpaka	cat	Khunsari	gurba	
+wyAna	life/soul	Khunsari	giyUn	
+JRd	heart	Khunsari	dil	
+gau-Cwanta-	sheep	Khunsari	gUsband	
+gau-Cwanta-	sheep	Khunsari	gUsfand	
+aCru-ka	tear (n.)	Gaz	aSk	aSg
+aCwa	horse	Gaz	asm	
+barda	spade	Gaz	bard	
+barda	spade	Gaz	bErcI	
+bRzant	high	Gaz	biland	
+caTwRCat	forty	Gaz	cil	
+g(a)rna-ka	flock	Gaz	gal(l)e	
+hiJwAna	tongue	Gaz	uzUn	ozUn
+laupACa	fox	Gaz	lU	‘Schakal’
+muSti	fist	Gaz	muSt	
+p(a)rdanku	panther	Gaz	peleng	
+pRna	full	Gaz	pur	‘vollständig’
+RJifya	eagle	Gaz	olO	
+wiCati	twenty	Gaz	vIs	
+w(a)rda	flower	Gaz	gul	
+wafra	snow	Gaz	vaf	
+wafra	snow	Gaz	varf	-varf (in compounds)
+wahuni	blood	Gaz	xUn	
+waiSa	forest	Gaz	vES	‘unentkernte Baumwolle’
+waita	willow	Gaz	bId	
+wana	tree	Gaz	van	‘wild Pistazie, wilder Pistazienbaum’
+wanjecaka	sparrow	Gaz	gunjiSg	gunjiSk
+wAr	rain (n.)	Gaz	vArUn	
+wara	breast	Gaz	var	‘Seite’
+warka	leaf	Gaz	valg	
+warna-ka	lamb/wool	Gaz	vere	
+warna-ka	lamb/wool	Gaz	vire	
+wasI	many	Gaz	vas	‘genug’
+wat-caka	child	Gaz	vac(c)e	
+wata	bad	Gaz	vat	vat(tar) ‘schlechter’
+wAta	wind	Gaz	vA	
+wRka	wolf	Gaz	gurg	
+wRSnaka	hungry	Gaz	vaSSe	
+wRtka	kidney	Gaz	gurde	
+wyAna	life/soul	Gaz	jUn	
+JRd	heart	Gaz	dil	
+gau-Cwanta-	sheep	Gaz	gUsfand	
+warJI-kAra	farmer	Gaz	verzIgar	
+bRzant	high	Mazandarani	belan	
+caTwRCat	forty	Mazandarani	cehel	
+Cwaita	white	Mazandarani	esbe	
+Cwaka	dog	Mazandarani	sag	
+CwiSa	flea	Mazandarani	‘espij	‘Laus’
+daCa	ten	Mazandarani	da	
+hiJwAna	tongue	Mazandarani	zabun	
+muSti	fist	Mazandarani	mis	
+wahAra	spring	Mazandarani	bahAr	
+wiCati	twenty	Mazandarani	bist	
+wafra	snow	Mazandarani	varf	
+wahuni	blood	Mazandarani	xun	
+wAr	rain (n.)	Mazandarani	vAreS	
+warka	leaf	Mazandarani	valg	
+wat-caka	child	Mazandarani	vaca	
+wAta	wind	Mazandarani	vA	
+wAJi(n)	falcon	Mazandarani	vAz	
+wRka	wolf	Mazandarani	varg	
+wRSnaka	hungry	Mazandarani	vaSnA	
+wRtka	kidney	Mazandarani	gArda	
+JRd	heart	Mazandarani	del	
+gau-Cwanta-	sheep	Mazandarani	gesfan	
+(f)SupAna	shepherd	S_Tati	cupun	cupen
+aCru	tear (n.)	S_Tati	arsa	
+aCwa	horse	S_Tati	asb	
+arSa	bear	S_Tati	xers	
+barda	spade	S_Tati	bila	
+barda	spade	S_Tati	bar(r)a	
+caTwRCat	forty	S_Tati	cel	
+Cwaita	white	S_Tati	esbia	
+Cwaka	dog	S_Tati	esbA	
+CwiSa	flea	S_Tati	espeja	‘louse’
+CwiSa	flea	S_Tati	esbeja	‘louse’
+CyAwa	black	S_Tati	siA	
+daCa	ten	S_Tati	dah	
+g(a)rna-ka	flock	S_Tati	galle	
+hiJwAna	tongue	S_Tati	zOn	
+kRmi	worm	S_Tati	kelma	
+laupACa	fox	S_Tati	luAs	
+marJ	rub	S_Tati	mAl	mAl-
+muSti	fist	S_Tati	moSta	
+parna	feather	S_Tati	parr	parr- ‘fly’
+pRna	full	S_Tati	parr	
+puTra	son	S_Tati	fer	
+puTra	son	S_Tati	pur	
+wahAra	spring	S_Tati	behAr	
+wiCati	twenty	S_Tati	vist	
+w(a)rda	flower	S_Tati	vela	
+wAf	weave	S_Tati	bev	bev-
+wafra	snow	S_Tati	vara	
+wahuni	blood	S_Tati	xemn	
+waina	see	S_Tati	vin	vin-
+waita	willow	S_Tati	via	
+wanjecaka	sparrow	S_Tati	viSkinj	
+wAr	rain (n.)	S_Tati	vAr	vAr- (v.)
+warka	leaf	S_Tati	varga	
+wart-	turn	S_Tati	gard	gard-
+wAta	wind	S_Tati	vA	
+wAJi(yaka?)	play (n.)	S_Tati	vAz	vAz-
+widawA	widow	S_Tati	vivia	(viva ‘widower’)
+wRka	wolf	S_Tati	varg	
+wRpaka	cat	S_Tati	görbia	
+wRSnaka	hungry	S_Tati	goSna	
+wyAna	life/soul	S_Tati	yon	
+JRd	heart	S_Tati	del	
+warJI-kAra	farmer	S_Tati	varziar	
+aCwa	horse	Awromani	asp	
+caTwRCat	forty	Awromani	cEl	
+daCa	ten	Awromani	da	
+hiJwAna	tongue	Awromani	zawAn	
+laupACa	fox	Awromani	rowAs	
+laupACa	fox	Awromani	rubA	Pawa dialect
+pRna	full	Awromani	pOr	Pawa dialect
+pRtu	bridge	Awromani	pord	
+rASta	right	Awromani	ras	
+wiCati	twenty	Awromani	bis(t)	
+wahuni	blood	Awromani	hUn	
+wahuni	blood	Awromani	wun	
+waiSa	forest	Awromani	wESA	
+wAr	rain (n.)	Awromani	waran	
+warna-ka	lamb/wool	Awromani	wærA	
+wRka	wolf	Awromani	wærg	
+wyAna	life/soul	Awromani	gyAn	
+wahuni	blood	Baxtiyari_Hadank	hIn	
+warna-ka	lamb/wool	Baxtiyari_Hadank	varra	
+widAna	tent	Baxtiyari_Hadank	bOUn	(???)
+Cwaita	white	Mamasani_Hadank	isfId	
+spRzan	spleen	Mamasani_Hadank	usbul	
+wanjecaka	sparrow	Mamasani_Hadank	bangisht	‘Sperling’
+warAJa	boar	Mamasani_Hadank	burAz	
+warna-ka	lamb/wool	Mamasani_Hadank	varra	
+warta-	stone	Feyli_Hadank	bard	
+aCru	tear (n.)	Larestani	xars	
+Carda	cold	Larestani	sard	
+caTwRCat	forty	Larestani	cel	
+Cwaita	white	Larestani	safid	
+Cwaka	dog	Larestani	sag	
+CwiSa	flea	Larestani	‘eS	‘louse’
+CyAwa	black	Larestani	siyA	
+daCa	ten	Larestani	da	
+hiJwAna	tongue	Larestani	zabu	
+kRmi	worm	Larestani	kerm	
+muSti	fist	Larestani	moSt	
+parna	feather	Larestani	fal	
+pRtu	bridge	Larestani	pol	
+puTra	son	Larestani	pos	
+rASta	right	Larestani	rAss	
+wahAra	spring	Larestani	ba’Ar	
+wiCati	twenty	Larestani	biss	
+w(a)rda	flower	Larestani	gol	
+waCya	more	Larestani	beS	
+wAf	weave	Larestani	bAfta	
+wafra	snow	Larestani	vafr	
+wafra	snow	Larestani	barf	
+wahuni	blood	Larestani	xün	
+waina	see	Larestani	binada	
+wanjecaka	sparrow	Larestani	biji	
+wAr	rain (n.)	Larestani	bareda	
+warka	leaf	Larestani	barg	
+warna-ka	lamb/wool	Larestani	barra	
+wat-caka	child	Larestani	bec	
+wata	bad	Larestani	bad	bad, battar (‘worse’)
+wAta	wind	Larestani	bAd	
+wAJi(yaka?)	play (n.)	Larestani	bAzI	
+wrinji	rice	Larestani	berenj	
+wRpaka	cat	Larestani	gorba	
+wRSnaka	hungry	Larestani	goSna	
+wRtka	kidney	Larestani	gordakü	
+wyAka	place	Larestani	jA	
+wyAna	life/soul	Larestani	ju	
+JRd	heart	Larestani	del	
+wAf	weave	Sivandi	bAftan	
+barda	spade	Sivandi	bIl	
+bRzant	high	Sivandi	boland	
+wanjecaka	sparrow	Sivandi	bonjeSk	
+JRd	heart	Sivandi	del	
+darn	tear/rend	Sivandi	derr	derreyan, cf. derrAndan
+Cwaka	dog	Sivandi	espe	
+spRzan	spleen	Sivandi	espel	
+wRSnaka	hungry	Sivandi	feSe	‘qui a faim’
+wahuni	blood	Sivandi	fIn	
+w(a)rda	flower	Sivandi	gol	
+winACa	sin	Sivandi	gonA	
+CwiSa	flea	Sivandi	peS	‘pou (louse)’
+kaCyapa	tortoise	Sivandi	kalapoSt	
+kRmi	worm	Sivandi	kerm	
+wagza	frog	Sivandi	maze	(??)
+pRtu	bridge	Sivandi	perd	
+parna	feather	Sivandi	parr	‘aile’
+rASta	right	Sivandi	rAs	
+laupACa	fox	Sivandi	rUbA	
+Carda	cold	Sivandi	sard	
+CyAwa	black	Sivandi	siya	
+aCwa	horse	Sivandi	usUr	(< *rider)
+wahAra	spring	Sivandi	vAhAr	
+warka	leaf	Sivandi	valk	
+wAr	rain (n.)	Sivandi	vArAn	
+wafra	snow	Sivandi	varf	
+warna-ka	lamb/wool	Sivandi	vare	
+waita	willow	Sivandi	vi	
+waCya	more	Sivandi	vIStar	
+wAta	wind	Sivandi	voy	
+hiJwAna	tongue	Sivandi	zuwAn	
+g(a)rna-ka	flock	Sivandi	galle	
+(f)SupAna	shepherd	Sivandi	cUpAn	
+wahya	good	Sivandi	va	‘meilleur’
+wrinji	rice	Sivandi	berc	
+Cwaita	white	Sivandi	espId	
+wRtka	kidney	Sivandi	velk	
+wart-	turn	Sivandi	gir	(?)
+wyAna	life/soul	Sivandi	gyAn	
+waicIna?	sieve	Sivandi	viSne	(‘tamis très fin pour le riz’)
+wiCati	twenty	Sivandi	vIs	
+aCru	tear (n.)	Bakhtiyari_A	hars	
+aCwa	horse	Bakhtiyari_A	asp	
+arSa	bear	Bakhtiyari_A	xers	
+Carda	cold	Bakhtiyari_A	sard	
+caTwRCat	forty	Bakhtiyari_A	cel	
+Cwaita	white	Bakhtiyari_A	espeyd	
+Cwaka	dog	Bakhtiyari_A	say	
+CwiSa	flea	Bakhtiyari_A	SeS	
+CyAwa	black	Bakhtiyari_A	Sah	
+daCa	ten	Bakhtiyari_A	dah	
+darn	tear/rend	Bakhtiyari_A	der	derden
+g(a)rna-ka	flock	Bakhtiyari_A	gale	
+hiJwAna	tongue	Bakhtiyari_A	zovn	
+kaCyapa	tortoise	Bakhtiyari_A	kAse	‘shell (of turtle)’; kAsepoSt ‘turtle (water)’
+laupACa	fox	Bakhtiyari_A	ruvA	
+muSti	fist	Bakhtiyari_A	most	
+p(a)rdanku	panther	Bakhtiyari_A	pelang	
+parna	feather	Bakhtiyari_A	par	
+pRna	full	Bakhtiyari_A	por	
+pRtu	bridge	Bakhtiyari_A	pol	
+rASta	right	Bakhtiyari_A	rAst	(direction)
+wahAra	spring	Bakhtiyari_A	bohAr	
+wiCati	twenty	Bakhtiyari_A	bist	
+w(a)rda	flower	Bakhtiyari_A	gol	
+wAf	weave	Bakhtiyari_A	baften	
+skar	hunt	Bakhtiyari_A	SekAl	
+wagza	frog	Bakhtiyari_A	baq??	
+wahuni	blood	Bakhtiyari_A	hin	
+waita	willow	Bakhtiyari_A	beyd	
+wanjecaka	sparrow	Bakhtiyari_A	bengeSt	
+wAr	rain (n.)	Bakhtiyari_A	bArovn	
+warAJa	boar	Bakhtiyari_A	gorAz	‘pig’
+warna-ka	lamb/wool	Bakhtiyari_A	bare	
+wat-caka	child	Bakhtiyari_A	bace	
+wAta	wind	Bakhtiyari_A	bAd	
+wAJi(yaka?)	play (n.)	Bakhtiyari_A	bAzi	'game'
+waJra	mace/club	Bakhtiyari_A	gorz	‘club, cudgel’
+wicAra	pass	Bakhtiyari_A	gozar	vaxtgozaruni kerden ‘pass time’
+wiyapAna	steppe	Bakhtiyari_A	biyAvovn	‘desert’
+wrinji	rice	Bakhtiyari_A	berenj	
+wRka	wolf	Bakhtiyari_A	gorg	
+wRpaka	cat	Bakhtiyari_A	gorbe	
+wRSnaka	hungry	Bakhtiyari_A	gosne	
+wRtka	kidney	Bakhtiyari_A	gordAle	
+wyAka	place	Bakhtiyari_A	jA	
+wyAna	life/soul	Bakhtiyari_A	jovn	
+Jarnu-mani	black eagle	Bakhtiyari_A	dAl	‘vulture’
+JRd	heart	Bakhtiyari_A	del	
+(f)SupAna	shepherd	Zazaki	SiwAne	birASiwAne ‘Bruderschäfer’
+aCru	tear (n.)	Zazaki	hesri	
+aCwa	horse	Zazaki	ospore	‘beritten’
+arSa	bear	Zazaki	heS	
+Carda	cold	Zazaki	serd	
+caTwRCat	forty	Zazaki	cewres	
+Cwaita	white	Zazaki	sipe	
+CwiSa	flea	Zazaki	eSpiJ	
+CyAwa	black	Zazaki	siyA	
+darn	tear/rend	Zazaki	diřA	
+hiJwAna	tongue	Zazaki	ziwAn	
+kaCyapa	tortoise	Zazaki	kese	
+laupACa	fox	Zazaki	lü	(Özcan apud Schwartz 2008)
+parna	feather	Zazaki	pur	pUrtI ??
+pRna	full	Zazaki	piř	
+pRtu	bridge	Zazaki	pird	
+rASta	right	Zazaki	rASt	
+wiCati	twenty	Zazaki	vIst	
+daCa	ten	Zazaki	des	
+w(a)rda	flower	Zazaki	gul	
+wafra	snow	Zazaki	vewr	
+wahuni	blood	Zazaki	gUnI	
+wAr	rain (n.)	Zazaki	vArAn	
+wara	breast	Zazaki	virAr	??
+warka	leaf	Zazaki	velg	
+warna-ka	lamb/wool	Zazaki	vorek	
+wAta	wind	Zazaki	vA	
+widawA	widow	Zazaki	vIyA	‘witwe(r)’
+wRSnaka	hungry	Zazaki	veySAn	
+wyAka	place	Zazaki	jA	
+wyAna	life/soul	Zazaki	gAn	
+JRd	heart	Zazaki	zeři	
+aCwa	horse	Talysh_Schultze	asp	
+caTwRCat	forty	Talysh_Schultze	cül	
+Cwaita	white	Talysh_Schultze	sefid	
+Cwaka	dog	Talysh_Schultze	səpa	
+p(a)rdanku	panther	Talysh_Schultze	palang	‘leopard’
+rASta	right	Talysh_Schultze	rost	‘comfortable’
+wiCati	twenty	Talysh_Schultze	vist	
+waiSa	forest	Talysh_Schultze	viSa	
+JRd	heart	Talysh_Schultze	del	-del- ‘inessive’
+arSa	bear	Talysh_Paul	xərs	
+barda	spade	Talysh_Paul	bur	
+Carda	cold	Talysh_Paul	sArd	
+Cwaita	white	Talysh_Paul	sefid	
+Cwaka	dog	Talysh_Paul	əspa	
+CwiSa	flea	Talysh_Paul	əsbəj	
+CyAwa	black	Talysh_Paul	siA	
+hiJwAna	tongue	Talysh_Paul	zabOn	
+hiJwAna	tongue	Talysh_Paul	zuvun	
+hiJwAna	tongue	Talysh_Paul	zymyn	
+laupACa	fox	Talysh_Paul	rəvus	
+pRtu	bridge	Talysh_Paul	pard	
+rASta	right	Talysh_Paul	rust	
+wahAra	spring	Talysh_Paul	bahAr	
+w(a)rda	flower	Talysh_Paul	vəl	
+w(a)rda	flower	Talysh_Paul	gul	
+waCya	more	Talysh_Paul	viStatar	
+wAf	weave	Talysh_Paul	bof	bof-
+wafra	snow	Talysh_Paul	var	
+wahuni	blood	Talysh_Paul	xun	
+waina	see	Talysh_Paul	vin	
+waiSa	forest	Talysh_Paul	viSa	
+waita	willow	Talysh_Paul	vi	
+wAr	rain (n.)	Talysh_Paul	vAr	vAr-
+warna-ka	lamb/wool	Talysh_Paul	vaRA	
+wart-	turn	Talysh_Paul	gard	gard-
+wAta	wind	Talysh_Paul	vu	
+wAJi(yaka?)	play (n.)	Talysh_Paul	bAzi	
+widawA	widow	Talysh_Paul	viva	(Jenak)
+wrinji	rice	Talysh_Paul	barz	
+wRka	wolf	Talysh_Paul	varg	
+wRpaka	cat	Talysh_Paul	gurba	
+wRSnaka	hungry	Talysh_Paul	veSi	
+wyAka	place	Talysh_Paul	jA	(an)jA ‘there’
+wyAna	life/soul	Talysh_Paul	jAn	
+JRd	heart	Talysh_Paul	dəl	
+(f)SupAna	shepherd	Balochi_Marw	SwAnág	
+Carda	cold	Balochi_Marw	sard	
+Cwaita	white	Balochi_Marw	spEt	
+CyAwa	black	Balochi_Marw	siyA	
+aCwa	horse	Balochi_Marw	asp	
+arSa	bear	Balochi_Marw	xirs	
+bRzant	high	Balochi_Marw	burz	
+barda	spade	Balochi_Marw	bEl	
+barzAd	height	Balochi_Marw	balad	
+caTwRCat	forty	Balochi_Marw	cil	
+daCa	ten	Balochi_Marw	da	
+darn	tear/rend	Balochi_Marw	dir 	
+g(a)rna-ka	flock	Balochi_Marw	gal	‘group’ 
+hiJwAna	tongue	Balochi_Marw	zubAn	
+kRmi	worm	Balochi_Marw	kirm	
+laupACa	fox	Balochi_Marw	rUbA	
+p(a)rdanku	panther	Balochi_Marw	pulang	
+pRna	full	Balochi_Marw	purrÁ	purrÍ
+parna	feather	Balochi_Marw	parr	
+rASta	right	Balochi_Marw	rAstam	
+wiCati	twenty	Balochi_Marw	bIst	
+wiCati	twenty	Balochi_Marw	gIst	
+w(a)rda	flower	Balochi_Marw	gul	
+wAta	wind	Balochi_Marw	gwAt	
+wAJi(n)	falcon	Balochi_Marw	bAz	
+wAJi(yaka?)	play (n.)	Balochi_Marw	gwAzÍ	
+wRSnaka	hungry	Balochi_Marw	guSnag	
+wRka	wolf	Balochi_Marw	gurk	
+waCya	more	Balochi_Marw	geStir	‘greater, oftener’
+waJra	mace/club	Balochi_Marw	burz	‘club’
+waJra	mace/club	Balochi_Marw	Gurz ‘club, spear’ 	
+wahya	good	Balochi_Marw	battir	
+wahya	good	Balochi_Marw	getir ‘better’	
+waina	see	Balochi_Marw	gind	
+waita	willow	Balochi_Marw	bed	
+warka	leaf	Balochi_Marw	balg	
+warna-ka	lamb/wool	Balochi_Marw	gwarag	
+wart-	turn	Balochi_Marw	gardiSt	
+wat-caka	child	Balochi_Marw	bacak	
+wata	bad	Balochi_Marw	bad	
+widAna	tent	Balochi_Marw	gidan	
+winACa	sin	Balochi_Marw	gunA	
+wiyapAna	steppe	Balochi_Marw	giAbAn	
+wyAka	place	Balochi_Marw	jA	jAg (connected with Sindhi)
+wRCa-ka-	hair	Balochi_Marw	gulg	
+JRd	heart	Balochi_Marw	dil	
+(f)SupAna	shepherd	Kurmanji_Soane	shUAn	
+Carda	cold	Kurmanji_Soane	sAr	
+Cwaita	white	Kurmanji_Soane	spI	
+Cwaka	dog	Kurmanji_Soane	seh	
+Cwaka	dog	Kurmanji_Soane	seg	
+RJifya	eagle	Kurmanji_Soane	aiLo	
+aCru-ka	tear (n.)	Kurmanji_Soane	ashk	
+aCwa	horse	Kurmanji_Soane	hasp	
+arSa	bear	Kurmanji_Soane	hirch	
+arSa	bear	Kurmanji_Soane	wirch	?
+arSa	bear	Kurmanji_Soane	birch	?
+bRzant	high	Kurmanji_Soane	barz	
+bRzant	high	Kurmanji_Soane	bilin	
+barda	spade	Kurmanji_Soane	bIaL	
+barda	spade	Kurmanji_Soane	bair	
+barzAd	height	Kurmanji_Soane	berzI	berzhUrI
+barzAd	height	Kurmanji_Soane	belinI	
+caTwRCat	forty	Kurmanji_Soane	chil	
+daCa	ten	Kurmanji_Soane	dah	
+darn	tear/rend	Kurmanji_Soane	derIAn	
+g(a)rna-ka	flock	Kurmanji_Soane	gArAn	(?)
+hiJwAna	tongue	Kurmanji_Soane	zwAn	
+hiJwAna	tongue	Kurmanji_Soane	hizwAn	
+hiJwAna	tongue	Kurmanji_Soane	zemAn	
+hiJwAna	tongue	Kurmanji_Soane	azmAn	
+kRmi	worm	Kurmanji_Soane	kerma	
+kaCyapa	tortoise	Kurmanji_Soane	kIsal	kesalAwI, kuIsI
+laupACa	fox	Kurmanji_Soane	riwI	rüwI
+muSti	fist	Kurmanji_Soane	must	
+muSti	fist	Kurmanji_Soane	misht	
+p(a)rdanku	panther	Kurmanji_Soane	peleńǧ	
+pRna	full	Kurmanji_Soane	pirr	
+pRtu	bridge	Kurmanji_Soane	prt	
+pRtu	bridge	Kurmanji_Soane	prr	
+parna	feather	Kurmanji_Soane	par	parra
+rASta	right	Kurmanji_Soane	rAst	
+wahAra	spring	Kurmanji_Soane	bahAr	
+wiCati	twenty	Kurmanji_Soane	bIs	
+w(a)rda	flower	Kurmanji_Soane	gul	
+wAr	rain (n.)	Kurmanji_Soane	bArAn	
+wAta	wind	Kurmanji_Soane	bA	bhA
+wAJi(n)	falcon	Kurmanji_Soane	bAz	
+wAJi(yaka?)	play (n.)	Kurmanji_Soane	bAzIn	(v.)
+wRSnaka	hungry	Kurmanji_Soane	birsI	birchI
+wRka	wolf	Kurmanji_Soane	gurg	gUr
+wRtka	kidney	Kurmanji_Soane	gurchI	gurchIk
+wafra	snow	Kurmanji_Soane	bafr	bawr
+wafra	snow	Kurmanji_Soane	wafr	
+wagza	frog	Kurmanji_Soane	boq	
+wahuni	blood	Kurmanji_Soane	khUn	
+waicIna?	sieve	Kurmanji_Soane	bezhenk	
+waita	willow	Kurmanji_Soane	bI	
+warAJa	boar	Kurmanji_Soane	burAz	
+warAJa	boar	Kurmanji_Soane	vurAz	
+warka	leaf	Kurmanji_Soane	barak	
+warna-ka	lamb/wool	Kurmanji_Soane	berkh	
+wart-	turn	Kurmanji_Soane	war garrIAn 	
+widawA	widow	Kurmanji_Soane	bI	
+winACa	sin	Kurmanji_Soane	gunA	
+wyAka	place	Kurmanji_Soane	gah	
+wyAna	life/soul	Kurmanji_Soane	jAn	
+JRd	heart	Kurmanji_Soane	diL	
+JRd	heart	Kurmanji_Soane	zer	
+(f)SupAna	shepherd	Vafsi	cupan	
+Carda	cold	Vafsi	særd	
+Cwaita	white	Vafsi	isbi	ispi, isvi
+Cwaka	dog	Vafsi	æsbæ	
+CyAwa	black	Vafsi	sia(h)	
+bRzant	high	Vafsi	bolænd	
+daCa	ten	Vafsi	dæ(h)	
+hiJwAna	tongue	Vafsi	zuan	
+laupACa	fox	Vafsi	luas	
+marJ	rub	Vafsi	mal	/-a + dær
+muSti	fist	Vafsi	méSdæ	
+pRna	full	Vafsi	perr	
+parna	feather	Vafsi	pær(r)	
+rASta	right	Vafsi	rasd	^vaz/vatt ‘tell the truth, be right’
+wahAra	spring	Vafsi	vaar	
+wAr	rain (n.)	Vafsi	varan	
+wAta	wind	Vafsi	va	
+wRSnaka	hungry	Vafsi	gosnæ	
+wRka	wolf	Vafsi	værg	
+waCya	more	Vafsi	bisdær	
+waJr(a)ka	great	Vafsi	bozorgevar	
+wahuni	blood	Vafsi	xun	
+waiSa	forest	Vafsi	væSi	‘wild’ (??)
+waina	see	Vafsi	vin	/di
+wart-	turn	Vafsi	gerd	/-a
+widawA	widow	Vafsi	víæ	víæ-zénæ
+wyAna	life/soul	Vafsi	gan	
+wyAna	life/soul	Vafsi	jan	
+JRd	heart	Vafsi	del	
+(f)SupAna	shepherd	Balochi_Rakhshani	šwpank 	
+Carda	cold	Balochi_Rakhshani	sərd	
+Cwaita	white	Balochi_Rakhshani	yspet	
+Cwaka	dog	Balochi_Rakhshani	səg	
+CyAwa	black	Balochi_Rakhshani	sya[h]	
+warJI-kAra	farmer	Balochi_Rakhshani	bəzgər	‘tenant farmer’
+aCru	tear (n.)	Balochi_Rakhshani	ərs	
+aCwa	horse	Balochi_Rakhshani	əsp	
+bRzant	high	Balochi_Rakhshani	bwrz	
+barzAd	height	Balochi_Rakhshani	balad	
+caTwRCat	forty	Balochi_Rakhshani	čyll	
+daCa	ten	Balochi_Rakhshani	də	
+darn	tear/rend	Balochi_Rakhshani	dyrrəg	
+g(a)rna-ka	flock	Balochi_Rakhshani	gəl	‘(political) party, group’
+hiJwAna	tongue	Balochi_Rakhshani	zwban	
+laupACa	fox	Balochi_Rakhshani	roba	
+pRna	full	Balochi_Rakhshani	pwrr	
+pRtu	bridge	Balochi_Rakhshani	pol	
+parna	feather	Balochi_Rakhshani	pənn	‘feather’
+rASta	right	Balochi_Rakhshani	rast	
+wahAra	spring	Balochi_Rakhshani	bə[h]ar	
+wiCati	twenty	Balochi_Rakhshani	bist	
+wAf	weave	Balochi_Rakhshani	gvəpəg	
+wAr	rain (n.)	Balochi_Rakhshani	gvaran	
+wAta	wind	Balochi_Rakhshani	gvat	
+wAJi(yaka?)	play (n.)	Balochi_Rakhshani	gvazi	
+wRCa-ka-	hair	Balochi_Rakhshani	gvaləg	
+wRSnaka	hungry	Balochi_Rakhshani	gwšnəg	‘hunger’
+wRka	wolf	Balochi_Rakhshani	gwrk	
+waCya	more	Balochi_Rakhshani	geš	
+wafra	snow	Balochi_Rakhshani	bərp	
+wahuni	blood	Balochi_Rakhshani	hon	[h]on
+wahya	good	Balochi_Rakhshani	vəšš	
+waina	see	Balochi_Rakhshani	gyndəg	
+wara	breast	Balochi_Rakhshani	gvər	
+warna-ka	lamb/wool	Balochi_Rakhshani	gvərəg	
+wata	bad	Balochi_Rakhshani	bəd	
+wicAra	pass	Balochi_Rakhshani	gvəzəg	
+widAna	tent	Balochi_Rakhshani	gydan	
+winACa	sin	Balochi_Rakhshani	gwna[h]	
+wrinji	rice	Balochi_Rakhshani	byrynj	
+wyAka	place	Balochi_Rakhshani	ja	
+JRd	heart	Balochi_Rakhshani	dyl	
+JRd	heart	Balochi_Rakhshani	zyrd	
+(f)SupAna	shepherd	Judeo-Tati	çupon 	
+Cwaita	white	Judeo-Tati	sipi 	
+Cwaka	dog	Judeo-Tati	seg	
+CyAwa	black	Judeo-Tati	siyeh	
+aCru	tear (n.)	Judeo-Tati	ʕärs	
+aCwa	horse	Judeo-Tati	ʕäsb	
+arSa	bear	Judeo-Tati	xürs	
+barda	spade	Judeo-Tati	bil	
+barzAd	height	Judeo-Tati	bala	
+caTwRCat	forty	Judeo-Tati	çül	
+daCa	ten	Judeo-Tati	deh	
+darn	tear/rend	Judeo-Tati	durra	‘déchiré’
+g(a)rna-ka	flock	Judeo-Tati	gele	
+gau-Cwanta-	sheep	Judeo-Tati	gusbend	
+hiJwAna	tongue	Judeo-Tati	zuhun 	
+kRmi	worm	Judeo-Tati	kürm	
+muSti	fist	Judeo-Tati	müSd	(müşd in source)
+p(a)rdanku	panther	Judeo-Tati	peleng	
+pRna	full	Judeo-Tati	pur	
+rASta	right	Judeo-Tati	rasd	
+wahAra	spring	Judeo-Tati	vasal	
+wiCati	twenty	Judeo-Tati	bisd	
+w(a)rda	flower	Judeo-Tati	gül	
+wAf	weave	Judeo-Tati	bofde	
+wAr	rain (n.)	Judeo-Tati	voruş	
+wAta	wind	Judeo-Tati	vor	
+wAJi(yaka?)	play (n.)	Judeo-Tati	vozire	(v.)
+wRSnaka	hungry	Judeo-Tati	gisne	
+wRka	wolf	Judeo-Tati	gürg	
+wafra	snow	Judeo-Tati	verf	
+wahuni	blood	Judeo-Tati	xun	
+waiSa	forest	Judeo-Tati	vişe 	
+waina	see	Judeo-Tati	vini	
+wanjecaka	sparrow	Judeo-Tati	bäʕäveçe	(?)
+warka	leaf	Judeo-Tati	velg	
+warna-ka	lamb/wool	Judeo-Tati	vere	
+wata	bad	Judeo-Tati	bad	
+widAna	tent	Judeo-Tati	bine	
+widawA	widow	Judeo-Tati	biy	
+JRd	heart	Judeo-Tati	dül	
+(f)SupAna	shepherd	Sangesari	cuppwn	
+Cwaita	white	Sangesari	Espi	
+Cwaka	dog	Sangesari	EspE	
+CwiSa	flea	Sangesari	Espaz	‘louse’
+CyAwa	black	Sangesari	so	
+warJI-kAra	farmer	Sangesari	varzer	varzgar
+aCwa	horse	Sangesari	asm	
+arSa	bear	Sangesari	xErs	
+arSa	bear	Sangesari	aS	
+bRzant	high	Sangesari	bElEnd	
+kRmi	worm	Sangesari	kErm	
+kaCyapa	tortoise	Sangesari	l@kpa$t	
+laupACa	fox	Sangesari	rEva	
+muSti	fist	Sangesari	mo$t	
+p(a)rdanku	panther	Sangesari	pElEng	
+parna	feather	Sangesari	par	
+puTra	son	Sangesari	pur	
+spRzan	spleen	Sangesari	Espol	
+wahAra	spring	Sangesari	vih@r	
+w(a)rda	flower	Sangesari	gol	
+wAf	weave	Sangesari	vo%	‘weaver’
+wAr	rain (n.)	Sangesari	v@r	
+wAta	wind	Sangesari	ve	
+wAJi(n)	falcon	Sangesari	b@z	
+wRSnaka	hungry	Sangesari	vE$$wn	
+wRka	wolf	Sangesari	vark	
+wRtka	kidney	Sangesari	vakku	
+waCya	more	Sangesari	vE$ter	
+wafra	snow	Sangesari	varf	
+wahuni	blood	Sangesari	xun	
+wahya	good	Sangesari	veytar	‘better’
+waita	willow	Sangesari	bid	
+warAJa	boar	Sangesari	vEr@z	
+warka	leaf	Sangesari	valg	
+warna-ka	lamb/wool	Sangesari	varE	
+wat-caka	child	Sangesari	bad	
+wyAna	life/soul	Sangesari	jwn	
+JRd	heart	Sangesari	dal	dil
+Carda	cold	S_Bashkardi	sūrt	
+Cwaita	white	S_Bashkardi	espīt	
+Cwaka	dog	S_Bashkardi	sax	
+arSa	bear	S_Bashkardi	hors	
+barda	spade	S_Bashkardi	bāhr	bohr
+wAf	weave	S_Bashkardi	vahv	
+wRka	wolf	S_Bashkardi	verx	vorx ‘leopard’
+warna-ka	lamb/wool	S_Bashkardi	vark	
+wrinji	rice	S_Bashkardi	berenz	
+JRd	heart	S_Bashkardi	der	
+skar	hunt	S_Bashkardi	šekāl	‘mountain sheep’
+Cwaita	white	N_Bashkardi	espīr	
+wAr	rain (n.)	N_Bashkardi	gwaron	
+wagza	frog	N_Bashkardi	gwäk	
+Carda	cold	Yazdi_VA	sart	
+Cwaka	dog	Yazdi_VA	sva	seba, sawa, sewa
+aCwa	horse	Yazdi_VA	asb	
+bRzant	high	Yazdi_VA	bilend	
+barda	spade	Yazdi_VA	bard(a)	
+caTwRCat	forty	Yazdi_VA	cil	
+gau-Cwanta-	sheep	Yazdi_VA	güsfand	guspènd
+laupACa	fox	Yazdi_VA	rüwõs	
+muSti	fist	Yazdi_VA	muSt	
+p(a)rdanku	panther	Yazdi_VA	palang	
+spRzan	spleen	Yazdi_VA	svarz	
+w(a)rda	flower	Yazdi_VA	gol	
+wAr	rain (n.)	Yazdi_VA	wõrõn	
+wAta	wind	Yazdi_VA	wõd	
+wRSnaka	hungry	Yazdi_VA	wõSna	
+wafra	snow	Yazdi_VA	varf	
+wahya	good	Yazdi_VA	vahtèr	‘better’
+waita	willow	Yazdi_VA	vid 	
+warna-ka	lamb/wool	Yazdi_VA	varra 	
+wart-	turn	Yazdi_VA	gèrtvUn 	
+wat-caka	child	Yazdi_VA	vacca	
+widawA	widow	Yazdi_VA	vedva	
+widawA	widow	Yazdi_VA	bIva	
+wyAna	life/soul	Yazdi_VA	jün	
+JRd	heart	Yazdi_VA	dil	
+Carda	cold	Kumzari	sard	
+Cwaita	white	Kumzari	spēr	
+Cwaka	dog	Kumzari	saǧ	
+CyAwa	black	Kumzari	siya	
+aCru	tear (n.)	Kumzari	xars	
+aCwa	horse	Kumzari	asp	
+bRzant	high	Kumzari	blind	
+caTwRCat	forty	Kumzari	čil	
+daCa	ten	Kumzari	da	
+gau-Cwanta-	sheep	Kumzari	gōsin	‘goat’ (Wal Anonby)
+hiJwAna	tongue	Kumzari	ẓwān	
+kRmi	worm	Kumzari	kurm	
+laupACa	fox	Kumzari	rēwa	
+parna	feather	Kumzari	par 	
+puTra	son	Kumzari	pis	
+rASta	right	Kumzari	rāstī 	
+wiCati	twenty	Kumzari	bīs	
+wAr	rain (n.)	Kumzari	bāram	
+wAJi(yaka?)	play (n.)	Kumzari	bāẓ	
+wRSnaka	hungry	Kumzari	gišnağ	
+wRpaka	cat	Kumzari	gurbağ	
+wahuni	blood	Kumzari	xwēm	
+warka	leaf	Kumzari	barg	‘type of medicinal leaf’
+wrinji	rice	Kumzari	brinẓ	
+JRd	heart	Kumzari	dil	
+Ciaina	eagle	Kumzari	šā’in	
+warna-ka	lamb/wool	Kurdish_Sorani	berx	
+RJifya	eagle	Kurdish_Sorani	heLo	
+wRSnaka	hungry	Kurdish_Sorani	birsêtî	‘faim’
+Cwaita	white	Kurdish_Sorani	sipî	
+aCwa	horse	Kurdish_Sorani	esp	
+Cwaka	dog	Kurdish_Sorani	seg	
+JRd	heart	Kurdish_Sorani	diL	
+darn	tear/rend	Kurdish_Sorani	diRîn	
+daCa	ten	Kurdish_Sorani	de	
+warka	leaf	Kurdish_Sorani	berg	
+w(a)rda	flower	Kurdish_Sorani	gul	‘rose’
+Carda	cold	Kurdish_Sorani	serma	
+wagza	frog	Kurdish_Sorani	boq	
+bRzant	high	Kurdish_Sorani	berz	
+bRzant	high	Kurdish_Sorani	biLind	
+barzAd	height	Kurdish_Sorani	berzI	berzayI
+hiJwAna	tongue	Kurdish_Sorani	ziman	
+wRka	wolf	Kurdish_Sorani	gurg	
+wata	bad	Kurdish_Sorani	bed	
+wafra	snow	Kurdish_Sorani	befr	
+CyAwa	black	Kurdish_Sorani	siya	
+p(a)rdanku	panther	Kurdish_Sorani	piLing	
+barda	spade	Kurdish_Sorani	bêL	
+pRna	full	Kurdish_Sorani	piR	
+wAr	rain (n.)	Kurdish_Sorani	baran	
+muSti	fist	Kurdish_Sorani	mist	‘poignée’
+pRtu	bridge	Kurdish_Sorani	pird	
+arSa	bear	Kurdish_Sorani	wurch	
+caTwRCat	forty	Kurdish_Sorani	chil	
+laupACa	fox	Kurdish_Sorani	Rêwî	
+wrinji	rice	Kurdish_Sorani	birinc	
+wahuni	blood	Kurdish_Sorani	xön	
+g(a)rna-ka	flock	Kurdish_Sorani	gel	
+wAta	wind	Kurdish_Sorani	ba	
+wyAna	life/soul	Kurdish_Sorani	giyan	
+wyAna	life/soul	Kurdish_Sorani	jîn	
+wiCati	twenty	Kurdish_Sorani	bîst	
+waina	see	Kurdish_Sorani	bîn-	
+aCwa	horse	Vanishan	asp	
+wAta	wind	Vanishan	vōd	
+wAr	rain (n.)	Vanishan	vōrū́n	
+wAJi(n)	falcon	Vanishan	bōz	
+wAJi(yaka?)	play (n.)	Vanishan	vOzÍ	
+wat-caka	child	Vanishan	vecá	
+wara	breast	Vanishan	ver	
+wafra	snow	Vanishan	varf	
+warka	leaf	Vanishan	valg	
+wrinji	rice	Vanishan	beréńj	
+warna-ka	lamb/wool	Vanishan	verrá	
+warJI-kAra	farmer	Vanishan	verziǵár
+wasI	many	Vanishan	ves	
+bRzant	high	Vanishan	bulánd	
+wahAra	spring	Vanishan	vOr	
+wahya	good	Vanishan	veidér	
+wahiSta	paradise	Vanishan	behíšt	
+waita	willow	Vanishan	vId	
+wiCati	twenty	Vanishan	bIst	
+waCya	more	Vanishan	bIštár	
+waCya	more	Vanishan	vIštér	
+barda	spade	Vanishan	bAr	
+widawA	widow	Vanishan	bIvá	
+parna	feather	Vanishan	palÓ’I	
+pRna	full	Vanishan	pur	
+puTra	son	Vanishan	pÜr	
+pRtu	bridge	Vanishan	pUl	
+caxra-	wheel	Vanishan	carx	
+(f)SupAna	shepherd	Vanishan	cepÚn	
+caTwRCat	forty	Vanishan	cihél	
+wahuni	blood	Vanishan	xYn	
+JRd	heart	Vanishan	dil	
+daCa	ten	Vanishan	dei	
+rASta	right	Vanishan	rOss	
+laupACa	fox	Vanishan	rubÓ	
+hiJwAna	tongue	Vanishan	zevÚn	
+Cwaita	white	Vanishan	espÍd	
+Cwaka	dog	Vanishan	esbá	
+CyAwa	black	Vanishan	siyÓ	
+xSap	evening	Vanishan	šUm	
+CwiSa	flea	Vanishan	ešpéš	
+skar	hunt	Vanishan	šekÓr	
+xSwifta-	milk	Vanishan	šīr	
+kRmi	worm	Vanishan	kirm	
+wRSnaka	hungry	Vanishan	gusná	
+wRpaka	cat	Vanishan	gurbá	
+wRka	wolf	Vanishan	gurǵ	
+aCwa	horse	Qohrud	asp	
+wAta	wind	Qohrud	vōd	
+wAr	rain (n.)	Qohrud	vōrū́n	
+wAJi(n)	falcon	Qohrud	bōz	
+barzAd	height	Qohrud	bOlÓ	
+wat-caka	child	Qohrud	vacá	
+wara	breast	Qohrud	ver	
+wafra	snow	Qohrud	vafr	
+warka	leaf	Qohrud	valg	
+wrinji	rice	Qohrud	beréńj	
+warna-ka	lamb/wool	Qohrud	verá	
+warJI-kAra	farmer	Qohrud	berzegér	
+waJr(a)ka	great	Qohrud	gurd	?
+wasI	many	Qohrud	ves	
+bRzant	high	Qohrud	bulén	
+wana	tree	Qohrud	bená	
+wahAra	spring	Qohrud	bohOr	
+wahiSta	paradise	Qohrud	behíšt	
+waita	willow	Qohrud	vEt	
+wiCati	twenty	Qohrud	vIs	vÍstA
+barda	spade	Qohrud	bOl	
+widawA	widow	Qohrud	vIgá	(?)
+parna	feather	Qohrud	pári	
+pRna	full	Qohrud	pür	
+puTra	son	Qohrud	pÜr	
+pRtu	bridge	Qohrud	pÖl	
+(f)SupAna	shepherd	Qohrud	cUpÚn	
+caTwRCat	forty	Qohrud	cil	
+wahuni	blood	Qohrud	xÜn	
+JRd	heart	Qohrud	dil	
+daCa	ten	Qohrud	di	
+rASta	right	Qohrud	rOst	
+laupACa	fox	Qohrud	rubÓ	
+hiJwAna	tongue	Qohrud	IlzÚn	(?)
+spRzan	spleen	Qohrud	esbÖ́rz	
+Cwaita	white	Qohrud	esbÉd	
+Cwaka	dog	Qohrud	espá	
+CyAwa	black	Qohrud	sigÓ	
+xSap	evening	Qohrud	šUm	
+CwiSa	flea	Qohrud	üšpǘš	
+skar	hunt	Qohrud	eškÓr	
+xSwifta-	milk	Qohrud	šīt	
+kRmi	worm	Qohrud	kirm	
+wRSnaka	hungry	Qohrud	veš	
+wRka	wolf	Qohrud	var	
+aCwa	horse	Kashan	asm	
+wAta	wind	Kashan	vōi	
+wAr	rain (n.)	Kashan	vōrū́n	
+barzAd	height	Kashan	bOlÓ	
+wat-caka	child	Kashan	vacá	
+wara	breast	Kashan	ver	
+wafra	snow	Kashan	varf	
+warka	leaf	Kashan	valg	
+wrinji	rice	Kashan	beréńj	
+warna-ka	lamb/wool	Kashan	verá	
+warJI-kAra	farmer	Kashan	varzegír	
+waJr(a)ka	great	Kashan	gurd	
+wasI	many	Kashan	ves	
+bRzant	high	Kashan	belánd	
+wahAra	spring	Kashan	bohOr	
+wahya	good	Kashan	bahtár	
+wahiSta	paradise	Kashan	behíšt	
+waita	willow	Kashan	vE	
+wiCati	twenty	Kashan	vÍssA	
+waCya	more	Kashan	vIštár	
+barda	spade	Kashan	bAl	
+widawA	widow	Kashan	bIvá	
+parna	feather	Kashan	péri	
+puTra	son	Kashan	pÜr	
+pRtu	bridge	Kashan	pOl	
+(f)SupAna	shepherd	Kashan	cUpÚn	
+caTwRCat	forty	Kashan	cáltO	
+wahuni	blood	Kashan	xÜn	
+JRd	heart	Kashan	dil	
+daCa	ten	Kashan	dah	
+rASta	right	Kashan	rOšt	
+hiJwAna	tongue	Kashan	uzmÚn	
+Cwaita	white	Kashan	esbÉ	
+CyAwa	black	Kashan	siyÓ	
+xSap	evening	Kashan	šUm	
+CwiSa	flea	Kashan	ešpíš	
+skar	hunt	Kashan	eškÓr	
+xSwifta-	milk	Kashan	šīr	
+kRmi	worm	Kashan	ḱarm	
+wRSnaka	hungry	Kashan	vešá	
+wRka	wolf	Kashan	vaŕg	
+aCwa	horse	Zefra	asm	
+wAta	wind	Zefra	vō	
+wAr	rain (n.)	Zefra	vōrṓ	
+wAJi(n)	falcon	Zefra	bOz	
+barzAd	height	Zefra	bOlÓ	
+wat-caka	child	Zefra	vecá	
+wara	breast	Zefra	ver	
+wafra	snow	Zefra	varf	
+warka	leaf	Zefra	velg	
+wrinji	rice	Zefra	beréńj	
+warna-ka	lamb/wool	Zefra	veré	
+waJr(a)ka	great	Zefra	bür	
+wasI	many	Zefra	ves	
+bRzant	high	Zefra	belén	
+wana	tree	Zefra	bené	
+wahAra	spring	Zefra	bohOr	
+wahya	good	Zefra	bijtér	
+waita	willow	Zefra	vE	vIdé
+wiCati	twenty	Zefra	vIss	
+waCya	more	Zefra	vIštér	
+barda	spade	Zefra	berd	
+widawA	widow	Zefra	bIvé	
+parna	feather	Zefra	per	
+puTra	son	Zefra	pUr	
+pRtu	bridge	Zefra	pOl	
+(f)SupAna	shepherd	Zefra	capÓ	
+caTwRCat	forty	Zefra	cáltO	
+wahuni	blood	Zefra	xÜn	
+JRd	heart	Zefra	dil	
+daCa	ten	Zefra	dei	
+rASta	right	Zefra	rOss	
+hiJwAna	tongue	Zefra	ozÓ	
+Cwaita	white	Zefra	söbÖ́	
+CyAwa	black	Zefra	siyÓ	
+xSap	evening	Zefra	šUm	
+CwiSa	flea	Zefra	išpíš	
+skar	hunt	Zefra	šegÓr	
+xSwifta-	milk	Zefra	šīr	
+kRmi	worm	Zefra	kerm	
+wRSnaka	hungry	Zefra	vešé	
+wRka	wolf	Zefra	varǵ	
+aCwa	horse	Natanz	asm	
+wAta	wind	Natanz	bōd	
+wAr	rain (n.)	Natanz	vōrū́n	
+wara	breast	Natanz	ver	
+warna-ka	lamb/wool	Natanz	bará	
+(f)SupAna	shepherd	Parthian	SubAn	
+Carda	cold	Parthian	sard	
+Cwaita	white	Parthian	ispEd	
+Cwaka	dog	Parthian	ispag	
+CyAwa	black	Parthian	syAw	
+warJI-kAra	farmer	Parthian	warzIgar	‘laboring, industrious; worker, peasant’
+aCru-ka	tear (n.)	Parthian	aSk	
+aCwa	horse	Parthian	asp		
+caTwRCat	forty	Parthian	cafrast	
+daCa	ten	Parthian	das	
+hiJwAna	tongue	Parthian	izBAn	
+laupACa	fox	Parthian	rObAs	
+pRna	full	Parthian	purr	
+pRtu	bridge	Parthian	purt	purd?
+puTra	son	Parthian	puhr	
+rASta	right	Parthian	rASt	‘true, right; straight’
+wiCati	twenty	Parthian	wIst	
+w(a)rda	flower	Parthian	wAr	
+wAta	wind	Parthian	wAd	
+wRSnaka	hungry	Parthian	wiSAy	
+wRka	wolf	Parthian	gurg	
+waJr(a)ka	great	Parthian	wuzurg	
+wafra	snow	Parthian	wafr	
+wahuni	blood	Parthian	guxn	
+waina	see	Parthian	wEn	
+warka	leaf	Parthian	wargar	‘leaf, leaves’
+warna-ka	lamb/wool	Parthian	warrag	
+wart-	turn	Parthian	ward	ward-, wart-
+wasI	many	Parthian	was	
+wata	bad	Parthian	wad	
+widAna	tent	Parthian	wiDAn	
+winACa	sin	Parthian	winAh	
+wiyapAna	steppe	Parthian	wiyAbAn	
+wyAna	life/soul	Parthian	gyAn	
+JRd	heart	Parthian	dil	
+(f)SupAna	shepherd	Middle Persian (Manichean)	SubAn	
+Carda	cold	Middle Persian (Manichean)	sard	
+Cwaita	white	Middle Persian (Manichean)	ispEd	
+Cwaka	dog	Middle Persian (Manichean)	sag	
+CyAwa	black	Middle Persian (Manichean)	syAw	
+warJI-kAra	farmer	Middle Persian (Manichean)	warzIgar	‘laboring, industrious; worker, peasant’
+aCru	tear (n.)	Middle Persian (Manichean)	ars	
+aCwa	horse	Middle Persian (Manichean)	asp	
+barda	spade	Middle Persian (Manichean)	bEr	
+barzAd	height	Middle Persian (Manichean)	bAlAy	
+caTwRCat	forty	Middle Persian (Manichean)	cehel	
+daCa	ten	Middle Persian (Manichean)	dah	
+darn	tear/rend	Middle Persian (Manichean)	dErend	
+gau-Cwanta-	sheep	Middle Persian (Manichean)	gOspand	
+hiJwAna	tongue	Middle Persian (Manichean)	izwAn	
+RJifya	eagle	Middle Persian (Manichean)	AlUf	
+pRna	full	Middle Persian (Manichean)	purr	
+parna	feather	Middle Persian (Manichean)	parr	
+puTra	son	Middle Persian (Manichean)	pus	
+rASta	right	Middle Persian (Manichean)	rAst	‘true, right, straight, level’
+wahAra	spring	Middle Persian (Manichean)	wahAr	
+wiCati	twenty	Middle Persian (Manichean)	wIst	
+wAf	weave	Middle Persian (Manichean)	waf	
+wAta	wind	Middle Persian (Manichean)	wAd	
+wRSnaka	hungry	Middle Persian (Manichean)	guSnag	
+wRka	wolf	Middle Persian (Manichean)	gurg	
+waCya	more	Middle Persian (Manichean)	wES	
+waJr(a)ka	great	Middle Persian (Manichean)	wuzurg	
+wafra	snow	Middle Persian (Manichean)	wafr	
+wahuni	blood	Middle Persian (Manichean)	xUn	
+wahya	good	Middle Persian (Manichean)	wahy	
+waina	see	Middle Persian (Manichean)	wEn	
+wara	breast	Middle Persian (Manichean)	war	
+warna-ka	lamb/wool	Middle Persian (Manichean)	warrag	
+wart-	turn	Middle Persian (Manichean)	gard-	gard
+wart-	turn	Middle Persian (Manichean)	ward	ward-
+wasI	many	Middle Persian (Manichean)	was	wasyAr
+wata	bad	Middle Persian (Manichean)	wad	
+winACa	sin	Middle Persian (Manichean)	winAs	
+wyAka	place	Middle Persian (Manichean)	gyAg	
+wyAka	place	Middle Persian (Manichean)	jAy	
+wyAna	life/soul	Middle Persian (Manichean)	gyAn	
+JRd	heart	Middle Persian (Manichean)	zird	
+(f)SupAna	shepherd	Persian	SubAn	
+(f)SupAna	shepherd	Persian	cubAn	
+Carda	cold	Persian	sard	
+Cwaita	white	Persian	isfed	
+Cwaita	white	Persian	isped	
+Cwaka	dog	Persian	sag	
+CwiSa	flea	Persian	uspus	
+CwiSa	flea	Persian	uSpus	SupuS
+CyAwa	black	Persian	siyāh	
+CyAwa	black	Persian	SAh	
+RJifya	eagle	Persian	AlOh	
+warJI-kAra	farmer	Persian	barzīgar	
+warJI-kAra	farmer	Persian	warzgar	
+Jarnu-mani	black eagle	Persian	dAlman	
+aCru	tear (n.)	Persian	ars	
+aCru-ka	tear (n.)	Persian	aSk	
+aCwa	horse	Persian	asb	
+arSa	bear	Persian	xirs	
+bRzant	high	Persian	buland	
+barda	spade	Persian	bel	
+barzAd	height	Persian	bAlA	
+caTwRCat	forty	Persian	cihil	
+daCa	ten	Persian	da	
+darn	tear/rend	Persian	darrIdan	
+g(a)rna-ka	flock	Persian	galla	
+gau-Cwanta-	sheep	Persian	gospand	
+gau-Cwanta-	sheep	Persian	gosfand	
+hiJwAna	tongue	Persian	zabān	
+hiJwAna	tongue	Persian	zawān	
+kRmi	worm	Persian	kirm	
+kaCyapa	tortoise	Persian	kaSaf	kaSav
+laupACa	fox	Persian	rUbA	
+marJ	rub	Persian	mAl	mAl-
+muSti	fist	Persian	muSt	
+p(a)rdanku	panther	Persian	palang	
+pRna	full	Persian	pur	
+pRtu	bridge	Persian	pUl	pul
+parna	feather	Persian	parr	
+puTra	son	Persian	pus	
+rASta	right	Persian	rāst	
+spRzan	spleen	Persian	uspurz	
+wahAra	spring	Persian	bahār	
+wiCati	twenty	Persian	bIst	
+w(a)rda	flower	Persian	gul	
+wAf	weave	Persian	bāf	bāftan
+wAr	rain (n.)	Persian	bAr	bArAn
+wAta	wind	Persian	bAd	
+wAJi(n)	falcon	Persian	bAz	
+wAJi(yaka?)	play (n.)	Persian	bAzI	
+wRSnaka	hungry	Persian	gurusna	
+wRSnaka	hungry	Persian	guSna	
+wRka	wolf	Persian	gurg	
+wRpaka	cat	Persian	gurba	
+wRtka	kidney	Persian	gurda	
+waCya	more	Persian	beS	
+waJr(a)ka	great	Persian	buzurg	
+waJra	mace/club	Persian	gurz	
+wafra	snow	Persian	barf	
+wagza	frog	Persian	wazaG	
+wahuni	blood	Persian	xUn	
+wahya	good	Persian	bih	bihtar ‘better’
+waiSa	forest	Persian	bīSa	
+waicIna?	sieve	Persian	bEz	bExtan
+waina	see	Persian	bIn	
+waita	willow	Persian	bId	
+wana	tree	Persian	bun	
+wanjecaka	sparrow	Persian	binjiSk	
+wanjecaka	sparrow	Persian	gunjiSk	
+warAJa	boar	Persian	gurāz	
+warAJa	boar	Persian	wurāz	
+wara	breast	Persian	bar	
+warka	leaf	Persian	barg	
+warna-ka	lamb/wool	Persian	barra	
+wart-	turn	Persian	gard	gardīdan
+wasI	many	Persian	bisyār	
+wat-caka	child	Persian	bacca	
+wata	bad	Persian	bad	
+wicAra	pass	Persian	guzAr	
+widAna	tent	Persian	giyAn	(MacKenzie s.v. wiyAn)
+widawA	widow	Persian	bewa	
+winACa	sin	Persian	gunAh	
+wiyapAna	steppe	Persian	biyābān	
+wrinji	rice	Persian	birinj	
+wrinji	rice	Persian	gurinj	
+wyAka	place	Persian	jā	
+wyAna	life/soul	Persian	jān	
+JRd	heart	Persian	dil	
+aCru	tear (n.)	Bandari	xars 	
+aCwa	horse	Bandari	asp	
+kaCyapa	tortoise	Bandari	kAsapoSt	
+spRzan	spleen	Bandari	espül	
+wahAra	spring	Bandari	buhAr	
+w(a)rda	flower	Bandari	gol	
+wAJi(yaka?)	play (n.)	Bandari	gAzi	
+wRSnaka	hungry	Bandari	guSna	
+wagza	frog	Bandari	gwak	
+waicIna?	sieve	Bandari	gIz	argIz (cf. NP ard-bEz)
+waina	see	Bandari	gin	gin-
+wana	tree	Bandari	bun	bush
+wata	bad	Bandari	bad	
+widawA	widow	Bandari	biva	bivazan
+JRd	heart	Bandari	del	
+skar	hunt	Bandari	eSkAl	
+(f)SupAna	shepherd	Pahlavi	SubAn 	
+Carda	cold	Pahlavi	sard	
+Cwaita	white	Pahlavi	spEd	
+Cwaka	dog	Pahlavi	sag	
+CwiSa	flea	Pahlavi	spiS	
+CyAwa	black	Pahlavi	syA	
+RJifya	eagle	Pahlavi	Aluh	
+warJI-kAra	farmer	Pahlavi	warzIgar	
+Jarnu-mani	black eagle	Pahlavi	dAlman	
+aCru	tear (n.)	Pahlavi	ars	
+aCwa	horse	Pahlavi	asp	
+aCwa	horse	Pahlavi	aswAr	
+arSa	bear	Pahlavi	xirs	
+bRzant	high	Pahlavi	borz	
+bRzant	high	Pahlavi	buland	
+barda	spade	Pahlavi	bEl	
+barzAd	height	Pahlavi	bAlAy	
+caTwRCat	forty	Pahlavi	cehel	
+daCa	ten	Pahlavi	dah	
+darn	tear/rend	Pahlavi	darr	darrIdan
+gau-Cwanta-	sheep	Pahlavi	gOspand	‘(small) cattle, sheep’
+hiJwAna	tongue	Pahlavi	uzwAn	
+kRmi	worm	Pahlavi	kirm	
+kaCyapa	tortoise	Pahlavi	kaSawag	
+laupACa	fox	Pahlavi	rObAh	
+marJ	rub	Pahlavi	mAl	mAl-
+muSti	fist	Pahlavi	must	
+muSti	fist	Pahlavi	muSt	
+pRna	full	Pahlavi	purr	
+pRtu	bridge	Pahlavi	puhl	
+parna	feather	Pahlavi	parr	
+puTra	son	Pahlavi	pus	pus(ar)
+rASta	right	Pahlavi	rAst	true, straight, direct’
+spRzan	spleen	Pahlavi	spul	
+spRzan	spleen	Pahlavi	spurz	
+wahAra	spring	Pahlavi	wahAr	
+wiCati	twenty	Pahlavi	wIst	
+w(a)rda	flower	Pahlavi	gul	
+wAf	weave	Pahlavi	waf	waf-
+wAr	rain (n.)	Pahlavi	wArAn	
+wAta	wind	Pahlavi	wAd	
+wAJi(n)	falcon	Pahlavi	bAz	
+wAJi(yaka?)	play (n.)	Pahlavi	wAzIg	
+wRCa-ka-	hair	Pahlavi	wars	
+wRSnaka	hungry	Pahlavi	gursag	
+wRSnaka	hungry	Pahlavi	guSnag	
+wRka	wolf	Pahlavi	gurg	
+wRpaka	cat	Pahlavi	gurbag	
+wRtka	kidney	Pahlavi	gurdag	
+waCya	more	Pahlavi	wES	
+waJr(a)ka	great	Pahlavi	wuzurg	
+waJra	mace/club	Pahlavi	warz	
+wafra	snow	Pahlavi	wafr	
+wagza	frog	Pahlavi	wazaG	wak
+wahuni	blood	Pahlavi	xOn	
+wahya	good	Pahlavi	weh	‘better, good’
+waiSa	forest	Pahlavi	wESag	‘wood'
+waicIna?	sieve	Pahlavi	wExtan	‘sift'
+waita	willow	Pahlavi	wEd	
+wana	tree	Pahlavi	wan	
+wanjecaka	sparrow	Pahlavi	winjiSk	
+warAJa	boar	Pahlavi	warAz	
+wara	breast	Pahlavi	war	
+warka	leaf	Pahlavi	warg	
+warka	leaf	Pahlavi	walg	
+warna-ka	lamb/wool	Pahlavi	warrag	
+wart-	turn	Pahlavi	ward	ward-
+wasI	many	Pahlavi	was	
+wat-caka	child	Pahlavi	waccag	
+wata	bad	Pahlavi	wad	
+wicAra	pass	Pahlavi	wizAr	wizAr- ‘separate; explain, interpret; perform, fulfil, redeem’
+widAna	tent	Pahlavi	wiyAn	
+widawA	widow	Pahlavi	wEwag	
+winACa	sin	Pahlavi	winAh	
+wiyapAna	steppe	Pahlavi	wiyAbAn	
+wrinji	rice	Pahlavi	brinj	
+wyAka	place	Pahlavi	gyAg	
+wyAna	life/soul	Pahlavi	gyAn	
+JRd	heart	Pahlavi	dil	
+Carda	cold	Gilaki	s@rd	
+Cwaita	white	Gilaki	s@fid	sifid
+Cwaka	dog	Gilaki	s@g	
+CyAwa	black	Gilaki	siyA	
+aCru-ka	tear (n.)	Gilaki	ašk	
+aCwa	horse	Gilaki	asp	
+bRzant	high	Gilaki	bulənd	
+barzAd	height	Gilaki	bålå	‘high’
+caTwRCat	forty	Gilaki	cel	
+daCa	ten	Gilaki	da	
+hiJwAna	tongue	Gilaki	zəbån	
+laupACa	fox	Gilaki	rubå	
+pRna	full	Gilaki	pur	
+pRtu	bridge	Gilaki	purd	
+parna	feather	Gilaki	pər	
+puTra	son	Gilaki	pəsər	
+rASta	right	Gilaki	råst	‘upright’
+wahAra	spring	Gilaki	bəhår	
+wiCati	twenty	Gilaki	bist	
+w(a)rda	flower	Gilaki	gul	
+wAf	weave	Gilaki	båf	parčəbåfi
+wAr	rain (n.)	Gilaki	bårəš	
+wAta	wind	Gilaki	båd	
+wAJi(yaka?)	play (n.)	Gilaki	båzi	
+wRSnaka	hungry	Gilaki	višta	
+wRka	wolf	Gilaki	gurg	
+waJr(a)ka	great	Gilaki	buzurg	
+wahuni	blood	Gilaki	xun	
+wart-	turn	Gilaki	gərd-	
+wata	bad	Gilaki	bəd	
+wicAra	pass	Gilaki	guzər	
+winACa	sin	Gilaki	gunǻ	
+wiyapAna	steppe	Gilaki	biyåbån	‘wilderness'
+wrinji	rice	Gilaki	bərənǰ	
+wyAka	place	Gilaki	ǰåy	
+wyAna	life/soul	Gilaki	ǰån	
+JRd	heart	Gilaki	dil	
