@@ -1,0 +1,1160 @@
+Gurani & a\'{c}\textsubarch{u}a & asp & \'{c}\textsubarch{u} & sp & 0.60 & 0.08 & 0.19 & 0.06 & 0.03 & 0.01 & 0.01 & 0.01 & 0.00 & 0.01\\
+Gurani & ar\v{s}a & ha\v{s} & rs & \v{s} & 0.67 & 0.11 & 0.06 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Gurani & ar\v{s}a & ha\v{s} & pro & pro & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & ar\v{s}a & xirs & rs & rs & 0.41 & 0.00 & 0.59 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & ar\v{s}a & xirs & pro & pro & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & barz\={a}d & b\={a}l\={a} & r\'{\j} & l & 0.54 & 0.09 & 0.22 & 0.07 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Gurani & b\textsubring{r}zant & barz & r\'{\j} & r\'{\j} & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & cil & r\'{c} & l & 0.00 & 0.21 & 0.49 & 0.16 & 0.07 & 0.02 & 0.01 & 0.02 & 0.01 & 0.01\\
+Gurani & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & siy\={a}(u) & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & da\'{c}a & dah & \'{c} & h & 0.57 & 0.09 & 0.21 & 0.07 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Gurani & g(a)rna-ka & gall\={a} & rn & l & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & hi\'{\j}\textsubarch{u}\={a}na & z\={u}\={a}n & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & mu\v{s}ti & mi\v{s}t & \v{s}t & \v{s}t & 0.42 & 0.12 & 0.28 & 0.09 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Gurani & parna & pal & rn & l & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & p\textsubring{r}tu & pirdi & rt & rt & 0.88 & 0.00 & 0.12 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & \textsubarch{u}ah\={a}ra & vah\={a}r & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & \textsubarch{u}(a)rda & wil\={i} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & \textsubarch{u}(a)rda & wil\={i} & rd & l & 0.60 & 0.08 & 0.19 & 0.06 & 0.03 & 0.01 & 0.01 & 0.01 & 0.00 & 0.01\\
+Gurani & \textsubarch{u}afra & varwa & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & \textsubarch{u}afra & varwa & meta & meta & 0.00 & 0.21 & 0.49 & 0.16 & 0.07 & 0.02 & 0.01 & 0.02 & 0.01 & 0.01\\
+Gurani & \textsubarch{u}ahuni & win\={i} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & \textsubarch{u}ah\textsubarch{i}a & wa\v{s} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & \textsubarch{u}aic\={i}na? & vicina & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & \textsubarch{u}\={a}r & v\={a}r\={a}n & \textsubarch{u} & w & 0.92 & 0.08 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & \textsubarch{u}arna-ka & valala & \textsubarch{u} & w & 0.84 & 0.00 & 0.16 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & \textsubarch{u}arna-ka & valala & rn & l & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & \textsubarch{u}arna-ka & var\={a}la & \textsubarch{u} & w & 0.84 & 0.00 & 0.16 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & \textsubarch{u}arna-ka & var\={a}la & rn & l & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & \textsubarch{u}\={a}ta & v\={a} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & \textsubarch{u}\textsubring{r}ka & warya & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gurani & \textsubarch{u}\textsubarch{i}\={a}ka & j\={a} & \textsubarch{u} & j & 0.60 & 0.08 & 0.19 & 0.06 & 0.03 & 0.01 & 0.01 & 0.01 & 0.00 & 0.01\\
+Gurani & \textsubarch{u}\textsubarch{i}\={a}na & gy\={a}n & \textsubarch{u} & g & 0.36 & 0.13 & 0.31 & 0.10 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Gurani & \'{\j}\textsubring{r}d & zil & rd & l & 0.57 & 0.09 & 0.21 & 0.07 & 0.02 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Khunsari & a\'{c}\textsubarch{u}a & asm & \'{c}\textsubarch{u} & sp & 0.71 & 0.08 & 0.10 & 0.06 & 0.02 & 0.01 & 0.01 & 0.01 & 0.00 & 0.00\\
+Khunsari & barda & bar & rd & rd & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Khunsari & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & cil & r\'{c} & l & 0.00 & 0.26 & 0.34 & 0.20 & 0.08 & 0.03 & 0.04 & 0.02 & 0.02 & 0.02\\
+Khunsari & \'{c}\textsubarch{u}aka & isba & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Khunsari & hi\'{\j}\textsubarch{u}\={a}na & zeb\={u}n & \'{\j}\textsubarch{u} & zb & 0.01 & 0.26 & 0.34 & 0.20 & 0.08 & 0.03 & 0.04 & 0.02 & 0.02 & 0.02\\
+Khunsari & hi\'{\j}\textsubarch{u}\={a}na & zev\={u}n & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Khunsari & parna & par & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Khunsari & pu{\texttheta}ra & p\={i}r & tr & tr & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Khunsari & \textsubarch{u}afra & varf & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Khunsari & \textsubarch{u}afra & varf & meta & meta & 0.01 & 0.26 & 0.34 & 0.20 & 0.08 & 0.03 & 0.04 & 0.02 & 0.02 & 0.02\\
+Khunsari & \textsubarch{u}ahuni & x\={i}n & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Khunsari & \textsubarch{u}\={a}r & v\={a}r\={u}n & \textsubarch{u} & w & 0.93 & 0.07 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Khunsari & \textsubarch{u}ara & var & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Khunsari & \textsubarch{u}arka & valg & \textsubarch{u} & w & 0.92 & 0.00 & 0.08 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Khunsari & \textsubarch{u}arka & valg & r & l & 0.00 & 0.26 & 0.34 & 0.20 & 0.08 & 0.03 & 0.04 & 0.02 & 0.02 & 0.02\\
+Khunsari & \textsubarch{u}arna-ka & berra & \textsubarch{u} & b & 0.63 & 0.10 & 0.10 & 0.08 & 0.03 & 0.01 & 0.02 & 0.01 & 0.01 & 0.01\\
+Khunsari & \textsubarch{u}arna-ka & berra & rn & (r)r & 0.01 & 0.26 & 0.34 & 0.20 & 0.08 & 0.03 & 0.04 & 0.02 & 0.02 & 0.02\\
+Khunsari & \textsubarch{u}art- & vardana & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Khunsari & \textsubarch{u}as\={i} & vas & \textsubarch{u} & w & 0.71 & 0.08 & 0.10 & 0.06 & 0.02 & 0.01 & 0.01 & 0.01 & 0.00 & 0.00\\
+Khunsari & \textsubarch{u}at-caka & vec(c)a & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Khunsari & \textsubarch{u}ata & vad & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Khunsari & \textsubarch{u}\textsubring{r}ka & gurg & \textsubarch{u} & g & 0.26 & 0.19 & 0.25 & 0.15 & 0.06 & 0.02 & 0.03 & 0.01 & 0.01 & 0.01\\
+Khunsari & \textsubarch{u}\textsubarch{i}\={a}na & giy\={u}n & \textsubarch{u} & g & 0.48 & 0.14 & 0.18 & 0.11 & 0.04 & 0.01 & 0.02 & 0.01 & 0.01 & 0.01\\
+Khunsari & \'{\j}\textsubring{r}d & dil & rd & l & 0.68 & 0.08 & 0.11 & 0.07 & 0.02 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Khunsari & gau-\'{c}\textsubarch{u}anta- & g\={u}sband & \'{c}\textsubarch{u} & sp & 0.71 & 0.08 & 0.10 & 0.06 & 0.02 & 0.01 & 0.01 & 0.01 & 0.00 & 0.00\\
+Khunsari & gau-\'{c}\textsubarch{u}anta- & g\={u}sfand & \'{c}\textsubarch{u} & sp & 0.71 & 0.08 & 0.10 & 0.06 & 0.02 & 0.01 & 0.01 & 0.01 & 0.00 & 0.00\\
+Gaz & a\'{c}\textsubarch{u}a & asm & \'{c}\textsubarch{u} & sp & 0.76 & 0.07 & 0.08 & 0.05 & 0.02 & 0.00 & 0.01 & 0.00 & 0.00 & 0.00\\
+Gaz & barda & bard & rd & rd & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & barda & b\={e}rc\={i} & rd & rd & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & b\textsubring{r}zant & biland & r\'{\j} & l & 0.66 & 0.10 & 0.11 & 0.07 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Gaz & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & cil & r\'{c} & l & 0.00 & 0.29 & 0.33 & 0.20 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Gaz & g(a)rna-ka & gal(l)e & rn & l & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & hi\'{\j}\textsubarch{u}\={a}na & uz\={u}n & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & laup\={a}\'{c}a & l\={u} & \'{c} & h & 0.65 & 0.10 & 0.11 & 0.07 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Gaz & laup\={a}\'{c}a & l\={u} & l & l & 0.70 & 0.09 & 0.10 & 0.06 & 0.02 & 0.01 & 0.01 & 0.00 & 0.01 & 0.01\\
+Gaz & mu\v{s}ti & mu\v{s}t & \v{s}t & \v{s}t & 0.60 & 0.12 & 0.13 & 0.08 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Gaz & \textsubarch{u}i\'{c}ati & v\={i}s & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}(a)rda & gul & \textsubarch{u} & g & 0.01 & 0.28 & 0.32 & 0.20 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Gaz & \textsubarch{u}(a)rda & gul & rd & l & 0.76 & 0.07 & 0.08 & 0.05 & 0.02 & 0.00 & 0.01 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}afra & vaf & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}afra & vaf & meta & unclear & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}afra & varf & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}afra & varf & meta & meta & 0.01 & 0.29 & 0.33 & 0.20 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Gaz & \textsubarch{u}ahuni & x\={u}n & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}ai\v{s}a & v\={e}\v{s} & \textsubarch{u} & w & 0.76 & 0.07 & 0.08 & 0.05 & 0.02 & 0.00 & 0.01 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}aita & b\={i}d & \textsubarch{u} & b & 0.15 & 0.24 & 0.28 & 0.17 & 0.07 & 0.02 & 0.03 & 0.01 & 0.02 & 0.01\\
+Gaz & \textsubarch{u}ana & van & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}anjecaka & gunji\v{s}g & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}\={a}r & v\={a}r\={u}n & \textsubarch{u} & w & 0.94 & 0.06 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}ara & var & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}arka & valg & \textsubarch{u} & w & 0.94 & 0.00 & 0.06 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}arka & valg & r & l & 0.00 & 0.29 & 0.33 & 0.20 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Gaz & \textsubarch{u}arna-ka & vere & \textsubarch{u} & w & 0.94 & 0.00 & 0.06 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}arna-ka & vere & rn & (r)r & 0.01 & 0.28 & 0.32 & 0.20 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Gaz & \textsubarch{u}arna-ka & vire & \textsubarch{u} & w & 0.94 & 0.00 & 0.06 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}arna-ka & vire & rn & (r)r & 0.01 & 0.28 & 0.32 & 0.20 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Gaz & \textsubarch{u}as\={i} & vas & \textsubarch{u} & w & 0.76 & 0.07 & 0.08 & 0.05 & 0.02 & 0.00 & 0.01 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}at-caka & vac(c)e & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}ata & vat & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}\={a}ta & v\={a} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}\textsubring{r}ka & gurg & \textsubarch{u} & g & 0.31 & 0.20 & 0.23 & 0.14 & 0.05 & 0.01 & 0.02 & 0.01 & 0.01 & 0.01\\
+Gaz & \textsubarch{u}\textsubring{r}\v{s}naka & va\v{s}\v{s}e & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & \textsubarch{u}\textsubring{r}\v{s}naka & va\v{s}\v{s}e & rs & \v{s} & 0.01 & 0.29 & 0.33 & 0.20 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Gaz & \textsubarch{u}\textsubring{r}tka & gurde & \textsubarch{u} & g & 0.01 & 0.28 & 0.32 & 0.20 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Gaz & \textsubarch{u}\textsubarch{i}\={a}na & j\={u}n & \textsubarch{u} & j & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gaz & \'{\j}\textsubring{r}d & dil & rd & l & 0.73 & 0.08 & 0.09 & 0.05 & 0.02 & 0.00 & 0.01 & 0.00 & 0.01 & 0.00\\
+Gaz & gau-\'{c}\textsubarch{u}anta- & g\={u}sfand & \'{c}\textsubarch{u} & sp & 0.76 & 0.07 & 0.08 & 0.05 & 0.02 & 0.00 & 0.01 & 0.00 & 0.00 & 0.00\\
+Mazandarani & b\textsubring{r}zant & belan & r\'{\j} & l & 0.69 & 0.08 & 0.11 & 0.07 & 0.02 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Mazandarani & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & cehel & r\'{c} & l & 0.00 & 0.26 & 0.34 & 0.22 & 0.06 & 0.03 & 0.03 & 0.02 & 0.02 & 0.02\\
+Mazandarani & \'{c}\textsubarch{u}aka & sag & \'{c}\textsubarch{u} & s & 0.01 & 0.25 & 0.33 & 0.22 & 0.06 & 0.03 & 0.03 & 0.02 & 0.02 & 0.02\\
+Mazandarani & \'{c}\textsubarch{u}i\v{s}a & ‘espij & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Mazandarani & da\'{c}a & da & \'{c} & h & 0.75 & 0.06 & 0.08 & 0.05 & 0.02 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+Mazandarani & hi\'{\j}\textsubarch{u}\={a}na & zabun & \'{\j}\textsubarch{u} & zb & 0.01 & 0.25 & 0.33 & 0.22 & 0.06 & 0.03 & 0.03 & 0.02 & 0.02 & 0.02\\
+Mazandarani & mu\v{s}ti & mis & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Mazandarani & \textsubarch{u}ah\={a}ra & bah\={a}r & \textsubarch{u} & b & 0.01 & 0.25 & 0.33 & 0.22 & 0.06 & 0.03 & 0.03 & 0.02 & 0.02 & 0.02\\
+Mazandarani & \textsubarch{u}i\'{c}ati & bist & \textsubarch{u} & b & 0.01 & 0.26 & 0.33 & 0.22 & 0.06 & 0.03 & 0.03 & 0.02 & 0.02 & 0.02\\
+Mazandarani & \textsubarch{u}afra & varf & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Mazandarani & \textsubarch{u}afra & varf & meta & meta & 0.01 & 0.25 & 0.33 & 0.22 & 0.06 & 0.03 & 0.03 & 0.02 & 0.02 & 0.02\\
+Mazandarani & \textsubarch{u}ahuni & xun & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Mazandarani & \textsubarch{u}\={a}r & v\={a}re\v{s} & \textsubarch{u} & w & 0.95 & 0.05 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Mazandarani & \textsubarch{u}arka & valg & \textsubarch{u} & w & 0.94 & 0.00 & 0.06 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Mazandarani & \textsubarch{u}arka & valg & r & l & 0.00 & 0.26 & 0.33 & 0.22 & 0.06 & 0.03 & 0.03 & 0.02 & 0.02 & 0.02\\
+Mazandarani & \textsubarch{u}at-caka & vaca & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Mazandarani & \textsubarch{u}\={a}ta & v\={a} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Mazandarani & \textsubarch{u}\={a}\'{\j}i(n) & v\={a}z & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Mazandarani & \textsubarch{u}\textsubring{r}ka & varg & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Mazandarani & \textsubarch{u}\textsubring{r}\v{s}naka & va\v{s}n\={a} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Mazandarani & \textsubarch{u}\textsubring{r}\v{s}naka & va\v{s}n\={a} & rs & \v{s} & 0.01 & 0.25 & 0.33 & 0.22 & 0.06 & 0.03 & 0.03 & 0.02 & 0.02 & 0.02\\
+Mazandarani & \textsubarch{u}\textsubring{r}tka & g\={a}rda & \textsubarch{u} & g & 0.01 & 0.25 & 0.33 & 0.22 & 0.06 & 0.03 & 0.03 & 0.02 & 0.02 & 0.02\\
+Mazandarani & \'{\j}\textsubring{r}d & del & rd & l & 0.75 & 0.06 & 0.08 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+Mazandarani & gau-\'{c}\textsubarch{u}anta- & gesfan & \'{c}\textsubarch{u} & sp & 0.78 & 0.06 & 0.07 & 0.05 & 0.01 & 0.01 & 0.01 & 0.00 & 0.01 & 0.00\\
+S Tati & (f)\v{s}up\={a}na & cupun & \v{s} & c & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & a\'{c}ru & arsa & \'{c}r & rs & 0.00 & 0.26 & 0.26 & 0.19 & 0.06 & 0.14 & 0.03 & 0.01 & 0.02 & 0.02\\
+S Tati & a\'{c}ru & arsa & pro & no pro & 0.12 & 0.23 & 0.23 & 0.17 & 0.05 & 0.12 & 0.03 & 0.01 & 0.02 & 0.01\\
+S Tati & a\'{c}\textsubarch{u}a & asb & \'{c}\textsubarch{u} & sp & 0.58 & 0.11 & 0.11 & 0.08 & 0.02 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+S Tati & ar\v{s}a & xers & rs & rs & 0.53 & 0.00 & 0.47 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & ar\v{s}a & xers & pro & pro & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & barda & bila & rd & l & 0.01 & 0.26 & 0.26 & 0.19 & 0.06 & 0.14 & 0.03 & 0.01 & 0.02 & 0.02\\
+S Tati & barda & bar(r)a & rd & rd & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & cel & r\'{c} & l & 0.00 & 0.26 & 0.26 & 0.19 & 0.06 & 0.14 & 0.03 & 0.01 & 0.02 & 0.02\\
+S Tati & \'{c}\textsubarch{u}aka & esb\={a} & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \'{c}\textsubarch{u}i\v{s}a & espeja & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \'{c}\textsubarch{u}i\v{s}a & esbeja & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & si\={a} & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & da\'{c}a & dah & \'{c} & h & 0.54 & 0.12 & 0.12 & 0.09 & 0.03 & 0.06 & 0.02 & 0.01 & 0.01 & 0.01\\
+S Tati & g(a)rna-ka & galle & rn & l & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & hi\'{\j}\textsubarch{u}\={a}na & z\={o}n & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & k\textsubring{r}mi & kelma & r & l & 0.58 & 0.11 & 0.11 & 0.08 & 0.02 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+S Tati & laup\={a}\'{c}a & lu\={a}s & \'{c} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & laup\={a}\'{c}a & lu\={a}s & l & l & 0.50 & 0.13 & 0.13 & 0.10 & 0.03 & 0.07 & 0.02 & 0.01 & 0.01 & 0.01\\
+S Tati & mu\v{s}ti & mo\v{s}ta & \v{s}t & \v{s}t & 0.39 & 0.16 & 0.16 & 0.12 & 0.04 & 0.08 & 0.02 & 0.01 & 0.01 & 0.01\\
+S Tati & parna & parr & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & pu{\texttheta}ra & fer & tr & tr & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & pu{\texttheta}ra & pur & tr & tr & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \textsubarch{u}ah\={a}ra & beh\={a}r & \textsubarch{u} & b & 0.00 & 0.26 & 0.26 & 0.19 & 0.06 & 0.14 & 0.03 & 0.01 & 0.02 & 0.02\\
+S Tati & \textsubarch{u}i\'{c}ati & vist & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \textsubarch{u}(a)rda & vela & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \textsubarch{u}(a)rda & vela & rd & l & 0.58 & 0.11 & 0.11 & 0.08 & 0.02 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+S Tati & \textsubarch{u}\={a}f & bev & \textsubarch{u} & b & 0.27 & 0.20 & 0.20 & 0.15 & 0.04 & 0.08 & 0.03 & 0.01 & 0.02 & 0.01\\
+S Tati & \textsubarch{u}afra & vara & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \textsubarch{u}afra & vara & meta & unclear & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \textsubarch{u}ahuni & xemn & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \textsubarch{u}aina & vin & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \textsubarch{u}aita & via & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \textsubarch{u}anjecaka & vi\v{s}kinj & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \textsubarch{u}\={a}r & v\={a}r & \textsubarch{u} & w & 0.89 & 0.11 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \textsubarch{u}arka & varga & \textsubarch{u} & w & 0.89 & 0.00 & 0.11 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \textsubarch{u}arka & varga & r & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \textsubarch{u}art- & gard & \textsubarch{u} & g & 0.01 & 0.26 & 0.26 & 0.19 & 0.06 & 0.14 & 0.03 & 0.01 & 0.02 & 0.02\\
+S Tati & \textsubarch{u}\={a}ta & v\={a} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \textsubarch{u}\={a}\'{\j}i(\textsubarch{i}aka?) & v\={a}z & \textsubarch{u} & w & 0.95 & 0.00 & 0.00 & 0.05 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \textsubarch{u}ida\textsubarch{u}\={a} & vivia & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \textsubarch{u}\textsubring{r}ka & varg & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \textsubarch{u}\textsubring{r}\v{s}naka & go\v{s}na & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \textsubarch{u}\textsubring{r}\v{s}naka & go\v{s}na & rs & \v{s} & 0.00 & 0.26 & 0.26 & 0.19 & 0.06 & 0.14 & 0.03 & 0.01 & 0.02 & 0.02\\
+S Tati & \textsubarch{u}\textsubarch{i}\={a}na & yon & \textsubarch{u} & y & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Tati & \'{\j}\textsubring{r}d & del & rd & l & 0.54 & 0.12 & 0.12 & 0.09 & 0.02 & 0.06 & 0.02 & 0.01 & 0.01 & 0.01\\
+Awromani & a\'{c}\textsubarch{u}a & asp & \'{c}\textsubarch{u} & sp & 0.83 & 0.04 & 0.06 & 0.03 & 0.01 & 0.00 & 0.01 & 0.00 & 0.01 & 0.00\\
+Awromani & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & c\={e}l & r\'{c} & l & 0.00 & 0.23 & 0.37 & 0.18 & 0.06 & 0.03 & 0.05 & 0.03 & 0.03 & 0.02\\
+Awromani & da\'{c}a & da & \'{c} & h & 0.81 & 0.04 & 0.07 & 0.04 & 0.01 & 0.01 & 0.01 & 0.00 & 0.01 & 0.00\\
+Awromani & hi\'{\j}\textsubarch{u}\={a}na & zaw\={a}n & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Awromani & laup\={a}\'{c}a & row\={a}s & \'{c} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Awromani & laup\={a}\'{c}a & row\={a}s & l & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Awromani & laup\={a}\'{c}a & rub\={a} & \'{c} & h & 0.74 & 0.06 & 0.10 & 0.05 & 0.02 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Awromani & laup\={a}\'{c}a & rub\={a} & l & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Awromani & p\textsubring{r}tu & pord & rt & rt & 0.97 & 0.00 & 0.03 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Awromani & r\={a}\v{s}ta & ras & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Awromani & \textsubarch{u}i\'{c}ati & bis(t) & \textsubarch{u} & b & 0.01 & 0.22 & 0.37 & 0.18 & 0.06 & 0.03 & 0.05 & 0.03 & 0.03 & 0.02\\
+Awromani & \textsubarch{u}ahuni & h\={u}n & \textsubarch{u} & h & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Awromani & \textsubarch{u}ahuni & wun & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Awromani & \textsubarch{u}ai\v{s}a & w\={e}\v{s}\={a} & \textsubarch{u} & w & 0.83 & 0.04 & 0.06 & 0.03 & 0.01 & 0.00 & 0.01 & 0.00 & 0.01 & 0.00\\
+Awromani & \textsubarch{u}\={a}r & waran & \textsubarch{u} & w & 0.97 & 0.03 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Awromani & \textsubarch{u}arna-ka & w{\ae}r\={a} & \textsubarch{u} & w & 0.96 & 0.00 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Awromani & \textsubarch{u}arna-ka & w{\ae}r\={a} & rn & (r)r & 0.01 & 0.22 & 0.37 & 0.18 & 0.06 & 0.03 & 0.05 & 0.03 & 0.03 & 0.02\\
+Awromani & \textsubarch{u}\textsubring{r}ka & w{\ae}rg & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Awromani & \textsubarch{u}\textsubarch{i}\={a}na & gy\={a}n & \textsubarch{u} & g & 0.64 & 0.08 & 0.13 & 0.07 & 0.02 & 0.01 & 0.02 & 0.01 & 0.01 & 0.01\\
+Bakhtiyari & \textsubarch{u}ahuni & h\={i}n & \textsubarch{u} & h & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & \textsubarch{u}arna-ka & varra & \textsubarch{u} & w & 0.98 & 0.00 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & \textsubarch{u}arna-ka & varra & rn & (r)r & 0.02 & 0.21 & 0.26 & 0.15 & 0.09 & 0.20 & 0.03 & 0.02 & 0.02 & 0.01\\
+Bakhtiyari & \textsubarch{u}id\={a}na & b\={o}\={u}n & \textsubarch{u} & b & 0.67 & 0.08 & 0.07 & 0.05 & 0.03 & 0.07 & 0.01 & 0.01 & 0.01 & 0.01\\
+Mamasani Hadank & sp\textsubring{r}zan & usbul & r\'{\j} & l & 0.43 & 0.16 & 0.18 & 0.11 & 0.04 & 0.02 & 0.02 & 0.02 & 0.01 & 0.01\\
+Mamasani Hadank & \textsubarch{u}anjecaka & bangisht & \textsubarch{u} & b & 0.05 & 0.26 & 0.30 & 0.19 & 0.07 & 0.03 & 0.03 & 0.03 & 0.02 & 0.02\\
+Mamasani Hadank & \textsubarch{u}ar\={a}\'{\j}a & bur\={a}z & \textsubarch{u} & b & 0.03 & 0.27 & 0.30 & 0.19 & 0.08 & 0.03 & 0.03 & 0.03 & 0.02 & 0.02\\
+Mamasani Hadank & \textsubarch{u}arna-ka & varra & \textsubarch{u} & w & 0.94 & 0.00 & 0.06 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Mamasani Hadank & \textsubarch{u}arna-ka & varra & rn & (r)r & 0.01 & 0.27 & 0.31 & 0.20 & 0.08 & 0.03 & 0.03 & 0.03 & 0.02 & 0.02\\
+Larestani & a\'{c}ru & xars & \'{c}r & rs & 0.02 & 0.27 & 0.30 & 0.18 & 0.04 & 0.12 & 0.02 & 0.02 & 0.02 & 0.02\\
+Larestani & a\'{c}ru & xars & pro & pro & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Larestani & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & cel & r\'{c} & l & 0.01 & 0.27 & 0.30 & 0.18 & 0.04 & 0.13 & 0.03 & 0.02 & 0.02 & 0.02\\
+Larestani & \'{c}\textsubarch{u}aka & sag & \'{c}\textsubarch{u} & s & 0.02 & 0.27 & 0.30 & 0.18 & 0.04 & 0.12 & 0.02 & 0.02 & 0.02 & 0.02\\
+Larestani & \'{c}\textsubarch{u}i\v{s}a & ‘e\v{s} & \'{c}\textsubarch{u} & s & 0.81 & 0.05 & 0.06 & 0.03 & 0.01 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Larestani & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & siy\={a} & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Larestani & da\'{c}a & da & \'{c} & h & 0.83 & 0.05 & 0.05 & 0.03 & 0.01 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Larestani & hi\'{\j}\textsubarch{u}\={a}na & zabu & \'{\j}\textsubarch{u} & zb & 0.01 & 0.27 & 0.30 & 0.18 & 0.04 & 0.13 & 0.02 & 0.02 & 0.02 & 0.02\\
+Larestani & k\textsubring{r}mi & kerm & r & r & 0.85 & 0.04 & 0.05 & 0.03 & 0.01 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Larestani & mu\v{s}ti & mo\v{s}t & \v{s}t & \v{s}t & 0.73 & 0.07 & 0.08 & 0.05 & 0.01 & 0.03 & 0.01 & 0.01 & 0.00 & 0.00\\
+Larestani & parna & fal & rn & l & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Larestani & p\textsubring{r}tu & pol & rt & l & 0.73 & 0.08 & 0.07 & 0.05 & 0.01 & 0.04 & 0.01 & 0.01 & 0.01 & 0.00\\
+Larestani & pu{\texttheta}ra & pos & tr & s & 0.71 & 0.08 & 0.09 & 0.05 & 0.01 & 0.04 & 0.01 & 0.01 & 0.01 & 0.00\\
+Larestani & r\={a}\v{s}ta & r\={a}ss & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Larestani & \textsubarch{u}ah\={a}ra & ba’\={a}r & \textsubarch{u} & b & 0.02 & 0.27 & 0.30 & 0.18 & 0.04 & 0.13 & 0.02 & 0.02 & 0.02 & 0.02\\
+Larestani & \textsubarch{u}i\'{c}ati & biss & \textsubarch{u} & b & 0.01 & 0.27 & 0.30 & 0.18 & 0.04 & 0.13 & 0.02 & 0.02 & 0.02 & 0.02\\
+Larestani & \textsubarch{u}(a)rda & gol & \textsubarch{u} & g & 0.02 & 0.27 & 0.30 & 0.18 & 0.04 & 0.12 & 0.02 & 0.02 & 0.02 & 0.02\\
+Larestani & \textsubarch{u}(a)rda & gol & rd & l & 0.85 & 0.04 & 0.05 & 0.03 & 0.01 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Larestani & \textsubarch{u}a\'{c}\textsubarch{i}a & be\v{s} & \'{c}\textsubarch{i} & \v{s} & 0.85 & 0.04 & 0.05 & 0.03 & 0.01 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Larestani & \textsubarch{u}a\'{c}\textsubarch{i}a & be\v{s} & \textsubarch{u} & b & 0.04 & 0.26 & 0.29 & 0.17 & 0.04 & 0.12 & 0.02 & 0.02 & 0.02 & 0.02\\
+Larestani & \textsubarch{u}\={a}f & b\={a}fta & \textsubarch{u} & b & 0.60 & 0.11 & 0.13 & 0.07 & 0.02 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01\\
+Larestani & \textsubarch{u}afra & vafr & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Larestani & \textsubarch{u}afra & vafr & meta & no meta & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Larestani & \textsubarch{u}afra & barf & \textsubarch{u} & b & 0.79 & 0.06 & 0.06 & 0.04 & 0.01 & 0.03 & 0.01 & 0.00 & 0.00 & 0.00\\
+Larestani & \textsubarch{u}afra & barf & meta & meta & 0.01 & 0.27 & 0.30 & 0.18 & 0.04 & 0.13 & 0.02 & 0.02 & 0.02 & 0.02\\
+Larestani & \textsubarch{u}ahuni & x\"{u}n & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Larestani & \textsubarch{u}aina & binada & \textsubarch{u} & b & 0.03 & 0.26 & 0.30 & 0.17 & 0.04 & 0.12 & 0.02 & 0.02 & 0.02 & 0.02\\
+Larestani & \textsubarch{u}anjecaka & biji & \textsubarch{u} & b & 0.08 & 0.25 & 0.28 & 0.16 & 0.03 & 0.12 & 0.02 & 0.02 & 0.02 & 0.01\\
+Larestani & \textsubarch{u}\={a}r & bareda & \textsubarch{u} & b & 0.79 & 0.05 & 0.07 & 0.04 & 0.01 & 0.03 & 0.01 & 0.00 & 0.00 & 0.00\\
+Larestani & \textsubarch{u}arka & barg & \textsubarch{u} & b & 0.79 & 0.06 & 0.05 & 0.04 & 0.01 & 0.03 & 0.01 & 0.00 & 0.00 & 0.00\\
+Larestani & \textsubarch{u}arka & barg & r & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Larestani & \textsubarch{u}arna-ka & barra & \textsubarch{u} & b & 0.80 & 0.06 & 0.05 & 0.04 & 0.01 & 0.03 & 0.01 & 0.00 & 0.00 & 0.00\\
+Larestani & \textsubarch{u}arna-ka & barra & rn & (r)r & 0.02 & 0.27 & 0.30 & 0.18 & 0.04 & 0.13 & 0.02 & 0.02 & 0.02 & 0.02\\
+Larestani & \textsubarch{u}at-caka & bec & \textsubarch{u} & b & 0.68 & 0.09 & 0.10 & 0.06 & 0.01 & 0.04 & 0.01 & 0.01 & 0.01 & 0.00\\
+Larestani & \textsubarch{u}ata & bad & \textsubarch{u} & b & 0.03 & 0.26 & 0.30 & 0.17 & 0.04 & 0.12 & 0.02 & 0.02 & 0.02 & 0.02\\
+Larestani & \textsubarch{u}\={a}ta & b\={a}d & \textsubarch{u} & b & 0.71 & 0.08 & 0.09 & 0.05 & 0.01 & 0.04 & 0.01 & 0.01 & 0.01 & 0.00\\
+Larestani & \textsubarch{u}\={a}\'{\j}i(\textsubarch{i}aka?) & b\={a}z\={i} & \textsubarch{u} & b & 0.60 & 0.11 & 0.13 & 0.06 & 0.02 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01\\
+Larestani & \textsubarch{u}rinji & berenj & \textsubarch{u} & b & 0.85 & 0.04 & 0.05 & 0.03 & 0.01 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Larestani & \textsubarch{u}\textsubring{r}\v{s}naka & go\v{s}na & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Larestani & \textsubarch{u}\textsubring{r}\v{s}naka & go\v{s}na & rs & \v{s} & 0.01 & 0.27 & 0.30 & 0.18 & 0.04 & 0.13 & 0.02 & 0.02 & 0.02 & 0.02\\
+Larestani & \textsubarch{u}\textsubring{r}tka & gordak\"{u} & \textsubarch{u} & g & 0.02 & 0.27 & 0.30 & 0.18 & 0.04 & 0.12 & 0.02 & 0.02 & 0.02 & 0.02\\
+Larestani & \textsubarch{u}\textsubarch{i}\={a}ka & j\={a} & \textsubarch{u} & j & 0.85 & 0.04 & 0.05 & 0.03 & 0.01 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Larestani & \textsubarch{u}\textsubarch{i}\={a}na & ju & \textsubarch{u} & j & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Larestani & \'{\j}\textsubring{r}d & del & rd & l & 0.83 & 0.05 & 0.05 & 0.03 & 0.00 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & \textsubarch{u}\={a}f & b\={a}ftan & \textsubarch{u} & b & 0.24 & 0.19 & 0.24 & 0.15 & 0.04 & 0.09 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sivandi & barda & b\={i}l & rd & l & 0.01 & 0.24 & 0.30 & 0.19 & 0.05 & 0.15 & 0.02 & 0.02 & 0.02 & 0.02\\
+Sivandi & b\textsubring{r}zant & boland & r\'{\j} & l & 0.43 & 0.14 & 0.17 & 0.11 & 0.03 & 0.09 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sivandi & \textsubarch{u}anjecaka & bonje\v{s}k & \textsubarch{u} & b & 0.02 & 0.24 & 0.30 & 0.19 & 0.05 & 0.15 & 0.02 & 0.02 & 0.02 & 0.02\\
+Sivandi & \'{\j}\textsubring{r}d & del & rd & l & 0.51 & 0.12 & 0.15 & 0.09 & 0.02 & 0.08 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sivandi & darn & derr & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & \'{c}\textsubarch{u}aka & espe & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & sp\textsubring{r}zan & espel & r\'{\j} & l & 0.23 & 0.19 & 0.23 & 0.15 & 0.04 & 0.12 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sivandi & \textsubarch{u}\textsubring{r}\v{s}naka & fe\v{s}e & \textsubarch{u} & f & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & \textsubarch{u}\textsubring{r}\v{s}naka & fe\v{s}e & rs & \v{s} & 0.00 & 0.24 & 0.30 & 0.19 & 0.05 & 0.15 & 0.02 & 0.02 & 0.02 & 0.02\\
+Sivandi & \textsubarch{u}ahuni & f\={i}n & \textsubarch{u} & f & 0.00 & 0.24 & 0.30 & 0.19 & 0.05 & 0.15 & 0.02 & 0.02 & 0.02 & 0.02\\
+Sivandi & \textsubarch{u}(a)rda & gol & \textsubarch{u} & g & 0.00 & 0.24 & 0.30 & 0.19 & 0.05 & 0.15 & 0.02 & 0.02 & 0.02 & 0.02\\
+Sivandi & \textsubarch{u}(a)rda & gol & rd & l & 0.54 & 0.11 & 0.14 & 0.09 & 0.02 & 0.07 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sivandi & \textsubarch{u}in\={a}\'{c}a & gon\={a} & \'{c} & h & 0.54 & 0.11 & 0.14 & 0.09 & 0.02 & 0.07 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sivandi & \textsubarch{u}in\={a}\'{c}a & gon\={a} & \textsubarch{u} & g & 0.00 & 0.24 & 0.30 & 0.19 & 0.05 & 0.15 & 0.02 & 0.02 & 0.02 & 0.02\\
+Sivandi & \'{c}\textsubarch{u}i\v{s}a & pe\v{s} & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & ka\'{c}\textsubarch{i}apa & kalapo\v{s}t & \'{c}\textsubarch{i} & \v{s} & 0.01 & 0.24 & 0.30 & 0.19 & 0.05 & 0.15 & 0.02 & 0.02 & 0.02 & 0.02\\
+Sivandi & k\textsubring{r}mi & kerm & r & r & 0.54 & 0.11 & 0.14 & 0.09 & 0.02 & 0.07 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sivandi & \textsubarch{u}agza & maze & \textsubarch{u} & m & 0.89 & 0.00 & 0.00 & 0.00 & 0.03 & 0.08 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & p\textsubring{r}tu & perd & rt & rt & 0.90 & 0.00 & 0.10 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & parna & parr & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & r\={a}\v{s}ta & r\={a}s & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & laup\={a}\'{c}a & r\={u}b\={a} & \'{c} & h & 0.42 & 0.14 & 0.18 & 0.11 & 0.03 & 0.09 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sivandi & laup\={a}\'{c}a & r\={u}b\={a} & l & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & siya & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & a\'{c}\textsubarch{u}a & us\={u}r & \'{c}\textsubarch{u} & s & 0.54 & 0.11 & 0.14 & 0.09 & 0.02 & 0.07 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sivandi & \textsubarch{u}ah\={a}ra & v\={a}h\={a}r & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & \textsubarch{u}arka & valk & \textsubarch{u} & w & 0.86 & 0.00 & 0.14 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & \textsubarch{u}arka & valk & r & l & 0.00 & 0.24 & 0.30 & 0.19 & 0.05 & 0.15 & 0.02 & 0.02 & 0.02 & 0.02\\
+Sivandi & \textsubarch{u}\={a}r & v\={a}r\={a}n & \textsubarch{u} & w & 0.88 & 0.12 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & \textsubarch{u}afra & varf & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & \textsubarch{u}afra & varf & meta & meta & 0.00 & 0.24 & 0.30 & 0.19 & 0.05 & 0.15 & 0.02 & 0.02 & 0.02 & 0.02\\
+Sivandi & \textsubarch{u}arna-ka & vare & \textsubarch{u} & w & 0.87 & 0.00 & 0.13 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & \textsubarch{u}arna-ka & vare & rn & (r)r & 0.00 & 0.24 & 0.30 & 0.19 & 0.05 & 0.15 & 0.02 & 0.02 & 0.02 & 0.02\\
+Sivandi & \textsubarch{u}aita & vi & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & \textsubarch{u}a\'{c}\textsubarch{i}a & v\={i}\v{s}tar & \'{c}\textsubarch{i} & \v{s} & 0.54 & 0.11 & 0.14 & 0.09 & 0.02 & 0.07 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sivandi & \textsubarch{u}a\'{c}\textsubarch{i}a & v\={i}\v{s}tar & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & \textsubarch{u}\={a}ta & voy & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & hi\'{\j}\textsubarch{u}\={a}na & zuw\={a}n & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & g(a)rna-ka & galle & rn & l & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & (f)\v{s}up\={a}na & c\={u}p\={a}n & \v{s} & c & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & \textsubarch{u}ah\textsubarch{i}a & va & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & \textsubarch{u}rinji & berc & \textsubarch{u} & b & 0.54 & 0.11 & 0.14 & 0.09 & 0.02 & 0.07 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sivandi & \textsubarch{u}\textsubring{r}tka & velk & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & \textsubarch{u}art- & gir & \textsubarch{u} & g & 0.01 & 0.24 & 0.30 & 0.19 & 0.05 & 0.15 & 0.02 & 0.02 & 0.02 & 0.02\\
+Sivandi & \textsubarch{u}\textsubarch{i}\={a}na & gy\={a}n & \textsubarch{u} & g & 0.31 & 0.17 & 0.21 & 0.13 & 0.03 & 0.11 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sivandi & \textsubarch{u}aic\={i}na? & vi\v{s}ne & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sivandi & \textsubarch{u}i\'{c}ati & v\={i}s & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & a\'{c}ru & hars & \'{c}r & rs & 0.03 & 0.21 & 0.26 & 0.14 & 0.09 & 0.20 & 0.03 & 0.02 & 0.02 & 0.01\\
+Bakhtiyari & a\'{c}ru & hars & pro & pro & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & a\'{c}\textsubarch{u}a & asp & \'{c}\textsubarch{u} & sp & 0.88 & 0.03 & 0.03 & 0.02 & 0.01 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & ar\v{s}a & xers & rs & rs & 0.86 & 0.00 & 0.14 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & ar\v{s}a & xers & pro & pro & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & cel & r\'{c} & l & 0.01 & 0.21 & 0.27 & 0.15 & 0.09 & 0.20 & 0.03 & 0.02 & 0.02 & 0.01\\
+Bakhtiyari & \'{c}\textsubarch{u}aka & say & \'{c}\textsubarch{u} & s & 0.02 & 0.21 & 0.26 & 0.14 & 0.09 & 0.20 & 0.03 & 0.02 & 0.02 & 0.01\\
+Bakhtiyari & \'{c}\textsubarch{u}i\v{s}a & \v{s}e\v{s} & \'{c}\textsubarch{u} & s & 0.85 & 0.03 & 0.04 & 0.02 & 0.01 & 0.03 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & \v{s}ah & \'{c}\textsubarch{i} & \v{s} & 0.02 & 0.21 & 0.27 & 0.15 & 0.09 & 0.20 & 0.03 & 0.02 & 0.02 & 0.01\\
+Bakhtiyari & da\'{c}a & dah & \'{c} & h & 0.87 & 0.03 & 0.04 & 0.02 & 0.01 & 0.03 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & darn & der & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & g(a)rna-ka & gale & rn & l & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & hi\'{\j}\textsubarch{u}\={a}na & zovn & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & ka\'{c}\textsubarch{i}apa & k\={a}se & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & laup\={a}\'{c}a & ruv\={a} & \'{c} & h & 0.82 & 0.04 & 0.05 & 0.03 & 0.02 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & laup\={a}\'{c}a & ruv\={a} & l & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & mu\v{s}ti & most & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & parna & par & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & p\textsubring{r}tu & pol & rt & l & 0.78 & 0.05 & 0.05 & 0.04 & 0.02 & 0.05 & 0.01 & 0.00 & 0.01 & 0.00\\
+Bakhtiyari & r\={a}\v{s}ta & r\={a}st & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & \textsubarch{u}ah\={a}ra & boh\={a}r & \textsubarch{u} & b & 0.02 & 0.21 & 0.26 & 0.14 & 0.09 & 0.20 & 0.03 & 0.02 & 0.02 & 0.01\\
+Bakhtiyari & \textsubarch{u}i\'{c}ati & bist & \textsubarch{u} & b & 0.02 & 0.21 & 0.27 & 0.15 & 0.09 & 0.20 & 0.03 & 0.02 & 0.02 & 0.01\\
+Bakhtiyari & \textsubarch{u}(a)rda & gol & \textsubarch{u} & g & 0.03 & 0.21 & 0.26 & 0.14 & 0.09 & 0.20 & 0.03 & 0.02 & 0.02 & 0.01\\
+Bakhtiyari & \textsubarch{u}(a)rda & gol & rd & l & 0.88 & 0.03 & 0.03 & 0.02 & 0.01 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & \textsubarch{u}\={a}f & baften & \textsubarch{u} & b & 0.67 & 0.07 & 0.09 & 0.05 & 0.03 & 0.05 & 0.01 & 0.01 & 0.01 & 0.00\\
+Bakhtiyari & skar & \v{s}ek\={a}l & r & l & 0.12 & 0.19 & 0.24 & 0.13 & 0.08 & 0.18 & 0.02 & 0.02 & 0.02 & 0.01\\
+Bakhtiyari & \textsubarch{u}agza & baq?? & \textsubarch{u} & b & 0.80 & 0.05 & 0.06 & 0.03 & 0.01 & 0.03 & 0.01 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & \textsubarch{u}ahuni & hin & \textsubarch{u} & h & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & \textsubarch{u}aita & beyd & \textsubarch{u} & b & 0.30 & 0.15 & 0.19 & 0.10 & 0.06 & 0.14 & 0.02 & 0.01 & 0.01 & 0.01\\
+Bakhtiyari & \textsubarch{u}anjecaka & benge\v{s}t & \textsubarch{u} & b & 0.10 & 0.19 & 0.24 & 0.13 & 0.08 & 0.18 & 0.02 & 0.02 & 0.02 & 0.01\\
+Bakhtiyari & \textsubarch{u}\={a}r & b\={a}rovn & \textsubarch{u} & b & 0.83 & 0.03 & 0.05 & 0.03 & 0.02 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & \textsubarch{u}ar\={a}\'{\j}a & gor\={a}z & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & \textsubarch{u}arna-ka & bare & \textsubarch{u} & b & 0.84 & 0.04 & 0.04 & 0.03 & 0.02 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & \textsubarch{u}arna-ka & bare & rn & (r)r & 0.02 & 0.21 & 0.26 & 0.15 & 0.09 & 0.20 & 0.03 & 0.02 & 0.02 & 0.01\\
+Bakhtiyari & \textsubarch{u}at-caka & bace & \textsubarch{u} & b & 0.74 & 0.06 & 0.07 & 0.04 & 0.02 & 0.05 & 0.01 & 0.00 & 0.01 & 0.00\\
+Bakhtiyari & \textsubarch{u}\={a}ta & b\={a}d & \textsubarch{u} & b & 0.76 & 0.05 & 0.07 & 0.04 & 0.02 & 0.05 & 0.01 & 0.00 & 0.01 & 0.00\\
+Bakhtiyari & \textsubarch{u}\={a}\'{\j}i(\textsubarch{i}aka?) & b\={a}zi & \textsubarch{u} & b & 0.66 & 0.08 & 0.10 & 0.04 & 0.03 & 0.07 & 0.01 & 0.01 & 0.01 & 0.00\\
+Bakhtiyari & \textsubarch{u}a\'{\j}ra & gorz & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & \textsubarch{u}ic\={a}ra & gozar & \textsubarch{u} & g & 0.73 & 0.06 & 0.07 & 0.04 & 0.02 & 0.05 & 0.01 & 0.00 & 0.01 & 0.00\\
+Bakhtiyari & \textsubarch{u}i\textsubarch{i}ap\={a}na & biy\={a}vovn & \textsubarch{u} & b & 0.06 & 0.20 & 0.25 & 0.14 & 0.08 & 0.19 & 0.02 & 0.02 & 0.02 & 0.01\\
+Bakhtiyari & \textsubarch{u}rinji & berenj & \textsubarch{u} & b & 0.88 & 0.03 & 0.03 & 0.02 & 0.01 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & \textsubarch{u}\textsubring{r}ka & gorg & \textsubarch{u} & g & 0.51 & 0.10 & 0.13 & 0.07 & 0.04 & 0.10 & 0.01 & 0.01 & 0.01 & 0.01\\
+Bakhtiyari & \textsubarch{u}\textsubring{r}\v{s}naka & gosne & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & \textsubarch{u}\textsubring{r}tka & gord\={a}le & \textsubarch{u} & g & 0.03 & 0.21 & 0.26 & 0.14 & 0.09 & 0.19 & 0.03 & 0.02 & 0.02 & 0.01\\
+Bakhtiyari & \textsubarch{u}\textsubarch{i}\={a}ka & j\={a} & \textsubarch{u} & j & 0.88 & 0.03 & 0.03 & 0.02 & 0.01 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & \textsubarch{u}\textsubarch{i}\={a}na & jovn & \textsubarch{u} & j & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bakhtiyari & \'{\j}\textsubring{r}d & del & rd & l & 0.87 & 0.03 & 0.04 & 0.02 & 0.01 & 0.03 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & (f)\v{s}up\={a}na & \v{s}iw\={a}ne & \v{s} & \v{s} & 0.22 & 0.13 & 0.36 & 0.11 & 0.10 & 0.02 & 0.02 & 0.01 & 0.01 & 0.01\\
+Zazaki & a\'{c}ru & hesri & \'{c}r & sr & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & a\'{c}ru & hesri & pro & pro & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & a\'{c}\textsubarch{u}a & ospore & \'{c}\textsubarch{u} & sp & 0.69 & 0.05 & 0.15 & 0.04 & 0.04 & 0.01 & 0.01 & 0.00 & 0.00 & 0.00\\
+Zazaki & ar\v{s}a & he\v{s} & rs & \v{s} & 0.74 & 0.06 & 0.05 & 0.05 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Zazaki & ar\v{s}a & he\v{s} & pro & pro & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & cewres & r\'{c} & r\'{c} & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & \'{c}\textsubarch{u}i\v{s}a & e\v{s}pi\'{\j} & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & siy\={a} & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & darn & di\={r}\={a} & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & hi\'{\j}\textsubarch{u}\={a}na & ziw\={a}n & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & ka\'{c}\textsubarch{i}apa & kese & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & laup\={a}\'{c}a & l\"{u} & \'{c} & h & 0.57 & 0.07 & 0.20 & 0.06 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Zazaki & laup\={a}\'{c}a & l\"{u} & l & l & 0.62 & 0.06 & 0.18 & 0.05 & 0.05 & 0.01 & 0.01 & 0.01 & 0.00 & 0.01\\
+Zazaki & parna & pur & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & p\textsubring{r}tu & pird & rt & rt & 0.91 & 0.00 & 0.09 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & r\={a}\v{s}ta & r\={a}\v{s}t & \v{s}t & \v{s}t & 0.00 & 0.16 & 0.47 & 0.14 & 0.13 & 0.02 & 0.03 & 0.02 & 0.01 & 0.01\\
+Zazaki & \textsubarch{u}i\'{c}ati & v\={i}st & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & da\'{c}a & des & \'{c} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & \textsubarch{u}(a)rda & gul & \textsubarch{u} & g & 0.01 & 0.16 & 0.47 & 0.14 & 0.13 & 0.02 & 0.03 & 0.02 & 0.01 & 0.01\\
+Zazaki & \textsubarch{u}(a)rda & gul & rd & l & 0.69 & 0.05 & 0.15 & 0.04 & 0.04 & 0.01 & 0.01 & 0.00 & 0.00 & 0.00\\
+Zazaki & \textsubarch{u}afra & vewr & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & \textsubarch{u}afra & vewr & meta & no meta & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & \textsubarch{u}ahuni & g\={u}n\={i} & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & \textsubarch{u}\={a}r & v\={a}r\={a}n & \textsubarch{u} & w & 0.95 & 0.05 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & \textsubarch{u}ara & vir\={a}r & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & \textsubarch{u}arka & velg & \textsubarch{u} & w & 0.88 & 0.00 & 0.12 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & \textsubarch{u}arka & velg & r & l & 0.00 & 0.16 & 0.47 & 0.14 & 0.13 & 0.02 & 0.03 & 0.02 & 0.01 & 0.01\\
+Zazaki & \textsubarch{u}arna-ka & vorek & \textsubarch{u} & w & 0.89 & 0.00 & 0.11 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & \textsubarch{u}arna-ka & vorek & rn & (r)r & 0.01 & 0.16 & 0.47 & 0.14 & 0.13 & 0.02 & 0.03 & 0.02 & 0.01 & 0.01\\
+Zazaki & \textsubarch{u}\={a}ta & v\={a} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & \textsubarch{u}ida\textsubarch{u}\={a} & v\={i}y\={a} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & \textsubarch{u}\textsubring{r}\v{s}naka & vey\v{s}\={a}n & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zazaki & \textsubarch{u}\textsubring{r}\v{s}naka & vey\v{s}\={a}n & rs & \v{s} & 0.01 & 0.16 & 0.47 & 0.14 & 0.13 & 0.02 & 0.03 & 0.02 & 0.01 & 0.01\\
+Zazaki & \textsubarch{u}\textsubarch{i}\={a}ka & j\={a} & \textsubarch{u} & j & 0.69 & 0.05 & 0.15 & 0.04 & 0.04 & 0.01 & 0.01 & 0.00 & 0.00 & 0.00\\
+Zazaki & \textsubarch{u}\textsubarch{i}\={a}na & g\={a}n & \textsubarch{u} & g & 0.45 & 0.09 & 0.26 & 0.08 & 0.07 & 0.01 & 0.02 & 0.01 & 0.01 & 0.01\\
+Zazaki & \'{\j}\textsubring{r}d & ze\={r}i & rd & rd & 0.90 & 0.00 & 0.00 & 0.00 & 0.10 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & a\'{c}\textsubarch{u}a & asp & \'{c}\textsubarch{u} & sp & 0.62 & 0.08 & 0.11 & 0.08 & 0.02 & 0.05 & 0.01 & 0.01 & 0.01 & 0.00\\
+Talysh & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & c\"{u}l & r\'{c} & l & 0.00 & 0.22 & 0.29 & 0.22 & 0.06 & 0.15 & 0.02 & 0.02 & 0.02 & 0.01\\
+Talysh & \'{c}\textsubarch{u}aka & s{\textschwa}pa & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & r\={a}\v{s}ta & rost & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \textsubarch{u}i\'{c}ati & vist & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \textsubarch{u}ai\v{s}a & vi\v{s}a & \textsubarch{u} & w & 0.62 & 0.08 & 0.11 & 0.08 & 0.02 & 0.05 & 0.01 & 0.01 & 0.01 & 0.00\\
+Talysh & \'{\j}\textsubring{r}d & del & rd & l & 0.59 & 0.09 & 0.12 & 0.09 & 0.02 & 0.06 & 0.01 & 0.01 & 0.01 & 0.00\\
+Talysh & ar\v{s}a & x{\textschwa}rs & rs & rs & 0.55 & 0.00 & 0.45 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & ar\v{s}a & x{\textschwa}rs & pro & pro & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & barda & bur & rd & rd & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \'{c}\textsubarch{u}aka & {\textschwa}spa & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \'{c}\textsubarch{u}i\v{s}a & {\textschwa}sb{\textschwa}j & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & si\={a} & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & hi\'{\j}\textsubarch{u}\={a}na & zab\={o}n & \'{\j}\textsubarch{u} & zb & 0.00 & 0.22 & 0.29 & 0.22 & 0.06 & 0.14 & 0.02 & 0.02 & 0.02 & 0.01\\
+Talysh & hi\'{\j}\textsubarch{u}\={a}na & zuvun & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & hi\'{\j}\textsubarch{u}\={a}na & zymyn & \'{\j}\textsubarch{u} & zm & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & laup\={a}\'{c}a & r{\textschwa}vus & \'{c} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & laup\={a}\'{c}a & r{\textschwa}vus & l & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & p\textsubring{r}tu & pard & rt & rt & 0.93 & 0.00 & 0.07 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & r\={a}\v{s}ta & rust & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \textsubarch{u}ah\={a}ra & bah\={a}r & \textsubarch{u} & b & 0.00 & 0.22 & 0.29 & 0.22 & 0.06 & 0.14 & 0.02 & 0.02 & 0.02 & 0.01\\
+Talysh & \textsubarch{u}(a)rda & v{\textschwa}l & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \textsubarch{u}(a)rda & v{\textschwa}l & rd & l & 0.62 & 0.08 & 0.11 & 0.08 & 0.02 & 0.05 & 0.01 & 0.01 & 0.01 & 0.00\\
+Talysh & \textsubarch{u}(a)rda & gul & \textsubarch{u} & g & 0.01 & 0.22 & 0.29 & 0.22 & 0.06 & 0.14 & 0.02 & 0.02 & 0.02 & 0.01\\
+Talysh & \textsubarch{u}(a)rda & gul & rd & l & 0.62 & 0.08 & 0.11 & 0.08 & 0.02 & 0.05 & 0.01 & 0.01 & 0.01 & 0.00\\
+Talysh & \textsubarch{u}a\'{c}\textsubarch{i}a & vi\v{s}tatar & \'{c}\textsubarch{i} & \v{s} & 0.62 & 0.08 & 0.11 & 0.08 & 0.02 & 0.05 & 0.01 & 0.01 & 0.01 & 0.00\\
+Talysh & \textsubarch{u}a\'{c}\textsubarch{i}a & vi\v{s}tatar & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \textsubarch{u}\={a}f & bof & \textsubarch{u} & b & 0.31 & 0.16 & 0.21 & 0.16 & 0.04 & 0.08 & 0.02 & 0.01 & 0.01 & 0.01\\
+Talysh & \textsubarch{u}afra & var & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \textsubarch{u}afra & var & meta & unclear & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \textsubarch{u}ahuni & xun & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \textsubarch{u}aina & vin & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \textsubarch{u}aita & vi & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \textsubarch{u}\={a}r & v\={a}r & \textsubarch{u} & w & 0.92 & 0.08 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \textsubarch{u}arna-ka & va\textsubring{r}\={a} & \textsubarch{u} & w & 0.90 & 0.00 & 0.10 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \textsubarch{u}art- & gard & \textsubarch{u} & g & 0.01 & 0.22 & 0.29 & 0.22 & 0.06 & 0.14 & 0.02 & 0.02 & 0.02 & 0.01\\
+Talysh & \textsubarch{u}\={a}ta & vu & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \textsubarch{u}\={a}\'{\j}i(\textsubarch{i}aka?) & b\={a}zi & \textsubarch{u} & b & 0.31 & 0.16 & 0.21 & 0.12 & 0.04 & 0.11 & 0.02 & 0.01 & 0.01 & 0.01\\
+Talysh & \textsubarch{u}ida\textsubarch{u}\={a} & viva & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \textsubarch{u}rinji & barz & \textsubarch{u} & b & 0.62 & 0.08 & 0.11 & 0.08 & 0.02 & 0.05 & 0.01 & 0.01 & 0.01 & 0.00\\
+Talysh & \textsubarch{u}\textsubring{r}ka & varg & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \textsubarch{u}\textsubring{r}\v{s}naka & ve\v{s}i & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \textsubarch{u}\textsubring{r}\v{s}naka & ve\v{s}i & rs & \v{s} & 0.00 & 0.22 & 0.29 & 0.22 & 0.06 & 0.14 & 0.02 & 0.02 & 0.02 & 0.01\\
+Talysh & \textsubarch{u}\textsubarch{i}\={a}ka & j\={a} & \textsubarch{u} & j & 0.62 & 0.08 & 0.11 & 0.08 & 0.02 & 0.05 & 0.01 & 0.01 & 0.01 & 0.00\\
+Talysh & \textsubarch{u}\textsubarch{i}\={a}na & j\={a}n & \textsubarch{u} & j & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Talysh & \'{\j}\textsubring{r}d & d{\textschwa}l & rd & l & 0.59 & 0.09 & 0.12 & 0.09 & 0.02 & 0.06 & 0.01 & 0.01 & 0.01 & 0.00\\
+Balochi Marw & (f)\v{s}up\={a}na & \v{s}w\={a}n\'{a}g & \v{s} & \v{s} & 0.58 & 0.08 & 0.18 & 0.08 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Balochi Marw & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & siy\={a} & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & a\'{c}\textsubarch{u}a & asp & \'{c}\textsubarch{u} & sp & 0.91 & 0.02 & 0.04 & 0.02 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & ar\v{s}a & xirs & rs & rs & 0.84 & 0.00 & 0.16 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & ar\v{s}a & xirs & pro & pro & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & b\textsubring{r}zant & burz & r\'{\j} & r\'{\j} & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & barda & b\={e}l & rd & l & 0.06 & 0.17 & 0.40 & 0.18 & 0.07 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Balochi Marw & barz\={a}d & balad & r\'{\j} & l & 0.89 & 0.02 & 0.05 & 0.02 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & cil & r\'{c} & l & 0.01 & 0.18 & 0.42 & 0.19 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Balochi Marw & da\'{c}a & da & \'{c} & h & 0.90 & 0.02 & 0.04 & 0.02 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & darn & dir  & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & g(a)rna-ka & gal & rn & l & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & hi\'{\j}\textsubarch{u}\={a}na & zub\={a}n & \'{\j}\textsubarch{u} & zb & 0.03 & 0.18 & 0.42 & 0.18 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Balochi Marw & k\textsubring{r}mi & kirm & r & r & 0.91 & 0.02 & 0.04 & 0.02 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & laup\={a}\'{c}a & r\={u}b\={a} & \'{c} & h & 0.86 & 0.03 & 0.06 & 0.03 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & laup\={a}\'{c}a & r\={u}b\={a} & l & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & parna & parr & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & r\={a}\v{s}ta & r\={a}stam & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}i\'{c}ati & b\={i}st & \textsubarch{u} & b & 0.02 & 0.18 & 0.42 & 0.18 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Balochi Marw & \textsubarch{u}i\'{c}ati & g\={i}st & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}(a)rda & gul & \textsubarch{u} & g & 0.04 & 0.18 & 0.41 & 0.18 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Balochi Marw & \textsubarch{u}(a)rda & gul & rd & l & 0.91 & 0.02 & 0.04 & 0.02 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}\={a}ta & gw\={a}t & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}\={a}\'{\j}i(n) & b\={a}z & \textsubarch{u} & b & 0.28 & 0.13 & 0.31 & 0.13 & 0.06 & 0.02 & 0.02 & 0.02 & 0.01 & 0.02\\
+Balochi Marw & \textsubarch{u}\={a}\'{\j}i(\textsubarch{i}aka?) & gw\={a}z\twoacc[\'|\={\i}] & \textsubarch{u} & g & 0.99 & 0.00 & 0.00 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}\textsubring{r}\v{s}naka & gu\v{s}nag & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}\textsubring{r}\v{s}naka & gu\v{s}nag & rs & \v{s} & 0.02 & 0.18 & 0.42 & 0.18 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Balochi Marw & \textsubarch{u}\textsubring{r}ka & gurk & \textsubarch{u} & g & 0.60 & 0.08 & 0.17 & 0.08 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Balochi Marw & \textsubarch{u}a\'{c}\textsubarch{i}a & ge\v{s}tir & \'{c}\textsubarch{i} & \v{s} & 0.91 & 0.02 & 0.04 & 0.02 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}a\'{c}\textsubarch{i}a & ge\v{s}tir & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}a\'{\j}ra & burz & \textsubarch{u} & b & 0.08 & 0.17 & 0.39 & 0.17 & 0.07 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Balochi Marw & \textsubarch{u}a\'{\j}ra & {$\gamma$}urz ‘club, spear’  & \textsubarch{u} & {$\gamma$} & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}ah\textsubarch{i}a & battir & \textsubarch{u} & b & 0.61 & 0.07 & 0.17 & 0.07 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Balochi Marw & \textsubarch{u}ah\textsubarch{i}a & getir ‘better’ & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}aina & gind & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}aita & bed & \textsubarch{u} & b & 0.37 & 0.12 & 0.27 & 0.12 & 0.05 & 0.02 & 0.02 & 0.02 & 0.01 & 0.01\\
+Balochi Marw & \textsubarch{u}arka & balg & \textsubarch{u} & b & 0.88 & 0.03 & 0.04 & 0.03 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}arka & balg & r & l & 0.01 & 0.18 & 0.42 & 0.19 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Balochi Marw & \textsubarch{u}arna-ka & gwarag & \textsubarch{u} & g & 0.97 & 0.00 & 0.03 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}arna-ka & gwarag & rn & (r)r & 0.03 & 0.18 & 0.42 & 0.18 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Balochi Marw & \textsubarch{u}art- & gardi\v{s}t & \textsubarch{u} & g & 0.05 & 0.18 & 0.41 & 0.18 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Balochi Marw & \textsubarch{u}at-caka & bacak & \textsubarch{u} & b & 0.80 & 0.04 & 0.09 & 0.04 & 0.02 & 0.00 & 0.01 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}ata & bad & \textsubarch{u} & b & 0.05 & 0.18 & 0.41 & 0.18 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Balochi Marw & \textsubarch{u}id\={a}na & gidan & \textsubarch{u} & g & 0.99 & 0.00 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}in\={a}\'{c}a & gun\={a} & \'{c} & h & 0.91 & 0.02 & 0.04 & 0.02 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}in\={a}\'{c}a & gun\={a} & \textsubarch{u} & g & 0.04 & 0.18 & 0.41 & 0.18 & 0.08 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Balochi Marw & \textsubarch{u}i\textsubarch{i}ap\={a}na & gi\={a}b\={a}n & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}\textsubarch{i}\={a}ka & j\={a} & \textsubarch{u} & j & 0.91 & 0.02 & 0.04 & 0.02 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Marw & \textsubarch{u}\textsubring{r}\'{c}a-ka- & gulg & \textsubarch{u} & g & 0.15 & 0.16 & 0.36 & 0.16 & 0.07 & 0.02 & 0.02 & 0.02 & 0.02 & 0.02\\
+Balochi Marw & \textsubarch{u}\textsubring{r}\'{c}a-ka- & gulg & r\'{c} & l & 0.29 & 0.13 & 0.30 & 0.13 & 0.06 & 0.02 & 0.02 & 0.02 & 0.01 & 0.02\\
+Balochi Marw & \'{\j}\textsubring{r}d & dil & rd & l & 0.90 & 0.02 & 0.04 & 0.02 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & (f)\v{s}up\={a}na & sh\={u}\={a}n & \v{s} & \v{s} & 0.21 & 0.12 & 0.43 & 0.08 & 0.09 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & \'{c}\textsubarch{u}aka & seh & \'{c}\textsubarch{u} & s & 0.01 & 0.15 & 0.53 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & \'{c}\textsubarch{u}aka & seg & \'{c}\textsubarch{u} & s & 0.01 & 0.15 & 0.53 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & a\'{c}\textsubarch{u}a & hasp & \'{c}\textsubarch{u} & sp & 0.67 & 0.05 & 0.18 & 0.03 & 0.04 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & ar\v{s}a & hirch & rs & rch & 0.41 & 0.00 & 0.59 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & ar\v{s}a & hirch & pro & pro & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & ar\v{s}a & wirch & rs & rch & 0.41 & 0.00 & 0.59 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & ar\v{s}a & wirch & pro & no pro & 0.00 & 0.15 & 0.54 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & ar\v{s}a & birch & rs & rch & 0.41 & 0.00 & 0.59 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & ar\v{s}a & birch & pro & no pro & 0.00 & 0.15 & 0.54 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & b\textsubring{r}zant & barz & r\'{\j} & r\'{\j} & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & b\textsubring{r}zant & bilin & r\'{\j} & l & 0.56 & 0.07 & 0.24 & 0.04 & 0.05 & 0.03 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & barda & b\={i}a{\l} & rd & l & 0.01 & 0.15 & 0.53 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & barda & bair & rd & rd & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & barz\={a}d & berz\={i} & r\'{\j} & r\'{\j} & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & barz\={a}d & belin\={i} & r\'{\j} & l & 0.61 & 0.06 & 0.21 & 0.04 & 0.05 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & chil & r\'{c} & l & 0.00 & 0.15 & 0.54 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & da\'{c}a & dah & \'{c} & h & 0.64 & 0.06 & 0.20 & 0.04 & 0.04 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & darn & der\={i}\={a}n & rn & (r)n & 0.02 & 0.15 & 0.53 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & g(a)rna-ka & g\={a}r\={a}n & rn & (r)n & 0.02 & 0.15 & 0.53 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & hi\'{\j}\textsubarch{u}\={a}na & zw\={a}n & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & hi\'{\j}\textsubarch{u}\={a}na & hizw\={a}n & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & hi\'{\j}\textsubarch{u}\={a}na & zem\={a}n & \'{\j}\textsubarch{u} & zm & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & hi\'{\j}\textsubarch{u}\={a}na & azm\={a}n & \'{\j}\textsubarch{u} & zm & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & k\textsubring{r}mi & kerma & r & r & 0.67 & 0.05 & 0.18 & 0.03 & 0.04 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & ka\'{c}\textsubarch{i}apa & k\={i}sal & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & laup\={a}\'{c}a & riw\={i} & \'{c} & h & 0.55 & 0.07 & 0.24 & 0.04 & 0.05 & 0.03 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & laup\={a}\'{c}a & riw\={i} & l & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & mu\v{s}ti & must & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & mu\v{s}ti & misht & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & p\textsubring{r}tu & prt & rt & rt & 0.89 & 0.00 & 0.11 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & p\textsubring{r}tu & prr & rt & rt & 0.89 & 0.00 & 0.11 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & parna & par & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & r\={a}\v{s}ta & r\={a}st & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & \textsubarch{u}ah\={a}ra & bah\={a}r & \textsubarch{u} & b & 0.01 & 0.15 & 0.53 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & \textsubarch{u}i\'{c}ati & b\={i}s & \textsubarch{u} & b & 0.00 & 0.15 & 0.54 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & \textsubarch{u}(a)rda & gul & \textsubarch{u} & g & 0.01 & 0.15 & 0.53 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & \textsubarch{u}(a)rda & gul & rd & l & 0.67 & 0.05 & 0.18 & 0.03 & 0.04 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & \textsubarch{u}\={a}r & b\={a}r\={a}n & \textsubarch{u} & b & 0.56 & 0.05 & 0.24 & 0.05 & 0.05 & 0.03 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & \textsubarch{u}\={a}ta & b\={a} & \textsubarch{u} & b & 0.46 & 0.08 & 0.29 & 0.05 & 0.06 & 0.03 & 0.00 & 0.01 & 0.01 & 0.00\\
+Kurmanji Soane & \textsubarch{u}\={a}\'{\j}i(n) & b\={a}z & \textsubarch{u} & b & 0.07 & 0.14 & 0.50 & 0.09 & 0.11 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & \textsubarch{u}\={a}\'{\j}i(\textsubarch{i}aka?) & b\={a}z\={i}n & \textsubarch{u} & b & 0.34 & 0.10 & 0.36 & 0.05 & 0.08 & 0.04 & 0.00 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & \textsubarch{u}\textsubring{r}\v{s}naka & birs\={i} & \textsubarch{u} & b & 0.01 & 0.15 & 0.53 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & \textsubarch{u}\textsubring{r}\v{s}naka & birs\={i} & rs & rs & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & \textsubarch{u}\textsubring{r}ka & gurg & \textsubarch{u} & g & 0.22 & 0.12 & 0.42 & 0.08 & 0.09 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & \textsubarch{u}\textsubring{r}tka & gurch\={i} & \textsubarch{u} & g & 0.01 & 0.15 & 0.53 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & \textsubarch{u}afra & bafr & \textsubarch{u} & b & 0.57 & 0.07 & 0.23 & 0.04 & 0.05 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & \textsubarch{u}afra & bafr & meta & no meta & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & \textsubarch{u}afra & wafr & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & \textsubarch{u}afra & wafr & meta & no meta & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & \textsubarch{u}agza & boq & \textsubarch{u} & b & 0.51 & 0.08 & 0.27 & 0.05 & 0.04 & 0.02 & 0.00 & 0.01 & 0.01 & 0.00\\
+Kurmanji Soane & \textsubarch{u}ahuni & kh\={u}n & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & \textsubarch{u}aic\={i}na? & bezhenk & \textsubarch{u} & b & 0.02 & 0.15 & 0.53 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & \textsubarch{u}aita & b\={i} & \textsubarch{u} & b & 0.10 & 0.14 & 0.48 & 0.09 & 0.10 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & \textsubarch{u}ar\={a}\'{\j}a & bur\={a}z & \textsubarch{u} & b & 0.02 & 0.15 & 0.53 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & \textsubarch{u}ar\={a}\'{\j}a & vur\={a}z & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & \textsubarch{u}arka & barak & \textsubarch{u} & b & 0.58 & 0.07 & 0.19 & 0.05 & 0.06 & 0.03 & 0.00 & 0.01 & 0.00 & 0.00\\
+Kurmanji Soane & \textsubarch{u}arka & barak & r & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & \textsubarch{u}arna-ka & berkh & \textsubarch{u} & b & 0.60 & 0.07 & 0.19 & 0.05 & 0.05 & 0.03 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & \textsubarch{u}arna-ka & berkh & rn & (r)r & 0.01 & 0.15 & 0.53 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & \textsubarch{u}art- & war garr\={i}\={a}n  & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & \textsubarch{u}ida\textsubarch{u}\={a} & b\={i} & \textsubarch{u} & b & 0.01 & 0.15 & 0.53 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & \textsubarch{u}in\={a}\'{c}a & gun\={a} & \'{c} & h & 0.67 & 0.05 & 0.18 & 0.03 & 0.04 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & \textsubarch{u}in\={a}\'{c}a & gun\={a} & \textsubarch{u} & g & 0.01 & 0.15 & 0.53 & 0.10 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurmanji Soane & \textsubarch{u}\textsubarch{i}\={a}ka & gah & \textsubarch{u} & g & 0.67 & 0.05 & 0.18 & 0.03 & 0.04 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & \textsubarch{u}\textsubarch{i}\={a}na & j\={a}n & \textsubarch{u} & j & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & \'{\j}\textsubring{r}d & di{\l} & rd & l & 0.64 & 0.06 & 0.20 & 0.04 & 0.03 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurmanji Soane & \'{\j}\textsubring{r}d & zer & rd & rd & 0.91 & 0.00 & 0.00 & 0.00 & 0.09 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vafsi & (f)\v{s}up\={a}na & cupan & \v{s} & c & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vafsi & \'{c}\textsubarch{u}aka & {\ae}sb{\ae} & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vafsi & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & sia(h) & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vafsi & b\textsubring{r}zant & bol{\ae}nd & r\'{\j} & l & 0.52 & 0.16 & 0.15 & 0.09 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Vafsi & da\'{c}a & d{\ae}(h) & \'{c} & h & 0.61 & 0.13 & 0.12 & 0.07 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+Vafsi & hi\'{\j}\textsubarch{u}\={a}na & zuan & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vafsi & laup\={a}\'{c}a & luas & \'{c} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vafsi & laup\={a}\'{c}a & luas & l & l & 0.56 & 0.14 & 0.14 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Vafsi & mu\v{s}ti & m\'{e}\v{s}d{\ae} & \v{s}t & \v{s}t & 0.45 & 0.18 & 0.17 & 0.10 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Vafsi & parna & p{\ae}r(r) & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vafsi & r\={a}\v{s}ta & rasd & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vafsi & \textsubarch{u}ah\={a}ra & vaar & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vafsi & \textsubarch{u}\={a}r & varan & \textsubarch{u} & w & 0.89 & 0.11 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vafsi & \textsubarch{u}\={a}ta & va & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vafsi & \textsubarch{u}\textsubring{r}\v{s}naka & gosn{\ae} & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vafsi & \textsubarch{u}\textsubring{r}ka & v{\ae}rg & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vafsi & \textsubarch{u}a\'{c}\textsubarch{i}a & bisd{\ae}r & \'{c}\textsubarch{i} & s & 0.64 & 0.12 & 0.11 & 0.07 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+Vafsi & \textsubarch{u}a\'{c}\textsubarch{i}a & bisd{\ae}r & \textsubarch{u} & b & 0.01 & 0.32 & 0.31 & 0.18 & 0.09 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Vafsi & \textsubarch{u}a\'{\j}r(a)ka & bozorgevar & \textsubarch{u} & b & 0.33 & 0.18 & 0.23 & 0.13 & 0.07 & 0.01 & 0.01 & 0.02 & 0.01 & 0.01\\
+Vafsi & \textsubarch{u}ahuni & xun & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vafsi & \textsubarch{u}ai\v{s}a & v{\ae}\v{s}i & \textsubarch{u} & w & 0.64 & 0.12 & 0.11 & 0.07 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+Vafsi & \textsubarch{u}aina & vin & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vafsi & \textsubarch{u}art- & gerd & \textsubarch{u} & g & 0.01 & 0.32 & 0.31 & 0.18 & 0.09 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Vafsi & \textsubarch{u}ida\textsubarch{u}\={a} & v\'{i}{\ae} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vafsi & \textsubarch{u}\textsubarch{i}\={a}na & gan & \textsubarch{u} & g & 0.40 & 0.20 & 0.19 & 0.11 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Vafsi & \textsubarch{u}\textsubarch{i}\={a}na & jan & \textsubarch{u} & j & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vafsi & \'{\j}\textsubring{r}d & del & rd & l & 0.61 & 0.13 & 0.12 & 0.07 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+Balochi Rakhshani & (f)\v{s}up\={a}na & \v{s}wpank  & \v{s} & \v{s} & 0.43 & 0.13 & 0.16 & 0.09 & 0.07 & 0.08 & 0.01 & 0.01 & 0.01 & 0.01\\
+Balochi Rakhshani & \'{c}\textsubarch{u}aka & s{\textschwa}g & \'{c}\textsubarch{u} & s & 0.02 & 0.22 & 0.28 & 0.16 & 0.11 & 0.13 & 0.02 & 0.02 & 0.02 & 0.02\\
+Balochi Rakhshani & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & sya[h] & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & a\'{c}ru & {\textschwa}rs & \'{c}r & rs & 0.02 & 0.22 & 0.28 & 0.16 & 0.11 & 0.13 & 0.02 & 0.02 & 0.02 & 0.02\\
+Balochi Rakhshani & a\'{c}ru & {\textschwa}rs & pro & no pro & 0.37 & 0.14 & 0.18 & 0.10 & 0.07 & 0.08 & 0.01 & 0.01 & 0.01 & 0.01\\
+Balochi Rakhshani & a\'{c}\textsubarch{u}a & {\textschwa}sp & \'{c}\textsubarch{u} & sp & 0.85 & 0.03 & 0.04 & 0.02 & 0.02 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & b\textsubring{r}zant & bwrz & r\'{\j} & r\'{\j} & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & barz\={a}d & balad & r\'{\j} & l & 0.82 & 0.04 & 0.05 & 0.03 & 0.02 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & \v{c}yll & r\'{c} & l & 0.01 & 0.22 & 0.29 & 0.16 & 0.12 & 0.13 & 0.02 & 0.02 & 0.02 & 0.02\\
+Balochi Rakhshani & da\'{c}a & d{\textschwa} & \'{c} & h & 0.84 & 0.04 & 0.05 & 0.03 & 0.02 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & darn & dyrr{\textschwa}g & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & g(a)rna-ka & g{\textschwa}l & rn & l & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & hi\'{\j}\textsubarch{u}\={a}na & zwban & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & laup\={a}\'{c}a & roba & \'{c} & h & 0.78 & 0.05 & 0.06 & 0.04 & 0.03 & 0.03 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & laup\={a}\'{c}a & roba & l & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & p\textsubring{r}tu & pol & rt & l & 0.74 & 0.06 & 0.06 & 0.05 & 0.03 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01\\
+Balochi Rakhshani & parna & p{\textschwa}nn & rn & (r)n & 0.01 & 0.22 & 0.29 & 0.16 & 0.12 & 0.13 & 0.02 & 0.02 & 0.02 & 0.02\\
+Balochi Rakhshani & r\={a}\v{s}ta & rast & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \textsubarch{u}ah\={a}ra & b{\textschwa}[h]ar & \textsubarch{u} & b & 0.02 & 0.22 & 0.28 & 0.16 & 0.12 & 0.13 & 0.02 & 0.02 & 0.02 & 0.02\\
+Balochi Rakhshani & \textsubarch{u}i\'{c}ati & bist & \textsubarch{u} & b & 0.01 & 0.22 & 0.28 & 0.16 & 0.12 & 0.13 & 0.02 & 0.02 & 0.02 & 0.02\\
+Balochi Rakhshani & \textsubarch{u}\={a}f & gv{\textschwa}p{\textschwa}g & \textsubarch{u} & g & 0.99 & 0.00 & 0.00 & 0.00 & 0.00 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \textsubarch{u}\={a}r & gvaran & \textsubarch{u} & g & 0.98 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \textsubarch{u}\={a}ta & gvat & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \textsubarch{u}\={a}\'{\j}i(\textsubarch{i}aka?) & gvazi & \textsubarch{u} & g & 0.99 & 0.00 & 0.00 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \textsubarch{u}\textsubring{r}\'{c}a-ka- & gval{\textschwa}g & \textsubarch{u} & g & 0.09 & 0.20 & 0.26 & 0.15 & 0.11 & 0.12 & 0.02 & 0.02 & 0.02 & 0.02\\
+Balochi Rakhshani & \textsubarch{u}\textsubring{r}\'{c}a-ka- & gval{\textschwa}g & r\'{c} & l & 0.19 & 0.18 & 0.23 & 0.13 & 0.09 & 0.11 & 0.02 & 0.02 & 0.02 & 0.02\\
+Balochi Rakhshani & \textsubarch{u}\textsubring{r}\v{s}naka & gw\v{s}n{\textschwa}g & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \textsubarch{u}\textsubring{r}ka & gwrk & \textsubarch{u} & g & 0.45 & 0.12 & 0.16 & 0.09 & 0.06 & 0.07 & 0.01 & 0.01 & 0.01 & 0.01\\
+Balochi Rakhshani & \textsubarch{u}a\'{c}\textsubarch{i}a & ge\v{s} & \'{c}\textsubarch{i} & \v{s} & 0.85 & 0.03 & 0.04 & 0.02 & 0.02 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \textsubarch{u}a\'{c}\textsubarch{i}a & ge\v{s} & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \textsubarch{u}afra & b{\textschwa}rp & \textsubarch{u} & b & 0.80 & 0.04 & 0.06 & 0.03 & 0.02 & 0.03 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \textsubarch{u}afra & b{\textschwa}rp & meta & meta & 0.01 & 0.22 & 0.28 & 0.16 & 0.12 & 0.13 & 0.02 & 0.02 & 0.02 & 0.02\\
+Balochi Rakhshani & \textsubarch{u}ahuni & hon & \textsubarch{u} & h & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \textsubarch{u}ah\textsubarch{i}a & v{\textschwa}\v{s}\v{s} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \textsubarch{u}aina & gynd{\textschwa}g & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \textsubarch{u}ara & gv{\textschwa}r & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \textsubarch{u}arna-ka & gv{\textschwa}r{\textschwa}g & \textsubarch{u} & g & 0.97 & 0.00 & 0.03 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \textsubarch{u}arna-ka & gv{\textschwa}r{\textschwa}g & rn & (r)r & 0.02 & 0.22 & 0.28 & 0.16 & 0.12 & 0.13 & 0.02 & 0.02 & 0.02 & 0.02\\
+Balochi Rakhshani & \textsubarch{u}ata & b{\textschwa}d & \textsubarch{u} & b & 0.03 & 0.22 & 0.28 & 0.16 & 0.11 & 0.13 & 0.02 & 0.02 & 0.02 & 0.02\\
+Balochi Rakhshani & \textsubarch{u}ic\={a}ra & gv{\textschwa}z{\textschwa}g & \textsubarch{u} & g & 0.68 & 0.07 & 0.09 & 0.05 & 0.04 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01\\
+Balochi Rakhshani & \textsubarch{u}id\={a}na & gydan & \textsubarch{u} & g & 0.98 & 0.00 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \textsubarch{u}in\={a}\'{c}a & gwna[h] & \'{c} & h & 0.85 & 0.03 & 0.04 & 0.02 & 0.02 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \textsubarch{u}in\={a}\'{c}a & gwna[h] & \textsubarch{u} & g & 0.02 & 0.22 & 0.28 & 0.16 & 0.11 & 0.13 & 0.02 & 0.02 & 0.02 & 0.02\\
+Balochi Rakhshani & \textsubarch{u}rinji & byrynj & \textsubarch{u} & b & 0.85 & 0.03 & 0.04 & 0.02 & 0.02 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \textsubarch{u}\textsubarch{i}\={a}ka & ja & \textsubarch{u} & j & 0.85 & 0.03 & 0.04 & 0.02 & 0.02 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \'{\j}\textsubring{r}d & dyl & rd & l & 0.84 & 0.04 & 0.05 & 0.03 & 0.01 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Balochi Rakhshani & \'{\j}\textsubring{r}d & zyrd & rd & rd & 0.97 & 0.00 & 0.00 & 0.00 & 0.03 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & (f)\v{s}up\={a}na & \c{c}upon  & \v{s} & \v{s} & 0.29 & 0.15 & 0.22 & 0.12 & 0.05 & 0.11 & 0.02 & 0.02 & 0.01 & 0.01\\
+Judeo-Tati & \'{c}\textsubarch{u}aka & seg & \'{c}\textsubarch{u} & s & 0.01 & 0.21 & 0.31 & 0.17 & 0.06 & 0.15 & 0.02 & 0.02 & 0.02 & 0.01\\
+Judeo-Tati & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & siyeh & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & a\'{c}ru & {\IPA Q}\"{a}rs & \'{c}r & rs & 0.01 & 0.21 & 0.31 & 0.17 & 0.06 & 0.15 & 0.02 & 0.02 & 0.02 & 0.01\\
+Judeo-Tati & a\'{c}ru & {\IPA Q}\"{a}rs & pro & no pro & 0.24 & 0.16 & 0.24 & 0.13 & 0.05 & 0.11 & 0.02 & 0.02 & 0.01 & 0.01\\
+Judeo-Tati & a\'{c}\textsubarch{u}a & {\IPA Q}\"{a}sb & \'{c}\textsubarch{u} & sp & 0.76 & 0.05 & 0.08 & 0.04 & 0.02 & 0.04 & 0.01 & 0.01 & 0.00 & 0.00\\
+Judeo-Tati & ar\v{s}a & x\"{u}rs & rs & rs & 0.69 & 0.00 & 0.31 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & ar\v{s}a & x\"{u}rs & pro & pro & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & barda & bil & rd & l & 0.02 & 0.21 & 0.31 & 0.17 & 0.06 & 0.15 & 0.02 & 0.02 & 0.02 & 0.01\\
+Judeo-Tati & barz\={a}d & bala & r\'{\j} & l & 0.71 & 0.06 & 0.09 & 0.05 & 0.02 & 0.04 & 0.01 & 0.01 & 0.00 & 0.00\\
+Judeo-Tati & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & \c{c}\"{u}l & r\'{c} & l & 0.00 & 0.22 & 0.32 & 0.17 & 0.06 & 0.15 & 0.02 & 0.02 & 0.02 & 0.01\\
+Judeo-Tati & da\'{c}a & deh & \'{c} & h & 0.74 & 0.06 & 0.08 & 0.05 & 0.02 & 0.04 & 0.01 & 0.01 & 0.00 & 0.00\\
+Judeo-Tati & darn & durra & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & g(a)rna-ka & gele & rn & l & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & gau-\'{c}\textsubarch{u}anta- & gusbend & \'{c}\textsubarch{u} & sp & 0.76 & 0.05 & 0.08 & 0.04 & 0.02 & 0.04 & 0.01 & 0.01 & 0.00 & 0.00\\
+Judeo-Tati & hi\'{\j}\textsubarch{u}\={a}na & zuhun  & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & k\textsubring{r}mi & k\"{u}rm & r & r & 0.76 & 0.05 & 0.08 & 0.04 & 0.02 & 0.04 & 0.01 & 0.01 & 0.00 & 0.00\\
+Judeo-Tati & mu\v{s}ti & mü\v{s}d & \v{s}t & \v{s}t & 0.60 & 0.09 & 0.13 & 0.07 & 0.03 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Judeo-Tati & r\={a}\v{s}ta & rasd & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & \textsubarch{u}ah\={a}ra & vasal & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & \textsubarch{u}i\'{c}ati & bisd & \textsubarch{u} & b & 0.01 & 0.21 & 0.32 & 0.17 & 0.06 & 0.15 & 0.02 & 0.02 & 0.02 & 0.01\\
+Judeo-Tati & \textsubarch{u}(a)rda & g\"{u}l & \textsubarch{u} & g & 0.01 & 0.21 & 0.31 & 0.17 & 0.06 & 0.15 & 0.02 & 0.02 & 0.02 & 0.01\\
+Judeo-Tati & \textsubarch{u}(a)rda & g\"{u}l & rd & l & 0.76 & 0.05 & 0.08 & 0.04 & 0.02 & 0.04 & 0.01 & 0.01 & 0.00 & 0.00\\
+Judeo-Tati & \textsubarch{u}\={a}f & bofde & \textsubarch{u} & b & 0.46 & 0.12 & 0.18 & 0.10 & 0.04 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01\\
+Judeo-Tati & \textsubarch{u}\={a}r & voru\c{s} & \textsubarch{u} & w & 0.96 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & \textsubarch{u}\={a}ta & vor & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & \textsubarch{u}\={a}\'{\j}i(\textsubarch{i}aka?) & vozire & \textsubarch{u} & w & 0.98 & 0.00 & 0.00 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & \textsubarch{u}\textsubring{r}\v{s}naka & gisne & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & \textsubarch{u}\textsubring{r}ka & g\"{u}rg & \textsubarch{u} & g & 0.31 & 0.15 & 0.22 & 0.12 & 0.04 & 0.10 & 0.02 & 0.02 & 0.01 & 0.01\\
+Judeo-Tati & \textsubarch{u}afra & verf & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & \textsubarch{u}afra & verf & meta & meta & 0.01 & 0.21 & 0.32 & 0.17 & 0.06 & 0.15 & 0.02 & 0.02 & 0.02 & 0.01\\
+Judeo-Tati & \textsubarch{u}ahuni & xun & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & \textsubarch{u}ai\v{s}a & vi\c{s}e  & \textsubarch{u} & w & 0.76 & 0.05 & 0.08 & 0.04 & 0.02 & 0.04 & 0.01 & 0.01 & 0.00 & 0.00\\
+Judeo-Tati & \textsubarch{u}aina & vini & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & \textsubarch{u}anjecaka & b\"{a}{\IPA Q}\"{a}ve\c{c}e & \textsubarch{u} & b & 0.05 & 0.21 & 0.30 & 0.17 & 0.06 & 0.14 & 0.02 & 0.02 & 0.02 & 0.01\\
+Judeo-Tati & \textsubarch{u}arka & velg & \textsubarch{u} & w & 0.94 & 0.00 & 0.06 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & \textsubarch{u}arka & velg & r & l & 0.00 & 0.22 & 0.32 & 0.17 & 0.06 & 0.15 & 0.02 & 0.02 & 0.02 & 0.01\\
+Judeo-Tati & \textsubarch{u}arna-ka & vere & \textsubarch{u} & w & 0.94 & 0.00 & 0.06 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Judeo-Tati & \textsubarch{u}arna-ka & vere & rn & (r)r & 0.01 & 0.21 & 0.31 & 0.17 & 0.06 & 0.15 & 0.02 & 0.02 & 0.02 & 0.01\\
+Judeo-Tati & \textsubarch{u}ata & bad & \textsubarch{u} & b & 0.01 & 0.21 & 0.31 & 0.17 & 0.06 & 0.15 & 0.02 & 0.02 & 0.02 & 0.01\\
+Judeo-Tati & \textsubarch{u}id\={a}na & bine & \textsubarch{u} & b & 0.47 & 0.12 & 0.14 & 0.10 & 0.04 & 0.09 & 0.01 & 0.01 & 0.01 & 0.01\\
+Judeo-Tati & \textsubarch{u}ida\textsubarch{u}\={a} & biy & \textsubarch{u} & b & 0.02 & 0.21 & 0.31 & 0.17 & 0.06 & 0.15 & 0.02 & 0.02 & 0.02 & 0.01\\
+Judeo-Tati & \'{\j}\textsubring{r}d & d\"{u}l & rd & l & 0.74 & 0.06 & 0.09 & 0.05 & 0.01 & 0.04 & 0.01 & 0.01 & 0.00 & 0.00\\
+Sangesari & (f)\v{s}up\={a}na & cuppwn & \v{s} & c & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \'{c}\textsubarch{u}aka & \={e}sp\={e} & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \'{c}\textsubarch{u}i\v{s}a & \={e}spaz & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & so & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & a\'{c}\textsubarch{u}a & asm & \'{c}\textsubarch{u} & sp & 0.53 & 0.10 & 0.22 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sangesari & ar\v{s}a & x\={e}rs & rs & rs & 0.34 & 0.00 & 0.66 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & ar\v{s}a & x\={e}rs & pro & pro & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & ar\v{s}a & a\v{s} & rs & \v{s} & 0.59 & 0.13 & 0.07 & 0.10 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sangesari & ar\v{s}a & a\v{s} & pro & no pro & 0.00 & 0.21 & 0.46 & 0.17 & 0.08 & 0.02 & 0.02 & 0.02 & 0.01 & 0.01\\
+Sangesari & b\textsubring{r}zant & b\={e}l\={e}nd & r\'{\j} & l & 0.41 & 0.12 & 0.27 & 0.10 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sangesari & k\textsubring{r}mi & k\={e}rm & r & r & 0.53 & 0.10 & 0.22 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sangesari & laup\={a}\'{c}a & r\={e}va & \'{c} & h & 0.40 & 0.13 & 0.28 & 0.10 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sangesari & laup\={a}\'{c}a & r\={e}va & l & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & mu\v{s}ti & mo\v{s}t & \v{s}t & \v{s}t & 0.34 & 0.14 & 0.31 & 0.11 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sangesari & parna & par & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & pu{\texttheta}ra & pur & tr & tr & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & sp\textsubring{r}zan & \={e}spol & r\'{\j} & l & 0.22 & 0.16 & 0.36 & 0.13 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sangesari & \textsubarch{u}ah\={a}ra & vih{\textschwa}r & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \textsubarch{u}(a)rda & gol & \textsubarch{u} & g & 0.00 & 0.21 & 0.46 & 0.17 & 0.08 & 0.02 & 0.02 & 0.02 & 0.01 & 0.01\\
+Sangesari & \textsubarch{u}(a)rda & gol & rd & l & 0.53 & 0.10 & 0.22 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sangesari & \textsubarch{u}\={a}f & v\={o} & \textsubarch{u} & w & 0.99 & 0.00 & 0.00 & 0.00 & 0.00 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \textsubarch{u}\={a}r & v{\textschwa}r & \textsubarch{u} & w & 0.89 & 0.11 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \textsubarch{u}\={a}ta & ve & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \textsubarch{u}\={a}\'{\j}i(n) & b{\textschwa}z & \textsubarch{u} & b & 0.04 & 0.20 & 0.45 & 0.16 & 0.08 & 0.02 & 0.02 & 0.02 & 0.01 & 0.01\\
+Sangesari & \textsubarch{u}\textsubring{r}\v{s}naka & v\={e}\v{s}\v{s}wn & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \textsubarch{u}\textsubring{r}ka & vark & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \textsubarch{u}\textsubring{r}tka & vakku & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \textsubarch{u}a\'{c}\textsubarch{i}a & v\={e}\v{s}ter & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \textsubarch{u}afra & varf & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \textsubarch{u}afra & varf & meta & meta & 0.00 & 0.21 & 0.46 & 0.17 & 0.08 & 0.02 & 0.02 & 0.02 & 0.01 & 0.01\\
+Sangesari & \textsubarch{u}ahuni & xun & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \textsubarch{u}ah\textsubarch{i}a & veytar & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \textsubarch{u}aita & bid & \textsubarch{u} & b & 0.06 & 0.20 & 0.44 & 0.16 & 0.07 & 0.02 & 0.02 & 0.02 & 0.01 & 0.01\\
+Sangesari & \textsubarch{u}ar\={a}\'{\j}a & v\={e}r{\textschwa}z & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \textsubarch{u}arka & valg & \textsubarch{u} & w & 0.79 & 0.00 & 0.21 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \textsubarch{u}arka & valg & r & l & 0.00 & 0.21 & 0.46 & 0.17 & 0.08 & 0.02 & 0.02 & 0.02 & 0.01 & 0.01\\
+Sangesari & \textsubarch{u}arna-ka & var\={e} & \textsubarch{u} & w & 0.80 & 0.00 & 0.20 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \textsubarch{u}arna-ka & var\={e} & rn & (r)r & 0.00 & 0.21 & 0.46 & 0.17 & 0.08 & 0.02 & 0.02 & 0.02 & 0.01 & 0.01\\
+Sangesari & \textsubarch{u}at-caka & bad & \textsubarch{u} & b & 0.30 & 0.15 & 0.33 & 0.12 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Sangesari & \textsubarch{u}\textsubarch{i}\={a}na & jwn & \textsubarch{u} & j & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Sangesari & \'{\j}\textsubring{r}d & dal & rd & l & 0.49 & 0.11 & 0.24 & 0.09 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+S Bashkardi & \'{c}\textsubarch{u}aka & sax & \'{c}\textsubarch{u} & s & 0.01 & 0.25 & 0.27 & 0.18 & 0.17 & 0.03 & 0.03 & 0.03 & 0.02 & 0.02\\
+S Bashkardi & ar\v{s}a & hors & rs & rs & 0.68 & 0.00 & 0.32 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Bashkardi & ar\v{s}a & hors & pro & pro & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Bashkardi & barda & b\={a}hr & rd & rd & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Bashkardi & \textsubarch{u}\={a}f & vahv & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Bashkardi & \textsubarch{u}\textsubring{r}ka & verx & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Bashkardi & \textsubarch{u}arna-ka & vark & \textsubarch{u} & w & 0.94 & 0.00 & 0.06 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Bashkardi & \textsubarch{u}arna-ka & vark & rn & (r)r & 0.01 & 0.25 & 0.27 & 0.18 & 0.17 & 0.03 & 0.03 & 0.03 & 0.02 & 0.02\\
+S Bashkardi & \textsubarch{u}rinji & berenz & \textsubarch{u} & b & 0.73 & 0.07 & 0.07 & 0.05 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+S Bashkardi & \'{\j}\textsubring{r}d & der & rd & rd & 0.89 & 0.00 & 0.00 & 0.00 & 0.11 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+S Bashkardi & skar & \v{s}ek\={a}l & r & l & 0.05 & 0.24 & 0.26 & 0.17 & 0.17 & 0.03 & 0.03 & 0.02 & 0.02 & 0.02\\
+N Bashkardi & \textsubarch{u}\={a}r & gwaron & \textsubarch{u} & g & 0.92 & 0.08 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+N Bashkardi & \textsubarch{u}agza & gw\"{a}k & \textsubarch{u} & g & 0.98 & 0.00 & 0.00 & 0.00 & 0.01 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00\\
+Yazdi VA & \'{c}\textsubarch{u}aka & sva & \'{c}\textsubarch{u} & s & 0.01 & 0.25 & 0.33 & 0.20 & 0.10 & 0.04 & 0.02 & 0.02 & 0.02 & 0.02\\
+Yazdi VA & a\'{c}\textsubarch{u}a & asb & \'{c}\textsubarch{u} & sp & 0.72 & 0.07 & 0.09 & 0.05 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Yazdi VA & b\textsubring{r}zant & bilend & r\'{\j} & l & 0.62 & 0.10 & 0.13 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Yazdi VA & barda & bard(a) & rd & rd & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Yazdi VA & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & cil & r\'{c} & l & 0.00 & 0.26 & 0.33 & 0.20 & 0.10 & 0.04 & 0.02 & 0.02 & 0.02 & 0.02\\
+Yazdi VA & gau-\'{c}\textsubarch{u}anta- & g\"{u}sfand & \'{c}\textsubarch{u} & sp & 0.72 & 0.07 & 0.09 & 0.05 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Yazdi VA & laup\={a}\'{c}a & r\"{u}w\={o}s & \'{c} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Yazdi VA & laup\={a}\'{c}a & r\"{u}w\={o}s & l & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Yazdi VA & mu\v{s}ti & mu\v{s}t & \v{s}t & \v{s}t & 0.55 & 0.12 & 0.15 & 0.09 & 0.04 & 0.02 & 0.01 & 0.01 & 0.01 & 0.01\\
+Yazdi VA & sp\textsubring{r}zan & svarz & r\'{\j} & r\'{\j} & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Yazdi VA & \textsubarch{u}(a)rda & gol & \textsubarch{u} & g & 0.01 & 0.25 & 0.33 & 0.20 & 0.10 & 0.04 & 0.02 & 0.02 & 0.02 & 0.02\\
+Yazdi VA & \textsubarch{u}(a)rda & gol & rd & l & 0.72 & 0.07 & 0.09 & 0.05 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Yazdi VA & \textsubarch{u}\={a}r & w\={o}r\={o}n & \textsubarch{u} & w & 0.94 & 0.06 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Yazdi VA & \textsubarch{u}\={a}ta & w\={o}d & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Yazdi VA & \textsubarch{u}\textsubring{r}\v{s}naka & w\={o}\v{s}na & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Yazdi VA & \textsubarch{u}\textsubring{r}\v{s}naka & w\={o}\v{s}na & rs & \v{s} & 0.01 & 0.26 & 0.33 & 0.20 & 0.10 & 0.04 & 0.02 & 0.02 & 0.02 & 0.02\\
+Yazdi VA & \textsubarch{u}afra & varf & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Yazdi VA & \textsubarch{u}afra & varf & meta & meta & 0.01 & 0.26 & 0.33 & 0.20 & 0.10 & 0.04 & 0.02 & 0.02 & 0.02 & 0.02\\
+Yazdi VA & \textsubarch{u}ah\textsubarch{i}a & vaht\`{e}r & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Yazdi VA & \textsubarch{u}aita & vid  & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Yazdi VA & \textsubarch{u}arna-ka & varra  & \textsubarch{u} & w & 0.93 & 0.00 & 0.07 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Yazdi VA & \textsubarch{u}arna-ka & varra  & rn & (r)r & 0.01 & 0.25 & 0.33 & 0.20 & 0.10 & 0.04 & 0.02 & 0.02 & 0.02 & 0.02\\
+Yazdi VA & \textsubarch{u}art- & g\`{e}rtv\={u}n  & \textsubarch{u} & g & 0.01 & 0.25 & 0.33 & 0.19 & 0.10 & 0.04 & 0.02 & 0.02 & 0.02 & 0.02\\
+Yazdi VA & \textsubarch{u}at-caka & vacca & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Yazdi VA & \textsubarch{u}ida\textsubarch{u}\={a} & vedva & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Yazdi VA & \textsubarch{u}ida\textsubarch{u}\={a} & b\={i}va & \textsubarch{u} & b & 0.02 & 0.25 & 0.33 & 0.19 & 0.10 & 0.04 & 0.02 & 0.02 & 0.02 & 0.02\\
+Yazdi VA & \textsubarch{u}\textsubarch{i}\={a}na & j\"{u}n & \textsubarch{u} & j & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Yazdi VA & \'{\j}\textsubring{r}d & dil & rd & l & 0.70 & 0.08 & 0.10 & 0.06 & 0.02 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kumzari & \'{c}\textsubarch{u}aka & sa\v{g} & \'{c}\textsubarch{u} & s & 0.01 & 0.30 & 0.31 & 0.21 & 0.07 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Kumzari & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & siya & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kumzari & a\'{c}ru & xars & \'{c}r & rs & 0.02 & 0.30 & 0.31 & 0.21 & 0.07 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Kumzari & a\'{c}ru & xars & pro & pro & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kumzari & a\'{c}\textsubarch{u}a & asp & \'{c}\textsubarch{u} & sp & 0.82 & 0.05 & 0.05 & 0.04 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kumzari & b\textsubring{r}zant & blind & r\'{\j} & l & 0.75 & 0.08 & 0.08 & 0.05 & 0.02 & 0.01 & 0.01 & 0.01 & 0.00 & 0.00\\
+Kumzari & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & čil & r\'{c} & l & 0.00 & 0.30 & 0.31 & 0.21 & 0.07 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Kumzari & da\'{c}a & da & \'{c} & h & 0.80 & 0.06 & 0.06 & 0.04 & 0.01 & 0.00 & 0.01 & 0.00 & 0.00 & 0.00\\
+Kumzari & gau-\'{c}\textsubarch{u}anta- & g\={o}sin & \'{c}\textsubarch{u} & s & 0.82 & 0.05 & 0.05 & 0.04 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kumzari & hi\'{\j}\textsubarch{u}\={a}na & \d{z}wān & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kumzari & k\textsubring{r}mi & kurm & r & r & 0.82 & 0.05 & 0.05 & 0.04 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kumzari & laup\={a}\'{c}a & rēwa & \'{c} & h & 0.74 & 0.08 & 0.08 & 0.05 & 0.02 & 0.01 & 0.01 & 0.01 & 0.00 & 0.00\\
+Kumzari & laup\={a}\'{c}a & rēwa & l & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kumzari & parna & par  & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kumzari & pu{\texttheta}ra & pis & tr & s & 0.67 & 0.10 & 0.10 & 0.07 & 0.02 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kumzari & r\={a}\v{s}ta & rāstī  & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kumzari & \textsubarch{u}i\'{c}ati & bīs & \textsubarch{u} & b & 0.01 & 0.30 & 0.31 & 0.21 & 0.07 & 0.02 & 0.03 & 0.02 & 0.02 & 0.02\\
+Kumzari & \textsubarch{u}\={a}r & bāram & \textsubarch{u} & b & 0.76 & 0.06 & 0.08 & 0.05 & 0.02 & 0.01 & 0.01 & 0.01 & 0.00 & 0.00\\
+Kumzari & \textsubarch{u}\={a}\'{\j}i(\textsubarch{i}aka?) & bā\d{z} & \textsubarch{u} & b & 0.56 & 0.14 & 0.15 & 0.07 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kumzari & \textsubarch{u}\textsubring{r}\v{s}naka & gi\v{s}nağ & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kumzari & \textsubarch{u}ahuni & xwēm & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kumzari & \textsubarch{u}arka & barg & \textsubarch{u} & b & 0.76 & 0.08 & 0.06 & 0.06 & 0.02 & 0.01 & 0.01 & 0.01 & 0.00 & 0.00\\
+Kumzari & \textsubarch{u}arka & barg & r & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kumzari & \textsubarch{u}rinji & brin\d{z} & \textsubarch{u} & b & 0.82 & 0.05 & 0.05 & 0.04 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kumzari & \'{\j}\textsubring{r}d & dil & rd & l & 0.80 & 0.06 & 0.06 & 0.04 & 0.01 & 0.00 & 0.01 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & \textsubarch{u}arna-ka & berx & \textsubarch{u} & b & 0.61 & 0.09 & 0.15 & 0.05 & 0.04 & 0.04 & 0.01 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & \textsubarch{u}arna-ka & berx & rn & (r)r & 0.01 & 0.21 & 0.44 & 0.11 & 0.09 & 0.09 & 0.02 & 0.01 & 0.01 & 0.01\\
+Kurdish Sorani & \textsubarch{u}\textsubring{r}\v{s}naka & birs\^{e}t\^{i} & \textsubarch{u} & b & 0.01 & 0.21 & 0.44 & 0.11 & 0.09 & 0.09 & 0.02 & 0.01 & 0.01 & 0.01\\
+Kurdish Sorani & \textsubarch{u}\textsubring{r}\v{s}naka & birs\^{e}t\^{i} & rs & rs & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & a\'{c}\textsubarch{u}a & esp & \'{c}\textsubarch{u} & sp & 0.68 & 0.07 & 0.14 & 0.04 & 0.03 & 0.03 & 0.01 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & \'{c}\textsubarch{u}aka & seg & \'{c}\textsubarch{u} & s & 0.01 & 0.21 & 0.44 & 0.11 & 0.09 & 0.09 & 0.02 & 0.01 & 0.01 & 0.01\\
+Kurdish Sorani & \'{\j}\textsubring{r}d & di{\l} & rd & l & 0.65 & 0.08 & 0.16 & 0.04 & 0.02 & 0.03 & 0.01 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & darn & di\textsubring{r}\^{i}n & rn & (r)n & 0.02 & 0.21 & 0.44 & 0.11 & 0.09 & 0.09 & 0.02 & 0.01 & 0.01 & 0.01\\
+Kurdish Sorani & da\'{c}a & de & \'{c} & h & 0.65 & 0.07 & 0.16 & 0.04 & 0.03 & 0.03 & 0.01 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & \textsubarch{u}arka & berg & \textsubarch{u} & b & 0.59 & 0.10 & 0.15 & 0.05 & 0.04 & 0.04 & 0.01 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & \textsubarch{u}arka & berg & r & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & \textsubarch{u}(a)rda & gul & \textsubarch{u} & g & 0.01 & 0.21 & 0.44 & 0.11 & 0.09 & 0.09 & 0.02 & 0.01 & 0.01 & 0.01\\
+Kurdish Sorani & \textsubarch{u}(a)rda & gul & rd & l & 0.68 & 0.07 & 0.14 & 0.04 & 0.03 & 0.03 & 0.01 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & \textsubarch{u}agza & boq & \textsubarch{u} & b & 0.53 & 0.11 & 0.22 & 0.05 & 0.03 & 0.03 & 0.01 & 0.01 & 0.00 & 0.00\\
+Kurdish Sorani & b\textsubring{r}zant & berz & r\'{\j} & r\'{\j} & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & b\textsubring{r}zant & bi{\l}ind & r\'{\j} & l & 0.57 & 0.09 & 0.19 & 0.05 & 0.04 & 0.04 & 0.01 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & barz\={a}d & berz\={i} & r\'{\j} & r\'{\j} & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & hi\'{\j}\textsubarch{u}\={a}na & ziman & \'{\j}\textsubarch{u} & zm & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & \textsubarch{u}\textsubring{r}ka & gurg & \textsubarch{u} & g & 0.23 & 0.16 & 0.34 & 0.08 & 0.07 & 0.07 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kurdish Sorani & \textsubarch{u}ata & bed & \textsubarch{u} & b & 0.01 & 0.21 & 0.44 & 0.11 & 0.09 & 0.09 & 0.02 & 0.01 & 0.01 & 0.01\\
+Kurdish Sorani & \textsubarch{u}afra & befr & \textsubarch{u} & b & 0.59 & 0.09 & 0.18 & 0.05 & 0.04 & 0.04 & 0.01 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & \textsubarch{u}afra & befr & meta & no meta & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & siya & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & barda & b\^{e}{\l} & rd & l & 0.01 & 0.21 & 0.44 & 0.11 & 0.09 & 0.09 & 0.02 & 0.01 & 0.01 & 0.01\\
+Kurdish Sorani & \textsubarch{u}\={a}r & baran & \textsubarch{u} & b & 0.58 & 0.07 & 0.20 & 0.05 & 0.04 & 0.04 & 0.01 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & mu\v{s}ti & mist & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & p\textsubring{r}tu & pird & rt & rt & 0.91 & 0.00 & 0.09 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & ar\v{s}a & wurch & rs & rch & 0.47 & 0.00 & 0.53 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & ar\v{s}a & wurch & pro & no pro & 0.00 & 0.21 & 0.45 & 0.11 & 0.09 & 0.09 & 0.02 & 0.01 & 0.01 & 0.01\\
+Kurdish Sorani & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & chil & r\'{c} & l & 0.00 & 0.21 & 0.45 & 0.11 & 0.09 & 0.09 & 0.02 & 0.01 & 0.01 & 0.01\\
+Kurdish Sorani & laup\={a}\'{c}a & \textsubring{r}\^{e}w\^{i} & \'{c} & h & 0.56 & 0.09 & 0.20 & 0.05 & 0.04 & 0.04 & 0.01 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & laup\={a}\'{c}a & \textsubring{r}\^{e}w\^{i} & l & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & \textsubarch{u}rinji & birinc & \textsubarch{u} & b & 0.68 & 0.07 & 0.14 & 0.04 & 0.03 & 0.03 & 0.01 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & \textsubarch{u}ahuni & x\"{o}n & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & g(a)rna-ka & gel & rn & l & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & \textsubarch{u}\={a}ta & ba & \textsubarch{u} & b & 0.48 & 0.11 & 0.23 & 0.06 & 0.05 & 0.05 & 0.01 & 0.01 & 0.00 & 0.01\\
+Kurdish Sorani & \textsubarch{u}\textsubarch{i}\={a}na & giyan & \textsubarch{u} & g & 0.44 & 0.12 & 0.25 & 0.06 & 0.05 & 0.05 & 0.01 & 0.01 & 0.00 & 0.01\\
+Kurdish Sorani & \textsubarch{u}\textsubarch{i}\={a}na & j\^{i}n & \textsubarch{u} & j & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kurdish Sorani & \textsubarch{u}i\'{c}ati & b\^{i}st & \textsubarch{u} & b & 0.00 & 0.21 & 0.45 & 0.11 & 0.09 & 0.09 & 0.02 & 0.01 & 0.01 & 0.01\\
+Kurdish Sorani & \textsubarch{u}aina & b\^{i}n- & \textsubarch{u} & b & 0.01 & 0.21 & 0.44 & 0.11 & 0.09 & 0.09 & 0.02 & 0.01 & 0.01 & 0.01\\
+Vanishan & a\'{c}\textsubarch{u}a & asp & \'{c}\textsubarch{u} & sp & 0.62 & 0.10 & 0.13 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Vanishan & \textsubarch{u}\={a}ta & v\={o}d & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & \textsubarch{u}\={a}r & v\={o}r\twoacc[\'|\={u}]n & \textsubarch{u} & w & 0.90 & 0.10 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & \textsubarch{u}\={a}\'{\j}i(n) & b\={o}z & \textsubarch{u} & b & 0.06 & 0.25 & 0.32 & 0.20 & 0.09 & 0.02 & 0.02 & 0.02 & 0.01 & 0.01\\
+Vanishan & \textsubarch{u}\={a}\'{\j}i(\textsubarch{i}aka?) & v\={o}z\twoacc[\'|\={\i}] & \textsubarch{u} & w & 0.96 & 0.00 & 0.00 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & \textsubarch{u}at-caka & vec\'{a} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & \textsubarch{u}ara & ver & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & \textsubarch{u}afra & varf & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & \textsubarch{u}afra & varf & meta & meta & 0.00 & 0.26 & 0.34 & 0.22 & 0.10 & 0.02 & 0.02 & 0.02 & 0.01 & 0.01\\
+Vanishan & \textsubarch{u}arka & valg & \textsubarch{u} & w & 0.88 & 0.00 & 0.12 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & \textsubarch{u}arka & valg & r & l & 0.00 & 0.26 & 0.34 & 0.22 & 0.10 & 0.02 & 0.02 & 0.02 & 0.01 & 0.01\\
+Vanishan & \textsubarch{u}rinji & ber\'{e}\'nj & \textsubarch{u} & b & 0.62 & 0.10 & 0.13 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Vanishan & \textsubarch{u}arna-ka & verr\'{a} & \textsubarch{u} & w & 0.89 & 0.00 & 0.11 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & \textsubarch{u}arna-ka & verr\'{a} & rn & (r)r & 0.00 & 0.26 & 0.34 & 0.22 & 0.09 & 0.02 & 0.02 & 0.02 & 0.01 & 0.01\\
+Vanishan & \textsubarch{u}as\={i} & ves & \textsubarch{u} & w & 0.62 & 0.10 & 0.13 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Vanishan & b\textsubring{r}zant & bul\'{a}nd & r\'{\j} & l & 0.50 & 0.13 & 0.17 & 0.11 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Vanishan & \textsubarch{u}ah\={a}ra & v\={o}r & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & \textsubarch{u}ah\textsubarch{i}a & veid\'{e}r & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & \textsubarch{u}aita & v\={i}d & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & \textsubarch{u}i\'{c}ati & b\={i}st & \textsubarch{u} & b & 0.00 & 0.26 & 0.34 & 0.22 & 0.10 & 0.02 & 0.02 & 0.02 & 0.01 & 0.01\\
+Vanishan & \textsubarch{u}a\'{c}\textsubarch{i}a & b\={i}\v{s}t\'{a}r & \'{c}\textsubarch{i} & \v{s} & 0.62 & 0.10 & 0.13 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Vanishan & \textsubarch{u}a\'{c}\textsubarch{i}a & b\={i}\v{s}t\'{a}r & \textsubarch{u} & b & 0.01 & 0.26 & 0.34 & 0.21 & 0.09 & 0.02 & 0.02 & 0.02 & 0.01 & 0.01\\
+Vanishan & \textsubarch{u}a\'{c}\textsubarch{i}a & v\={i}\v{s}t\'{e}r & \'{c}\textsubarch{i} & \v{s} & 0.62 & 0.10 & 0.13 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Vanishan & \textsubarch{u}a\'{c}\textsubarch{i}a & v\={i}\v{s}t\'{e}r & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & barda & b\={a}r & rd & rd & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & \textsubarch{u}ida\textsubarch{u}\={a} & b\={i}v\'{a} & \textsubarch{u} & b & 0.01 & 0.26 & 0.34 & 0.21 & 0.09 & 0.02 & 0.02 & 0.02 & 0.01 & 0.01\\
+Vanishan & parna & pal\twoacc[\'|\={o}]’\={i} & rn & l & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & pu{\texttheta}ra & p\twoacc[\"|\={a}]r & tr & tr & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & p\textsubring{r}tu & p\={u}l & rt & l & 0.44 & 0.16 & 0.16 & 0.13 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Vanishan & (f)\v{s}up\={a}na & cep\twoacc[\'|\={u}]n & \v{s} & c & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & cih\'{e}l & r\'{c} & l & 0.00 & 0.26 & 0.34 & 0.22 & 0.10 & 0.02 & 0.02 & 0.02 & 0.01 & 0.01\\
+Vanishan & \textsubarch{u}ahuni & x\textsubarch{i}n & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & \'{\j}\textsubring{r}d & dil & rd & l & 0.59 & 0.11 & 0.14 & 0.09 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Vanishan & da\'{c}a & dei & \'{c} & h & 0.59 & 0.11 & 0.14 & 0.09 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Vanishan & r\={a}\v{s}ta & r\={o}ss & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & laup\={a}\'{c}a & rub\twoacc[\'|\={o}] & \'{c} & h & 0.49 & 0.13 & 0.17 & 0.11 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Vanishan & laup\={a}\'{c}a & rub\twoacc[\'|\={o}] & l & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & hi\'{\j}\textsubarch{u}\={a}na & zev\twoacc[\'|\={u}]n & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & \'{c}\textsubarch{u}aka & esb\'{a} & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & siy\twoacc[\'|\={o}] & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & \'{c}\textsubarch{u}i\v{s}a & e\v{s}p\'{e}\v{s} & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & skar & \v{s}ek\twoacc[\'|\={o}]r & r & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & x\v{s}\textsubarch{u}ifta- & \v{s}īr & t & r & 0.62 & 0.10 & 0.13 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Vanishan & k\textsubring{r}mi & kirm & r & r & 0.62 & 0.10 & 0.13 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Vanishan & \textsubarch{u}\textsubring{r}\v{s}naka & gusn\'{a} & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Vanishan & \textsubarch{u}\textsubring{r}ka & gurǵ & \textsubarch{u} & g & 0.19 & 0.21 & 0.28 & 0.18 & 0.08 & 0.01 & 0.02 & 0.02 & 0.01 & 0.01\\
+Qohrud & a\'{c}\textsubarch{u}a & asp & \'{c}\textsubarch{u} & sp & 0.57 & 0.13 & 0.14 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Qohrud & \textsubarch{u}\={a}ta & v\={o}d & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & \textsubarch{u}\={a}r & v\={o}r\twoacc[\'|\={u}]n & \textsubarch{u} & w & 0.87 & 0.13 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & \textsubarch{u}\={a}\'{\j}i(n) & b\={o}z & \textsubarch{u} & b & 0.05 & 0.29 & 0.31 & 0.18 & 0.09 & 0.02 & 0.03 & 0.01 & 0.01 & 0.01\\
+Qohrud & barz\={a}d & b\={o}l\twoacc[\'|\={o}] & r\'{\j} & l & 0.50 & 0.15 & 0.16 & 0.09 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Qohrud & \textsubarch{u}at-caka & vac\'{a} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & \textsubarch{u}ara & ver & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & \textsubarch{u}afra & vafr & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & \textsubarch{u}afra & vafr & meta & no meta & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & \textsubarch{u}arka & valg & \textsubarch{u} & w & 0.87 & 0.00 & 0.13 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & \textsubarch{u}arka & valg & r & l & 0.00 & 0.30 & 0.32 & 0.19 & 0.10 & 0.02 & 0.03 & 0.01 & 0.01 & 0.01\\
+Qohrud & \textsubarch{u}rinji & ber\'{e}\'nj & \textsubarch{u} & b & 0.57 & 0.13 & 0.14 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Qohrud & \textsubarch{u}arna-ka & ver\'{a} & \textsubarch{u} & w & 0.87 & 0.00 & 0.13 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & \textsubarch{u}arna-ka & ver\'{a} & rn & (r)r & 0.00 & 0.30 & 0.32 & 0.19 & 0.10 & 0.02 & 0.03 & 0.01 & 0.01 & 0.01\\
+Qohrud & \textsubarch{u}a\'{\j}r(a)ka & gurd & \textsubarch{u} & g & 0.93 & 0.07 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & \textsubarch{u}as\={i} & ves & \textsubarch{u} & w & 0.57 & 0.13 & 0.14 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Qohrud & b\textsubring{r}zant & bul\'{e}n & r\'{\j} & l & 0.45 & 0.17 & 0.18 & 0.10 & 0.05 & 0.01 & 0.02 & 0.01 & 0.01 & 0.01\\
+Qohrud & \textsubarch{u}ana & ben\'{a} & \textsubarch{u} & b & 0.01 & 0.30 & 0.32 & 0.19 & 0.10 & 0.02 & 0.03 & 0.01 & 0.01 & 0.01\\
+Qohrud & \textsubarch{u}ah\={a}ra & boh\={o}r & \textsubarch{u} & b & 0.00 & 0.30 & 0.32 & 0.19 & 0.10 & 0.02 & 0.03 & 0.01 & 0.01 & 0.01\\
+Qohrud & \textsubarch{u}aita & v\={e}t & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & \textsubarch{u}i\'{c}ati & v\={i}s & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & barda & b\={o}l & rd & l & 0.01 & 0.30 & 0.32 & 0.19 & 0.10 & 0.02 & 0.03 & 0.01 & 0.01 & 0.01\\
+Qohrud & \textsubarch{u}ida\textsubarch{u}\={a} & v\={i}g\'{a} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & parna & p\'{a}ri & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & pu{\texttheta}ra & p\twoacc[\"|\={a}]r & tr & tr & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & p\textsubring{r}tu & p\twoacc[\"|\={a}]l & rt & l & 0.39 & 0.20 & 0.16 & 0.12 & 0.06 & 0.01 & 0.02 & 0.01 & 0.01 & 0.01\\
+Qohrud & (f)\v{s}up\={a}na & c\={u}p\twoacc[\'|\={u}]n & \v{s} & c & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & cil & r\'{c} & l & 0.00 & 0.30 & 0.32 & 0.19 & 0.10 & 0.02 & 0.03 & 0.01 & 0.01 & 0.01\\
+Qohrud & \textsubarch{u}ahuni & x\twoacc[\"|\={a}]n & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & \'{\j}\textsubring{r}d & dil & rd & l & 0.54 & 0.14 & 0.15 & 0.09 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Qohrud & da\'{c}a & di & \'{c} & h & 0.53 & 0.14 & 0.15 & 0.09 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Qohrud & r\={a}\v{s}ta & r\={o}st & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & laup\={a}\'{c}a & rub\twoacc[\'|\={o}] & \'{c} & h & 0.44 & 0.17 & 0.18 & 0.10 & 0.05 & 0.01 & 0.02 & 0.01 & 0.01 & 0.01\\
+Qohrud & laup\={a}\'{c}a & rub\twoacc[\'|\={o}] & l & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & hi\'{\j}\textsubarch{u}\={a}na & \={i}lz\twoacc[\'|\={u}]n & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & sp\textsubring{r}zan & esb\twoacc[\"|\={a}]́rz & r\'{\j} & r\'{\j} & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & \'{c}\textsubarch{u}aka & esp\'{a} & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & sig\twoacc[\'|\={o}] & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & \'{c}\textsubarch{u}i\v{s}a & \"{u}\v{s}p\"{u}́\v{s} & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & skar & e\v{s}k\twoacc[\'|\={o}]r & r & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & x\v{s}\textsubarch{u}ifta- & \v{s}īt & t & t & 0.57 & 0.13 & 0.14 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Qohrud & k\textsubring{r}mi & kirm & r & r & 0.57 & 0.13 & 0.14 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Qohrud & \textsubarch{u}\textsubring{r}\v{s}naka & ve\v{s} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Qohrud & \textsubarch{u}\textsubring{r}ka & var & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & a\'{c}\textsubarch{u}a & asm & \'{c}\textsubarch{u} & sp & 0.54 & 0.13 & 0.15 & 0.10 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kashan & \textsubarch{u}\={a}ta & v\={o}i & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & \textsubarch{u}\={a}r & v\={o}r\twoacc[\'|\={u}]n & \textsubarch{u} & w & 0.86 & 0.14 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & barz\={a}d & b\={o}l\twoacc[\'|\={o}] & r\'{\j} & l & 0.47 & 0.15 & 0.17 & 0.11 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kashan & \textsubarch{u}at-caka & vac\'{a} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & \textsubarch{u}ara & ver & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & \textsubarch{u}afra & varf & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & \textsubarch{u}afra & varf & meta & meta & 0.00 & 0.29 & 0.33 & 0.21 & 0.09 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Kashan & \textsubarch{u}arka & valg & \textsubarch{u} & w & 0.85 & 0.00 & 0.15 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & \textsubarch{u}arka & valg & r & l & 0.00 & 0.29 & 0.33 & 0.21 & 0.09 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Kashan & \textsubarch{u}rinji & ber\'{e}\'nj & \textsubarch{u} & b & 0.54 & 0.13 & 0.15 & 0.10 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kashan & \textsubarch{u}arna-ka & ver\'{a} & \textsubarch{u} & w & 0.86 & 0.00 & 0.14 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & \textsubarch{u}arna-ka & ver\'{a} & rn & (r)r & 0.00 & 0.29 & 0.33 & 0.21 & 0.09 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Kashan & \textsubarch{u}a\'{\j}r(a)ka & gurd & \textsubarch{u} & g & 0.92 & 0.08 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & \textsubarch{u}as\={i} & ves & \textsubarch{u} & w & 0.54 & 0.13 & 0.15 & 0.10 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kashan & b\textsubring{r}zant & bel\'{a}nd & r\'{\j} & l & 0.42 & 0.17 & 0.19 & 0.12 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kashan & \textsubarch{u}ah\={a}ra & boh\={o}r & \textsubarch{u} & b & 0.00 & 0.29 & 0.33 & 0.21 & 0.09 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Kashan & \textsubarch{u}ah\textsubarch{i}a & baht\'{a}r & \textsubarch{u} & b & 0.15 & 0.25 & 0.28 & 0.18 & 0.07 & 0.01 & 0.02 & 0.01 & 0.01 & 0.01\\
+Kashan & \textsubarch{u}aita & v\={e} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & \textsubarch{u}i\'{c}ati & v\twoacc[\'|\={\i}]ss\={a} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & \textsubarch{u}a\'{c}\textsubarch{i}a & v\={i}\v{s}t\'{a}r & \'{c}\textsubarch{i} & \v{s} & 0.54 & 0.13 & 0.15 & 0.10 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kashan & \textsubarch{u}a\'{c}\textsubarch{i}a & v\={i}\v{s}t\'{a}r & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & barda & b\={a}l & rd & l & 0.01 & 0.29 & 0.33 & 0.21 & 0.08 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Kashan & \textsubarch{u}ida\textsubarch{u}\={a} & b\={i}v\'{a} & \textsubarch{u} & b & 0.01 & 0.29 & 0.33 & 0.21 & 0.08 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Kashan & parna & p\'{e}ri & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & pu{\texttheta}ra & p\twoacc[\"|\={a}]r & tr & tr & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & p\textsubring{r}tu & p\={o}l & rt & l & 0.36 & 0.20 & 0.17 & 0.15 & 0.06 & 0.01 & 0.02 & 0.01 & 0.01 & 0.01\\
+Kashan & (f)\v{s}up\={a}na & c\={u}p\twoacc[\'|\={u}]n & \v{s} & c & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & c\'{a}lt\={o} & r\'{c} & l & 0.00 & 0.29 & 0.33 & 0.21 & 0.09 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Kashan & \textsubarch{u}ahuni & x\twoacc[\"|\={a}]n & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & \'{\j}\textsubring{r}d & dil & rd & l & 0.51 & 0.15 & 0.17 & 0.11 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kashan & da\'{c}a & dah & \'{c} & h & 0.51 & 0.14 & 0.16 & 0.10 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kashan & r\={a}\v{s}ta & r\={o}\v{s}t & \v{s}t & \v{s}t & 0.00 & 0.29 & 0.33 & 0.21 & 0.09 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Kashan & hi\'{\j}\textsubarch{u}\={a}na & uzm\twoacc[\'|\={u}]n & \'{\j}\textsubarch{u} & zm & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & siy\twoacc[\'|\={o}] & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & \'{c}\textsubarch{u}i\v{s}a & e\v{s}p\'{i}\v{s} & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & skar & e\v{s}k\twoacc[\'|\={o}]r & r & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & x\v{s}\textsubarch{u}ifta- & \v{s}īr & t & r & 0.54 & 0.13 & 0.15 & 0.10 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kashan & k\textsubring{r}mi & ḱarm & r & r & 0.54 & 0.13 & 0.15 & 0.10 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Kashan & \textsubarch{u}\textsubring{r}\v{s}naka & ve\v{s}\'{a} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Kashan & \textsubarch{u}\textsubring{r}ka & vaŕg & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & a\'{c}\textsubarch{u}a & asm & \'{c}\textsubarch{u} & sp & 0.69 & 0.10 & 0.10 & 0.06 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+Zefra & \textsubarch{u}\={a}ta & v\={o} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & \textsubarch{u}\={a}r & v\={o}r\={o}́ & \textsubarch{u} & w & 0.91 & 0.09 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & \textsubarch{u}\={a}\'{\j}i(n) & b\={o}z & \textsubarch{u} & b & 0.08 & 0.29 & 0.29 & 0.18 & 0.08 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Zefra & barz\={a}d & b\={o}l\twoacc[\'|\={o}] & r\'{\j} & l & 0.63 & 0.12 & 0.12 & 0.07 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+Zefra & \textsubarch{u}at-caka & vec\'{a} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & \textsubarch{u}ara & ver & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & \textsubarch{u}afra & varf & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & \textsubarch{u}afra & varf & meta & meta & 0.01 & 0.31 & 0.31 & 0.19 & 0.09 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Zefra & \textsubarch{u}arka & velg & \textsubarch{u} & w & 0.92 & 0.00 & 0.08 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & \textsubarch{u}arka & velg & r & l & 0.00 & 0.31 & 0.32 & 0.19 & 0.09 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Zefra & \textsubarch{u}rinji & ber\'{e}\'nj & \textsubarch{u} & b & 0.69 & 0.10 & 0.10 & 0.06 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+Zefra & \textsubarch{u}arna-ka & ver\'{e} & \textsubarch{u} & w & 0.92 & 0.00 & 0.08 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & \textsubarch{u}arna-ka & ver\'{e} & rn & (r)r & 0.01 & 0.31 & 0.31 & 0.19 & 0.09 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Zefra & \textsubarch{u}a\'{\j}r(a)ka & b\"{u}r & \textsubarch{u} & b & 0.38 & 0.16 & 0.21 & 0.13 & 0.06 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Zefra & \textsubarch{u}as\={i} & ves & \textsubarch{u} & w & 0.69 & 0.10 & 0.10 & 0.06 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+Zefra & b\textsubring{r}zant & bel\'{e}n & r\'{\j} & l & 0.58 & 0.13 & 0.13 & 0.08 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+Zefra & \textsubarch{u}ana & ben\'{e} & \textsubarch{u} & b & 0.02 & 0.31 & 0.31 & 0.19 & 0.09 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Zefra & \textsubarch{u}ah\={a}ra & boh\={o}r & \textsubarch{u} & b & 0.01 & 0.31 & 0.31 & 0.19 & 0.09 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Zefra & \textsubarch{u}ah\textsubarch{i}a & bijt\'{e}r & \textsubarch{u} & b & 0.25 & 0.23 & 0.24 & 0.15 & 0.06 & 0.01 & 0.02 & 0.01 & 0.01 & 0.01\\
+Zefra & \textsubarch{u}aita & v\={e} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & \textsubarch{u}i\'{c}ati & v\={i}ss & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & \textsubarch{u}a\'{c}\textsubarch{i}a & v\={i}\v{s}t\'{e}r & \'{c}\textsubarch{i} & \v{s} & 0.69 & 0.10 & 0.10 & 0.06 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+Zefra & \textsubarch{u}a\'{c}\textsubarch{i}a & v\={i}\v{s}t\'{e}r & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & barda & berd & rd & rd & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & \textsubarch{u}ida\textsubarch{u}\={a} & b\={i}v\'{e} & \textsubarch{u} & b & 0.01 & 0.31 & 0.31 & 0.19 & 0.09 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Zefra & parna & per & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & pu{\texttheta}ra & p\={u}r & tr & tr & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & p\textsubring{r}tu & p\={o}l & rt & l & 0.52 & 0.16 & 0.12 & 0.10 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Zefra & (f)\v{s}up\={a}na & cap\twoacc[\'|\={o}] & \v{s} & c & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & c\'{a}lt\={o} & r\'{c} & l & 0.00 & 0.31 & 0.32 & 0.19 & 0.09 & 0.02 & 0.02 & 0.02 & 0.02 & 0.01\\
+Zefra & \textsubarch{u}ahuni & x\twoacc[\"|\={a}]n & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & \'{\j}\textsubring{r}d & dil & rd & l & 0.66 & 0.11 & 0.11 & 0.07 & 0.02 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+Zefra & da\'{c}a & dei & \'{c} & h & 0.66 & 0.11 & 0.11 & 0.07 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+Zefra & r\={a}\v{s}ta & r\={o}ss & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & hi\'{\j}\textsubarch{u}\={a}na & oz\twoacc[\'|\={o}] & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & siy\twoacc[\'|\={o}] & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & \'{c}\textsubarch{u}i\v{s}a & i\v{s}p\'{i}\v{s} & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & skar & \v{s}eg\twoacc[\'|\={o}]r & r & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & x\v{s}\textsubarch{u}ifta- & \v{s}īr & t & r & 0.69 & 0.10 & 0.10 & 0.06 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+Zefra & k\textsubring{r}mi & kerm & r & r & 0.69 & 0.10 & 0.10 & 0.06 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+Zefra & \textsubarch{u}\textsubring{r}\v{s}naka & ve\v{s}\'{e} & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Zefra & \textsubarch{u}\textsubring{r}ka & varǵ & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Natanz & a\'{c}\textsubarch{u}a & asm & \'{c}\textsubarch{u} & sp & 0.76 & 0.05 & 0.09 & 0.05 & 0.02 & 0.01 & 0.01 & 0.01 & 0.01 & 0.00\\
+Natanz & \textsubarch{u}\={a}ta & b\={o}d & \textsubarch{u} & b & 0.57 & 0.10 & 0.16 & 0.08 & 0.04 & 0.01 & 0.02 & 0.01 & 0.01 & 0.01\\
+Natanz & \textsubarch{u}\={a}r & v\={o}r\twoacc[\'|\={u}]n & \textsubarch{u} & w & 0.95 & 0.05 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Natanz & \textsubarch{u}ara & ver & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Natanz & \textsubarch{u}arna-ka & bar\'{a} & \textsubarch{u} & b & 0.69 & 0.08 & 0.09 & 0.07 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01 & 0.01\\
+Natanz & \textsubarch{u}arna-ka & bar\'{a} & rn & (r)r & 0.01 & 0.22 & 0.36 & 0.19 & 0.09 & 0.02 & 0.04 & 0.02 & 0.02 & 0.02\\
+Parthian & (f)\v{s}up\={a}na & \v{s}ub\={a}n & \v{s} & \v{s} & 0.11 & 0.25 & 0.31 & 0.17 & 0.07 & 0.03 & 0.03 & 0.01 & 0.01 & 0.01\\
+Parthian & \'{c}\textsubarch{u}aka & ispag & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & sy\={a}w & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & a\'{c}\textsubarch{u}a & asp & \'{c}\textsubarch{u} & sp & 0.48 & 0.15 & 0.18 & 0.10 & 0.04 & 0.02 & 0.02 & 0.01 & 0.01 & 0.01\\
+Parthian & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & cafrast & r\'{c} & r\'{c} & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & da\'{c}a & das & \'{c} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & hi\'{\j}\textsubarch{u}\={a}na & iz{$\beta$}\={a}n & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & laup\={a}\'{c}a & r\={o}b\={a}s & \'{c} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & laup\={a}\'{c}a & r\={o}b\={a}s & l & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & p\textsubring{r}tu & purt & rt & rt & 0.86 & 0.00 & 0.14 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & pu{\texttheta}ra & puhr & tr & tr & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & r\={a}\v{s}ta & r\={a}\v{s}t & \v{s}t & \v{s}t & 0.00 & 0.28 & 0.34 & 0.19 & 0.07 & 0.03 & 0.04 & 0.01 & 0.02 & 0.01\\
+Parthian & \textsubarch{u}i\'{c}ati & w\={i}st & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \textsubarch{u}(a)rda & w\={a}r & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \textsubarch{u}(a)rda & w\={a}r & rd & rd & 0.48 & 0.15 & 0.18 & 0.10 & 0.04 & 0.02 & 0.02 & 0.01 & 0.01 & 0.01\\
+Parthian & \textsubarch{u}\={a}ta & w\={a}d & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \textsubarch{u}\textsubring{r}\v{s}naka & wi\v{s}\={a}y & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \textsubarch{u}\textsubring{r}\v{s}naka & wi\v{s}\={a}y & rs & \v{s} & 0.00 & 0.28 & 0.34 & 0.19 & 0.07 & 0.03 & 0.04 & 0.01 & 0.02 & 0.01\\
+Parthian & \textsubarch{u}\textsubring{r}ka & gurg & \textsubarch{u} & g & 0.12 & 0.25 & 0.30 & 0.17 & 0.06 & 0.03 & 0.03 & 0.01 & 0.01 & 0.01\\
+Parthian & \textsubarch{u}a\'{\j}r(a)ka & wuzurg & \textsubarch{u} & w & 0.91 & 0.09 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \textsubarch{u}afra & wafr & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \textsubarch{u}afra & wafr & meta & no meta & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \textsubarch{u}ahuni & guxn & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \textsubarch{u}aina & w\={e}n & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \textsubarch{u}arka & wargar & \textsubarch{u} & w & 0.81 & 0.00 & 0.19 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \textsubarch{u}arka & wargar & r & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \textsubarch{u}arna-ka & warrag & \textsubarch{u} & w & 0.82 & 0.00 & 0.18 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \textsubarch{u}arna-ka & warrag & rn & (r)r & 0.00 & 0.28 & 0.34 & 0.19 & 0.07 & 0.03 & 0.04 & 0.01 & 0.02 & 0.01\\
+Parthian & \textsubarch{u}art- & ward & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \textsubarch{u}as\={i} & was & \textsubarch{u} & w & 0.48 & 0.15 & 0.18 & 0.10 & 0.04 & 0.02 & 0.02 & 0.01 & 0.01 & 0.01\\
+Parthian & \textsubarch{u}ata & wad & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \textsubarch{u}id\={a}na & wi{$\delta$}\={a}n & \textsubarch{u} & w & 0.90 & 0.00 & 0.10 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \textsubarch{u}in\={a}\'{c}a & win\={a}h & \'{c} & h & 0.48 & 0.15 & 0.18 & 0.10 & 0.04 & 0.02 & 0.02 & 0.01 & 0.01 & 0.01\\
+Parthian & \textsubarch{u}in\={a}\'{c}a & win\={a}h & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \textsubarch{u}i\textsubarch{i}ap\={a}na & wiy\={a}b\={a}n & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Parthian & \textsubarch{u}\textsubarch{i}\={a}na & gy\={a}n & \textsubarch{u} & g & 0.26 & 0.21 & 0.26 & 0.14 & 0.05 & 0.02 & 0.03 & 0.01 & 0.01 & 0.01\\
+Parthian & \'{\j}\textsubring{r}d & dil & rd & l & 0.45 & 0.16 & 0.19 & 0.11 & 0.03 & 0.02 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & (f)\v{s}up\={a}na & \v{s}ub\={a}n & \v{s} & \v{s} & 0.36 & 0.16 & 0.17 & 0.08 & 0.05 & 0.14 & 0.01 & 0.01 & 0.01 & 0.01\\
+Persian & (f)\v{s}up\={a}na & cub\={a}n & \v{s} & c & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \'{c}\textsubarch{u}aka & sag & \'{c}\textsubarch{u} & s & 0.01 & 0.25 & 0.27 & 0.12 & 0.07 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \'{c}\textsubarch{u}i\v{s}a & uspus & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \'{c}\textsubarch{u}i\v{s}a & u\v{s}pus & \'{c}\textsubarch{u} & sp & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & siy\={a}h & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & \v{s}\={a}h & \'{c}\textsubarch{i} & \v{s} & 0.01 & 0.25 & 0.27 & 0.13 & 0.08 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & a\'{c}ru & ars & \'{c}r & rs & 0.02 & 0.25 & 0.26 & 0.12 & 0.07 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & a\'{c}ru & ars & pro & no pro & 0.30 & 0.18 & 0.19 & 0.09 & 0.05 & 0.15 & 0.01 & 0.01 & 0.01 & 0.01\\
+Persian & a\'{c}\textsubarch{u}a & asb & \'{c}\textsubarch{u} & sp & 0.81 & 0.05 & 0.05 & 0.02 & 0.01 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & ar\v{s}a & xirs & rs & rs & 0.78 & 0.00 & 0.22 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & ar\v{s}a & xirs & pro & pro & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & b\textsubring{r}zant & buland & r\'{\j} & l & 0.73 & 0.07 & 0.07 & 0.03 & 0.02 & 0.06 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & barda & bel & rd & l & 0.02 & 0.25 & 0.26 & 0.12 & 0.07 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & barz\={a}d & b\={a}l\={a} & r\'{\j} & l & 0.77 & 0.06 & 0.06 & 0.03 & 0.02 & 0.05 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & cihil & r\'{c} & l & 0.00 & 0.26 & 0.27 & 0.13 & 0.08 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & da\'{c}a & da & \'{c} & h & 0.79 & 0.05 & 0.06 & 0.03 & 0.02 & 0.05 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & darn & darr\={i}dan & rn & (r)n & 0.04 & 0.25 & 0.26 & 0.12 & 0.07 & 0.21 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & g(a)rna-ka & galla & rn & l & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & gau-\'{c}\textsubarch{u}anta- & gospand & \'{c}\textsubarch{u} & sp & 0.81 & 0.05 & 0.05 & 0.02 & 0.01 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & gau-\'{c}\textsubarch{u}anta- & gosfand & \'{c}\textsubarch{u} & sp & 0.81 & 0.05 & 0.05 & 0.02 & 0.01 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & hi\'{\j}\textsubarch{u}\={a}na & zab\={a}n & \'{\j}\textsubarch{u} & zb & 0.01 & 0.25 & 0.27 & 0.12 & 0.08 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & hi\'{\j}\textsubarch{u}\={a}na & zaw\={a}n & \'{\j}\textsubarch{u} & zw & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & k\textsubring{r}mi & kirm & r & r & 0.81 & 0.05 & 0.05 & 0.02 & 0.01 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & ka\'{c}\textsubarch{i}apa & ka\v{s}af & \'{c}\textsubarch{i} & \v{s} & 0.04 & 0.25 & 0.26 & 0.12 & 0.07 & 0.21 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & laup\={a}\'{c}a & r\={u}b\={a} & \'{c} & h & 0.72 & 0.07 & 0.08 & 0.04 & 0.02 & 0.06 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & laup\={a}\'{c}a & r\={u}b\={a} & l & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & mu\v{s}ti & mu\v{s}t & \v{s}t & \v{s}t & 0.67 & 0.09 & 0.09 & 0.04 & 0.03 & 0.07 & 0.01 & 0.00 & 0.00 & 0.00\\
+Persian & p\textsubring{r}tu & p\={u}l & rt & l & 0.67 & 0.09 & 0.07 & 0.04 & 0.03 & 0.08 & 0.01 & 0.01 & 0.00 & 0.00\\
+Persian & parna & parr & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & pu{\texttheta}ra & pus & tr & s & 0.65 & 0.09 & 0.10 & 0.04 & 0.03 & 0.08 & 0.01 & 0.01 & 0.00 & 0.00\\
+Persian & r\={a}\v{s}ta & r\={a}st & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & sp\textsubring{r}zan & uspurz & r\'{\j} & r\'{\j} & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}ah\={a}ra & bah\={a}r & \textsubarch{u} & b & 0.01 & 0.25 & 0.27 & 0.12 & 0.08 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}i\'{c}ati & b\={i}st & \textsubarch{u} & b & 0.01 & 0.25 & 0.27 & 0.13 & 0.08 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}(a)rda & gul & \textsubarch{u} & g & 0.02 & 0.25 & 0.26 & 0.12 & 0.07 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}(a)rda & gul & rd & l & 0.81 & 0.05 & 0.05 & 0.02 & 0.01 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}\={a}f & b\={a}f & \textsubarch{u} & b & 0.54 & 0.13 & 0.13 & 0.06 & 0.04 & 0.08 & 0.01 & 0.01 & 0.01 & 0.00\\
+Persian & \textsubarch{u}\={a}r & b\={a}r & \textsubarch{u} & b & 0.74 & 0.05 & 0.08 & 0.04 & 0.02 & 0.06 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}\={a}ta & b\={a}d & \textsubarch{u} & b & 0.64 & 0.09 & 0.10 & 0.05 & 0.03 & 0.08 & 0.01 & 0.01 & 0.00 & 0.00\\
+Persian & \textsubarch{u}\={a}\'{\j}i(n) & b\={a}z & \textsubarch{u} & b & 0.14 & 0.22 & 0.23 & 0.11 & 0.07 & 0.19 & 0.01 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}\={a}\'{\j}i(\textsubarch{i}aka?) & b\={a}z\={i} & \textsubarch{u} & b & 0.53 & 0.13 & 0.13 & 0.05 & 0.04 & 0.11 & 0.01 & 0.01 & 0.01 & 0.00\\
+Persian & \textsubarch{u}\textsubring{r}\v{s}naka & gurusna & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}\textsubring{r}\v{s}naka & gu\v{s}na & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}\textsubring{r}\v{s}naka & gu\v{s}na & rs & \v{s} & 0.01 & 0.25 & 0.27 & 0.13 & 0.08 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}\textsubring{r}ka & gurg & \textsubarch{u} & g & 0.38 & 0.16 & 0.17 & 0.08 & 0.05 & 0.14 & 0.01 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}\textsubring{r}tka & gurda & \textsubarch{u} & g & 0.02 & 0.25 & 0.26 & 0.12 & 0.07 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}a\'{c}\textsubarch{i}a & be\v{s} & \'{c}\textsubarch{i} & \v{s} & 0.81 & 0.05 & 0.05 & 0.02 & 0.01 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}a\'{c}\textsubarch{i}a & be\v{s} & \textsubarch{u} & b & 0.03 & 0.25 & 0.26 & 0.12 & 0.07 & 0.21 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}a\'{\j}r(a)ka & buzurg & \textsubarch{u} & b & 0.54 & 0.10 & 0.13 & 0.06 & 0.04 & 0.11 & 0.01 & 0.01 & 0.01 & 0.00\\
+Persian & \textsubarch{u}a\'{\j}ra & gurz & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}afra & barf & \textsubarch{u} & b & 0.74 & 0.07 & 0.07 & 0.03 & 0.02 & 0.06 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}afra & barf & meta & meta & 0.01 & 0.25 & 0.27 & 0.13 & 0.08 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}agza & waza{$\gamma$} & \textsubarch{u} & w & 0.96 & 0.00 & 0.00 & 0.00 & 0.01 & 0.03 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}ahuni & x\={u}n & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}ah\textsubarch{i}a & bih & \textsubarch{u} & b & 0.39 & 0.16 & 0.16 & 0.08 & 0.05 & 0.13 & 0.01 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}ai\v{s}a & b\={\i}\v{s}a & \textsubarch{u} & b & 0.81 & 0.05 & 0.05 & 0.02 & 0.01 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}aic\={i}na? & b\={e}z & \textsubarch{u} & b & 0.04 & 0.25 & 0.26 & 0.12 & 0.07 & 0.21 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}aina & b\={i}n & \textsubarch{u} & b & 0.03 & 0.25 & 0.26 & 0.12 & 0.07 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}aita & b\={i}d & \textsubarch{u} & b & 0.20 & 0.21 & 0.22 & 0.10 & 0.06 & 0.18 & 0.01 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}ana & bun & \textsubarch{u} & b & 0.03 & 0.25 & 0.26 & 0.12 & 0.07 & 0.21 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}anjecaka & binji\v{s}k & \textsubarch{u} & b & 0.06 & 0.24 & 0.25 & 0.12 & 0.07 & 0.21 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}anjecaka & gunji\v{s}k & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}ar\={a}\'{\j}a & gur\={a}z & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}ar\={a}\'{\j}a & wur\={a}z & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}ara & bar & \textsubarch{u} & b & 0.74 & 0.07 & 0.07 & 0.03 & 0.02 & 0.06 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}arka & barg & \textsubarch{u} & b & 0.73 & 0.07 & 0.06 & 0.04 & 0.02 & 0.06 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}arka & barg & r & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}arna-ka & barra & \textsubarch{u} & b & 0.74 & 0.07 & 0.06 & 0.03 & 0.02 & 0.06 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}arna-ka & barra & rn & (r)r & 0.01 & 0.25 & 0.27 & 0.12 & 0.08 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}art- & gard & \textsubarch{u} & g & 0.02 & 0.25 & 0.26 & 0.12 & 0.07 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}as\={i} & bisy\={a}r & \textsubarch{u} & b & 0.81 & 0.05 & 0.05 & 0.02 & 0.01 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}at-caka & bacca & \textsubarch{u} & b & 0.62 & 0.10 & 0.10 & 0.05 & 0.03 & 0.08 & 0.01 & 0.01 & 0.00 & 0.00\\
+Persian & \textsubarch{u}ata & bad & \textsubarch{u} & b & 0.02 & 0.25 & 0.26 & 0.12 & 0.07 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}ic\={a}ra & guz\={a}r & \textsubarch{u} & g & 0.61 & 0.10 & 0.11 & 0.05 & 0.03 & 0.09 & 0.01 & 0.01 & 0.00 & 0.00\\
+Persian & \textsubarch{u}id\={a}na & giy\={a}n & \textsubarch{u} & g & 0.98 & 0.00 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}ida\textsubarch{u}\={a} & bewa & \textsubarch{u} & b & 0.03 & 0.25 & 0.26 & 0.12 & 0.07 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}in\={a}\'{c}a & gun\={a}h & \'{c} & h & 0.81 & 0.05 & 0.05 & 0.02 & 0.01 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}in\={a}\'{c}a & gun\={a}h & \textsubarch{u} & g & 0.02 & 0.25 & 0.26 & 0.12 & 0.07 & 0.22 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}i\textsubarch{i}ap\={a}na & biy\={a}b\={a}n & \textsubarch{u} & b & 0.04 & 0.25 & 0.26 & 0.12 & 0.07 & 0.21 & 0.02 & 0.01 & 0.01 & 0.01\\
+Persian & \textsubarch{u}rinji & birinj & \textsubarch{u} & b & 0.81 & 0.05 & 0.05 & 0.02 & 0.01 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}rinji & gurinj & \textsubarch{u} & g & 0.81 & 0.05 & 0.05 & 0.02 & 0.01 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}\textsubarch{i}\={a}ka & j\={a} & \textsubarch{u} & j & 0.81 & 0.05 & 0.05 & 0.02 & 0.01 & 0.04 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \textsubarch{u}\textsubarch{i}\={a}na & j\={a}n & \textsubarch{u} & j & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Persian & \'{\j}\textsubring{r}d & dil & rd & l & 0.79 & 0.06 & 0.06 & 0.03 & 0.01 & 0.05 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bandari & a\'{c}ru & xars  & \'{c}r & rs & 0.02 & 0.18 & 0.25 & 0.19 & 0.12 & 0.13 & 0.03 & 0.03 & 0.02 & 0.02\\
+Bandari & a\'{c}ru & xars  & pro & pro & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bandari & a\'{c}\textsubarch{u}a & asp & \'{c}\textsubarch{u} & sp & 0.86 & 0.03 & 0.04 & 0.03 & 0.02 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bandari & ka\'{c}\textsubarch{i}apa & k\={a}sapo\v{s}t & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bandari & sp\textsubring{r}zan & esp\"{u}l & r\'{\j} & l & 0.60 & 0.07 & 0.10 & 0.08 & 0.05 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01\\
+Bandari & \textsubarch{u}ah\={a}ra & buh\={a}r & \textsubarch{u} & b & 0.02 & 0.18 & 0.26 & 0.19 & 0.12 & 0.13 & 0.03 & 0.03 & 0.02 & 0.02\\
+Bandari & \textsubarch{u}(a)rda & gol & \textsubarch{u} & g & 0.02 & 0.18 & 0.25 & 0.19 & 0.12 & 0.13 & 0.03 & 0.03 & 0.02 & 0.02\\
+Bandari & \textsubarch{u}(a)rda & gol & rd & l & 0.86 & 0.03 & 0.04 & 0.03 & 0.02 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bandari & \textsubarch{u}\={a}\'{\j}i(\textsubarch{i}aka?) & g\={a}zi & \textsubarch{u} & g & 0.99 & 0.00 & 0.00 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bandari & \textsubarch{u}\textsubring{r}\v{s}naka & gu\v{s}na & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bandari & \textsubarch{u}\textsubring{r}\v{s}naka & gu\v{s}na & rs & \v{s} & 0.01 & 0.18 & 0.26 & 0.19 & 0.12 & 0.13 & 0.03 & 0.03 & 0.02 & 0.02\\
+Bandari & \textsubarch{u}agza & gwak & \textsubarch{u} & g & 0.99 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bandari & \textsubarch{u}aic\={i}na? & g\={i}z & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bandari & \textsubarch{u}aina & gin & \textsubarch{u} & g & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bandari & \textsubarch{u}ana & bun & \textsubarch{u} & b & 0.04 & 0.18 & 0.25 & 0.18 & 0.12 & 0.13 & 0.03 & 0.03 & 0.02 & 0.02\\
+Bandari & \textsubarch{u}ata & bad & \textsubarch{u} & b & 0.03 & 0.18 & 0.25 & 0.19 & 0.12 & 0.13 & 0.03 & 0.03 & 0.02 & 0.02\\
+Bandari & \textsubarch{u}ida\textsubarch{u}\={a} & biva & \textsubarch{u} & b & 0.04 & 0.18 & 0.25 & 0.19 & 0.12 & 0.13 & 0.03 & 0.03 & 0.02 & 0.02\\
+Bandari & \'{\j}\textsubring{r}d & del & rd & l & 0.84 & 0.03 & 0.04 & 0.03 & 0.01 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Bandari & skar & e\v{s}k\={a}l & r & l & 0.10 & 0.17 & 0.23 & 0.17 & 0.11 & 0.12 & 0.03 & 0.03 & 0.02 & 0.02\\
+Gilaki & \'{c}\textsubarch{u}aka & s{\textschwa}g & \'{c}\textsubarch{u} & s & 0.02 & 0.29 & 0.27 & 0.17 & 0.05 & 0.11 & 0.03 & 0.03 & 0.02 & 0.02\\
+Gilaki & \'{c}\textsubarch{i}\={a}\textsubarch{u}a & siy\={a} & \'{c}\textsubarch{i} & s & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gilaki & a\'{c}\textsubarch{u}a & asp & \'{c}\textsubarch{u} & sp & 0.88 & 0.03 & 0.03 & 0.02 & 0.01 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gilaki & b\textsubring{r}zant & bul{\textschwa}nd & r\'{\j} & l & 0.83 & 0.05 & 0.05 & 0.03 & 0.01 & 0.02 & 0.00 & 0.01 & 0.00 & 0.00\\
+Gilaki & barz\={a}d & b\r{a}l\r{a} & r\'{\j} & l & 0.85 & 0.04 & 0.04 & 0.03 & 0.01 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gilaki & ca{\texttheta}\textsubarch{u}\textsubring{r}\'{c}at & cel & r\'{c} & l & 0.01 & 0.29 & 0.28 & 0.17 & 0.05 & 0.11 & 0.03 & 0.03 & 0.02 & 0.02\\
+Gilaki & da\'{c}a & da & \'{c} & h & 0.87 & 0.04 & 0.04 & 0.02 & 0.01 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gilaki & hi\'{\j}\textsubarch{u}\={a}na & z{\textschwa}b\r{a}n & \'{\j}\textsubarch{u} & zb & 0.02 & 0.29 & 0.27 & 0.17 & 0.05 & 0.11 & 0.03 & 0.03 & 0.02 & 0.02\\
+Gilaki & laup\={a}\'{c}a & rub\r{a} & \'{c} & h & 0.82 & 0.05 & 0.05 & 0.03 & 0.01 & 0.02 & 0.00 & 0.01 & 0.00 & 0.00\\
+Gilaki & laup\={a}\'{c}a & rub\r{a} & l & r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gilaki & p\textsubring{r}tu & purd & rt & rt & 0.98 & 0.00 & 0.02 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gilaki & parna & p{\textschwa}r & rn & (r)r & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gilaki & pu{\texttheta}ra & p{\textschwa}s{\textschwa}r & tr & s & 0.77 & 0.07 & 0.07 & 0.04 & 0.01 & 0.03 & 0.01 & 0.01 & 0.01 & 0.00\\
+Gilaki & r\={a}\v{s}ta & r\r{a}st & \v{s}t & st & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gilaki & \textsubarch{u}ah\={a}ra & b{\textschwa}h\r{a}r & \textsubarch{u} & b & 0.02 & 0.29 & 0.27 & 0.17 & 0.05 & 0.11 & 0.03 & 0.03 & 0.02 & 0.02\\
+Gilaki & \textsubarch{u}i\'{c}ati & bist & \textsubarch{u} & b & 0.02 & 0.29 & 0.28 & 0.17 & 0.05 & 0.11 & 0.03 & 0.03 & 0.02 & 0.02\\
+Gilaki & \textsubarch{u}(a)rda & gul & \textsubarch{u} & g & 0.03 & 0.28 & 0.27 & 0.17 & 0.05 & 0.11 & 0.03 & 0.03 & 0.02 & 0.02\\
+Gilaki & \textsubarch{u}(a)rda & gul & rd & l & 0.88 & 0.03 & 0.03 & 0.02 & 0.01 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gilaki & \textsubarch{u}\={a}f & b\r{a}f & \textsubarch{u} & b & 0.67 & 0.10 & 0.10 & 0.06 & 0.02 & 0.03 & 0.01 & 0.01 & 0.01 & 0.01\\
+Gilaki & \textsubarch{u}\={a}r & b\r{a}r{\textschwa}\v{s} & \textsubarch{u} & b & 0.83 & 0.04 & 0.05 & 0.03 & 0.01 & 0.02 & 0.00 & 0.01 & 0.00 & 0.00\\
+Gilaki & \textsubarch{u}\={a}ta & b\r{a}d & \textsubarch{u} & b & 0.76 & 0.07 & 0.07 & 0.04 & 0.01 & 0.03 & 0.01 & 0.01 & 0.01 & 0.00\\
+Gilaki & \textsubarch{u}\={a}\'{\j}i(\textsubarch{i}aka?) & b\r{a}zi & \textsubarch{u} & b & 0.67 & 0.10 & 0.10 & 0.04 & 0.02 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01\\
+Gilaki & \textsubarch{u}\textsubring{r}\v{s}naka & vi\v{s}ta & \textsubarch{u} & w & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gilaki & \textsubarch{u}\textsubring{r}ka & gurg & \textsubarch{u} & g & 0.52 & 0.14 & 0.13 & 0.08 & 0.02 & 0.05 & 0.01 & 0.01 & 0.01 & 0.01\\
+Gilaki & \textsubarch{u}a\'{\j}r(a)ka & buzurg & \textsubarch{u} & b & 0.68 & 0.08 & 0.10 & 0.06 & 0.02 & 0.04 & 0.01 & 0.01 & 0.01 & 0.01\\
+Gilaki & \textsubarch{u}ahuni & xun & \textsubarch{u} & x & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gilaki & \textsubarch{u}art- & g{\textschwa}rd- & \textsubarch{u} & g & 0.03 & 0.28 & 0.27 & 0.17 & 0.05 & 0.11 & 0.03 & 0.03 & 0.02 & 0.02\\
+Gilaki & \textsubarch{u}ata & b{\textschwa}d & \textsubarch{u} & b & 0.03 & 0.28 & 0.27 & 0.17 & 0.05 & 0.11 & 0.03 & 0.03 & 0.02 & 0.02\\
+Gilaki & \textsubarch{u}ic\={a}ra & guz{\textschwa}r & \textsubarch{u} & g & 0.73 & 0.08 & 0.07 & 0.05 & 0.01 & 0.03 & 0.01 & 0.01 & 0.01 & 0.00\\
+Gilaki & \textsubarch{u}in\={a}\'{c}a & gun\twoacc[\'|\r{a}] & \'{c} & h & 0.88 & 0.03 & 0.03 & 0.02 & 0.01 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gilaki & \textsubarch{u}in\={a}\'{c}a & gun\twoacc[\'|\r{a}] & \textsubarch{u} & g & 0.03 & 0.28 & 0.27 & 0.17 & 0.05 & 0.11 & 0.03 & 0.03 & 0.02 & 0.02\\
+Gilaki & \textsubarch{u}i\textsubarch{i}ap\={a}na & biy\r{a}b\r{a}n & \textsubarch{u} & b & 0.06 & 0.27 & 0.26 & 0.16 & 0.04 & 0.10 & 0.03 & 0.03 & 0.02 & 0.02\\
+Gilaki & \textsubarch{u}rinji & b{\textschwa}r{\textschwa}n\v{\j} & \textsubarch{u} & b & 0.88 & 0.03 & 0.03 & 0.02 & 0.01 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gilaki & \textsubarch{u}\textsubarch{i}\={a}ka & \v{\j}\r{a}y & \textsubarch{u} & j & 0.88 & 0.03 & 0.03 & 0.02 & 0.01 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gilaki & \textsubarch{u}\textsubarch{i}\={a}na & \v{\j}\r{a}n & \textsubarch{u} & j & 1.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00 & 0.00\\
+Gilaki & \'{\j}\textsubring{r}d & dil & rd & l & 0.87 & 0.04 & 0.04 & 0.02 & 0.00 & 0.01 & 0.00 & 0.00 & 0.00 & 0.00\\
