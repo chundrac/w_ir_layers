@@ -3,11 +3,6 @@ import theano.tensor as tt
 import theano
 import numpy as np
 from collections import defaultdict
-from numpy.random import multinomial,randint,binomial
-from numpy.random import gamma as Gamma
-from numpy.random import beta as Beta
-from numpy import exp,log
-from functools import reduce
 #theano.config.gcc.cxxflags = "-fbracket-depth=6000"
 #THEANO_FLAGS = "-fbracket-depth=6000"
 import pickle as pkl
