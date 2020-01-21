@@ -9,6 +9,7 @@ import pickle as pkl
 
 
 def generate_data():
+    """make data and variables"""
     change_list = []
     for line in open('change_list.csv','r'):
         change_list.append(line.strip('\n').split('\t'))
@@ -51,12 +52,14 @@ change_list_final,langs,S,X,R,N,L,lang_binary,feat_binary = generate_data()
 
 
 def GEM(beta):
+    """griffiths-engen-mccloskey distribution"""
     pi = tt.concatenate([[1], tt.extra_ops.cumprod(1 - beta)[:-1]])
     return (beta * pi)
 
 
 
 def logprob(theta,phi):
+    """log-likelihood function, with discrete latent variables marginalized out"""
     def lprob(lang_array,feat_array):
         lps = pm.math.logsumexp(
                    tt.dot(lang_array      #N by L matrix
